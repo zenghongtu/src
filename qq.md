@@ -254,6 +254,34 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [iteye](http://alanland.iteye.com/blog/1878595)
 - [ruanyifeng](http://javascript.ruanyifeng.com/library/d3.html)
 
+####13. 兼容性
+- [esma 兼容列表](http://kangax.github.io/compat-table/es6/)
+- [caniuse](http://caniuse.com/#index )
+- [csscreator](http://csscreator.com/properties)
+- [microsoft](http://msdn.microsoft.com/zh-cn/library/cc351024(v=vs.85).aspx)
+
+####14. UI相关
+
+- [bootcss](http://v3.bootcss.com/)
+- [MetroUICSS](http://www.w3cplus.com/MetroUICSS/)
+- [semantic](http://semantic-ui.com/)
+- [Buttons](http://alexwolfe.github.io/Buttons/)
+- [kitecss](http://hiloki.github.io/kitecss/)
+- [pintuer](http://www.pintuer.com/)
+- [amazeui](http://amazeui.org/)
+- [worldhello](http://www.worldhello.net/gotgithub/index.html)
+- [linuxtoy](http://igit.linuxtoy.org/contents.html)
+- [gitmagic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
+- [rogerdudler](http://rogerdudler.github.io/git-guide/index.zh.html)
+- [gitref](http://gitref.justjavac.com/)
+- [book](http://git-scm.com/book/zh)
+- [gogojimmy](http://gogojimmy.net/2012/01/17/how-to-use-git-1-git-basic/)
+
+####14. http
+
+- [HTTP API 设计指南](http://segmentfault.com/bookmark/1230000002521721)
+
+
 ###七. 开发规范
 
 - [前端编码规范之js](http://yuwenhui.github.io/)
