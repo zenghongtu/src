@@ -23,10 +23,8 @@ input,button,select,textarea{ outline:none;}
 textarea{ font-size:13px; resize:none;}
 ```
 
-- 文字换行
-```css
-[去掉chrome记住密码后自动填充表单的黄色背景](http://www.tuicool.com/articles/EZ777n )
-```
+- [去掉chrome记住密码后自动填充表单的黄色背景](http://www.tuicool.com/articles/EZ777n )
+
 - ie6: position:fixed
 ```css
 .fixed-top /* position fixed Top */{position:fixed;bottom:auto;top:0; }
