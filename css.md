@@ -182,15 +182,33 @@ autocomplete="off"
 ```
 - 手机版本网页a标记虚线框问题
 ```css
-a:focus { outline:none; -moz-outline:none; }
+a:focus {outline:none;-moz-outline:none;}
 ```
 - 焦点去除背景
 ```css
--webkit-tap-highlight-color: rgba(255, 255, 255, 0);
--webkit-tap-highlight-color: transparent;  // i.e. Nexus5/Chrome and Kindle Fire HD 7''
+-webkit-tap-highlight-color:rgba(255, 255, 255, 0);
+-webkit-tap-highlight-color:transparent;  // i.e. Nexus5/Chrome and Kindle Fire HD 7''
 ```
 - placeholder占位符颜色自定义
 ```css
-input:-moz-placeholder { color: #369; }
-::-webkit-input-placeholder { color:#369; }
+input:-moz-placeholder {color: #369;}
+::-webkit-input-placeholder {color:#369;}
 ```
+
+- [IOS 禁用高亮](http://hi.barretlee.com/2014/03/31/tap-highlight-in-webview/)
+```css
+-webkit-tap-highlight-color:rgba(255,0,0,0.5);-webkit-tap-highlight-color:transparent; /* For some Androids */
+```
+
+- [用户不能选择元素中的任何内容](http://www.qianduan.net/introduce-user-select/)
+```css
+user-select:none
+```
+
+- IOS iframe 滚动 [滚动回弹特效](http://www.cnblogs.com/flash3d/archive/2013/09/28/3343877.html)
+```css
+-webkit-overflow-scrolling:touch;overflow-y:scroll;
+```
+
+
+
