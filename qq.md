@@ -83,14 +83,30 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - 提问之前最好百度，google过，着重培养的是一种能力或方法，不是一个结果。
 - 不建议直接索要代码，可以追问技术实现的思路或方法。
 
-###五. 综合类资源:
+###五. 资源:
 
 - [前端知识体系](http://www.cnblogs.com/sb19871023/p/3894452.html)
 - [前端知识结构](https://github.com/JacksonTian/fks)
 - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 - [前端书籍](https://github.com/dypsilon/frontend-dev-bookmarks)
+- [前端入门教程](http://www.cnblogs.com/jikey/p/3613082.html)
+- [前端知识体系](http://www.cnblogs.com/sb19871023/p/3894452.html)
+- [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
+- [张鑫旭 - 慕课系列](http://www.imooc.com/space/teacher/id/197450)
+- [智能社 - 精通JavaScript开发](http://study.163.com/course/introduction/224014.htm)
+- [lyn - 慕课系列](http://www.imooc.com/space/teacher/id/104593)
+- [css sprite 雪碧图制作](http://www.imooc.com/learn/93)
+- [瘳雪峰的Javascript教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
 
 ###六. API:
+
+####0. 开发中心
+- [mozilla js参考](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+- [chrome开发中心（chrome的内核已转向blink）](http://developer.chrome.com/extensions/api_index.html)
+- [safari开发中心](https://developer.apple.com/library/safari/navigation)
+- [microsoft js参考](http://msdn.microsoft.com/zh-cn/library/d1et7k7c(v=vs.94).aspx)
+- [js秘密花园](http://sanshi.me/articles/JavaScript-Garden-CN/html/index.html)
+- [js秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 
 ####1. jQuery
 
@@ -101,6 +117,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 * [devdocs](http://devdocs.io/)
 * [jqschool](http://api.jq-school.com/)
 * [学习jquery](http://learn.jquery.com/)
+* [jquery 源码查找](http://james.padolsey.com/jquery/)
 
 ####2. Ecmascript
 
@@ -214,6 +231,26 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [less](http://less.bootcss.com/)
 - [sass](http://www.w3cplus.com/sassguide/)
 - [sass中国](http://www.cn-sass.com/)
+
+####11. 其它
+- [验证api](http://niceue.com/validator/demo/index.php)
+- [underscore 中文手册](http://www.css88.com/doc/underscore/)
+- [underscore源码分析](http://www.html-js.com/article/Underscorejs-source-code-analysis-of-underscorejs-source-code-analysis%203031)
+- [underscrejs en api](http://underscorejs.org/)
+- [ext4api](http://extjs-doc-cn.github.io/ext4api/)
+- [backbone 中文手册](http://www.csser.com/tools/backbone/backbone.js.html)
+- [qwrap手册](http://dev.qwrap.com/resource/js/_docs/_youa/#/qw/base/loadJs_.htm)
+- [缓动函数](http://easings.net/zh-cn)
+- [svg 中文参考](http://www.w3school.com.cn/svg/svg_reference.asp)
+- [svg mdn参考](https://developer.mozilla.org/en-US/docs/Web/SVG)
+- [腾讯css3动画制作工具](http://isux.tencent.com/css3/tools.html)
+
+
+####12. D3
+- [Tutorials](https://github.com/mbostock/d3/wiki/Tutorials)
+- [lofter](http://datavisual.lofter.com/post/40cf3a_188e535)
+- [iteye](http://alanland.iteye.com/blog/1878595)
+- [ruanyifeng](http://javascript.ruanyifeng.com/library/d3.html)
 
 ###七. 开发规范
 
