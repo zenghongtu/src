@@ -213,6 +213,7 @@ user-select:none
 -moz-user-select:none;
 -webkit-user-select:none;
 -ms-user-select:none;
+user-select:none;
 ```
 - [模糊(毛玻璃)效果1](http://www.zhangxinxu.com/wordpress/2013/11/%E5%B0%8Ftip-%E4%BD%BF%E7%94%A8css%E5%B0%86%E5%9B%BE%E7%89%87%E8%BD%AC%E6%8D%A2%E6%88%90%E6%A8%A1%E7%B3%8A%E6%AF%9B%E7%8E%BB%E7%92%83%E6%95%88%E6%9E%9C/)
 - [模糊(毛玻璃)效果2](http://mao.li/css3-blur-filter-pratice/)
