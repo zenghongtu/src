@@ -288,6 +288,8 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [gitbook](https://www.gitbook.com/)
 - [mdeditor](https://www.zybuluo.com/mdeditor)
 
+####17. CSS
+- [CSS3动画手册](http://isux.tencent.com/css3/index.html)
 
 ###七. 开发规范
 
