@@ -277,9 +277,16 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [book](http://git-scm.com/book/zh)
 - [gogojimmy](http://gogojimmy.net/2012/01/17/how-to-use-git-1-git-basic/)
 
-####15. http
+####15. HTTP
 
 - [HTTP API 设计指南](http://segmentfault.com/bookmark/1230000002521721)
+
+####16. Markdown
+
+- [Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown/)
+- [markdown入门参考](https://github.com/LearnShare/Learning-Markdown/blob/master/README.md)
+- [gitbook](https://www.gitbook.com/)
+- [mdeditor](https://www.zybuluo.com/mdeditor)
 
 
 ###七. 开发规范
