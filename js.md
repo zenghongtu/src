@@ -6,7 +6,7 @@
 Math.random()*(n-m)+m
 ```
 
-#### 2. 微信 weixin [http://loo2k.com/blog/detecting-wechat-client/](http://loo2k.com/blog/detecting-wechat-client/)
+#### 2. [微信 weixin](http://loo2k.com/blog/detecting-wechat-client/)
 
 - UserAgent 判断微信客户端
 ```javascript
