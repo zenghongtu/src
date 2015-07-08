@@ -142,6 +142,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [artDialog 文档](http://aui.github.io/artDialog/doc/index.html)
 - [google code 下载地址](https://code.google.com/p/artdialog/downloads/list)
 - [贤心弹出层](http://sentsin.com/jquery/layer/)
+- [响应式用户交互组件库](https://github.com/bh-lay/UI)
 
 ####5. CSS
 - [CSS3动画手册](http://isux.tencent.com/css3/index.html)
@@ -271,6 +272,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [markdown入门参考](https://github.com/LearnShare/Learning-Markdown/blob/master/README.md)
 - [gitbook](https://www.gitbook.com/)
 - [mdeditor](https://www.zybuluo.com/mdeditor)
+- [mditor](http://bh-lay.github.io/mditor/) 一款轻量级的markdown编辑器
 
 ####17. 
 
