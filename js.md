@@ -6,14 +6,14 @@
 Math.random()*(n-m)+m
 ```
 
-#### 2. 微信 weixin
+#### 2. 微信 weixin [http://loo2k.com/blog/detecting-wechat-client/](http://loo2k.com/blog/detecting-wechat-client/)
 
 - UserAgent 判断微信客户端
 ```javascript
 // Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70 MicroMessenger/6.1.5 NetType/WIFI
 function isWechat() {  
     var ua = navigator.userAgent.toLowerCase();
-    return /micromessenger/i.test(ua);
+    return /micromessenger/i.test(ua) || /windows phone/i.test(ua);
 }
 ```
 
