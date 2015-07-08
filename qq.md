@@ -277,7 +277,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [book](http://git-scm.com/book/zh)
 - [gogojimmy](http://gogojimmy.net/2012/01/17/how-to-use-git-1-git-basic/)
 
-####14. http
+####15. http
 
 - [HTTP API 设计指南](http://segmentfault.com/bookmark/1230000002521721)
 
@@ -298,3 +298,8 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [百度前端规范](http://isobar-idev.github.io/code-standards/)
 - [百度前端规范](http://zhuanlan.zhihu.com/fuyun/19884834)
 - [【敏捷开发】Android团队开发规范](http://www.cnblogs.com/lcw/p/3619181.html)
+
+###八. 其它收集
+
+####1. html5
+- [HTML5 有哪些让你惊艳的 demo？](http://www.zhihu.com/question/24398907)
