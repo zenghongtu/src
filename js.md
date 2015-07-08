@@ -8,6 +8,15 @@ Math.random()*(n-m)+m
 
 #### 2. 微信 weixin
 
+- UserAgent 判断微信客户端
+```javascript
+// Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70 MicroMessenger/6.1.5 NetType/WIFI
+function isWechat() {  
+    var ua = navigator.userAgent.toLowerCase();
+    return /micromessenger/i.test(ua);
+}
+```
+
 - JS接口安全域名不填写，分享onMenuShareAppMessage直接会取默认值。
 ```javascript
 // 分享onMenuShareAppMessage直接会取默认值
