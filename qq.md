@@ -345,12 +345,15 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 ###十三. iconfont
 - [中文字体](http://www.zhihu.com/question/21253343)
 
-###十四. JS效果收集
+###十四. JS功能效果收集
 ####1. 综合效果搜索平台
 - [效果网](http://www.jq22.com)
 
 ####2. 轮播图
 - [sochange](http://www.jsfoot.com/jquery/demo/2011-09-20/192.html)
+
+####3. 文件上传
+- [百度上传组件](http://fex.baidu.com/webuploader/)
 
 ###十五. 前端导航网站
 - [界面清爽的前端导航](http://uxbees.com/index.html)
