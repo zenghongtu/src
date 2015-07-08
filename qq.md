@@ -143,24 +143,8 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [google code 下载地址](https://code.google.com/p/artdialog/downloads/list)
 - [贤心弹出层](http://sentsin.com/jquery/layer/)
 
-####5. Nodejs
-
-- [nodejs 篇幅比较巨大](http://liuqing.pw/)
-- [篇幅比较少](http://rainweb.cn/article/category/Nodejs)
-- [node express 入门教程](http://www.w3cfuns.com/article-5598538-1-1.html)
-- [nodejs定时任务](http://my.oschina.net/u/568264/blog/193773)
-- [一个nodejs博客](http://60sky.com/)
-- [【NodeJS 学习笔记04】新闻发布系统](http://www.cnblogs.com/yexiaochai/p/3536547.html)
-- [过年7天乐，学nodejs 也快乐](http://www.cnblogs.com/qqloving/p/3541099.html)
-- [七天学会NodeJS](https://github.com/nqdeng/7-days-nodejs)
-- [Nodejs学习笔记（二）--- 事件模块](http://www.cnblogs.com/zhongweiv/p/nodejs_events.html)
-- [nodejs入门](http://www.cnblogs.com/liusuqi/p/3735491.html)
-- [angularjs nodejs](https://github.com/zensh/jsgen)
-- [从零开始nodejs系列文章](http://blog.fens.me/series-nodejs/)
-- [理解nodejs](http://debuggable.com/posts/understanding-node-js:4bd98440-45e4-4a9a-8ef7-0f7ecbdd56cb)
-- [nodejs事件轮询](http://blog.mixu.net/2011/02/01/understanding-the-node-js-event-loop/)
-- [node入门](http://www.nodebeginner.org/index-zh-cn.html)
-- [nodejs cms](http://ourjs.com/detail/53e1f281c5910a9806000001)
+####5. CSS
+- [CSS3动画手册](http://isux.tencent.com/css3/index.html)
 
 ####6. Angularjs
 
@@ -288,8 +272,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [gitbook](https://www.gitbook.com/)
 - [mdeditor](https://www.zybuluo.com/mdeditor)
 
-####17. CSS
-- [CSS3动画手册](http://isux.tencent.com/css3/index.html)
+####17. 
 
 ###七. 开发规范
 
@@ -310,5 +293,66 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 ###八. 其它收集
 
-####1. html5
+####1. Javascript
+
+
+####2. Html5
 - [HTML5 有哪些让你惊艳的 demo？](http://www.zhihu.com/question/24398907)
+
+####3. CSS
+
+####4. jQuery
+
+####5. Ext, Easyui, J-ui
+
+####6. Chrome, Firebug, Filddle 调试
+- [Fiddler调式使用知多少(一)深入研究](http://www.cnblogs.com/tugenhua0707/p/4623317.html)
+
+####6. Chrome, Firebug, Filddle 调试
+
+###九. Nodejs
+- [nodejs 篇幅比较巨大](http://liuqing.pw/)
+- [篇幅比较少](http://rainweb.cn/article/category/Nodejs)
+- [node express 入门教程](http://www.w3cfuns.com/article-5598538-1-1.html)
+- [nodejs定时任务](http://my.oschina.net/u/568264/blog/193773)
+- [一个nodejs博客](http://60sky.com/)
+- [【NodeJS 学习笔记04】新闻发布系统](http://www.cnblogs.com/yexiaochai/p/3536547.html)
+- [过年7天乐，学nodejs 也快乐](http://www.cnblogs.com/qqloving/p/3541099.html)
+- [七天学会NodeJS](https://github.com/nqdeng/7-days-nodejs)
+- [Nodejs学习笔记（二）--- 事件模块](http://www.cnblogs.com/zhongweiv/p/nodejs_events.html)
+- [nodejs入门](http://www.cnblogs.com/liusuqi/p/3735491.html)
+- [angularjs nodejs](https://github.com/zensh/jsgen)
+- [从零开始nodejs系列文章](http://blog.fens.me/series-nodejs/)
+- [理解nodejs](http://debuggable.com/posts/understanding-node-js:4bd98440-45e4-4a9a-8ef7-0f7ecbdd56cb)
+- [nodejs事件轮询](http://blog.mixu.net/2011/02/01/understanding-the-node-js-event-loop/)
+- [node入门](http://www.nodebeginner.org/index-zh-cn.html)
+- [nodejs cms](http://ourjs.com/detail/53e1f281c5910a9806000001)
+
+###十. 个人作品
+
+####1. 推荐作品
+- [fgm](http://www.fgm.cc/learn/)
+
+####2. 群员作品
+- [mdialog - [合肥-M.J]](http://demo.webjyh.com/)
+
+###十一. 简历模板
+- [不错的个人简历](http://learnshare.github.io/about/index.html)
+
+###十二. 面试题
+- [2014最新面试题](http://www.html-js.com/article/1743)
+
+###十三. iconfont
+- [中文字体](http://www.zhihu.com/question/21253343)
+
+###十四. JS效果收集
+####1. 综合效果搜索平台
+- [效果网](http://www.jq22.com)
+
+####2. 轮播图
+- [sochange](http://www.jsfoot.com/jquery/demo/2011-09-20/192.html)
+
+###十五. 前端导航网站
+- [界面清爽的前端导航](http://uxbees.com/index.html)
+- [前端导航](http://whycss.com/)
+
