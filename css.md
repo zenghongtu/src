@@ -208,5 +208,12 @@ user-select:none
 -webkit-overflow-scrolling:touch;overflow-y:scroll;
 ```
 
+- [禁止选中文本](http://www.qianduan.net/introduce-user-select/)
+```css
+-moz-user-select:none;
+-webkit-user-select:none;
+-ms-user-select:none;
+```
+
 
 
