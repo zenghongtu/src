@@ -106,9 +106,15 @@ line-height: normal; /* for non-ie */
 line-height: 22px\9; /* for ie */
 ```
 - title 换行
-```css
+```html
 &#13;
 ```
+
+- 关闭 x 符号
+```html
+&#215;
+```
+
 - [全部浏览器的兼容代码生成](http://www.colorzilla.com/gradient-editor/ )
 [CSS 实现 textArea 的 placeholder 换行](http://segmentfault.com/a/1190000000362621)
 
