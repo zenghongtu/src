@@ -79,9 +79,9 @@ cursor:not-allowed;
 font-family:"Hiragino Sans GB","Hiragino Sans GB W3",'微软雅黑';
 ```
 
-- 省略号
+- 文字过多后显示省略号
 ```css
-.ellipsis{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.ellipsis,.ell{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 ```
 
 #### 2. css 3
@@ -214,6 +214,40 @@ user-select:none
 -webkit-user-select:none;
 -ms-user-select:none;
 ```
+- [模糊(毛玻璃)效果1](http://www.zhangxinxu.com/wordpress/2013/11/%E5%B0%8Ftip-%E4%BD%BF%E7%94%A8css%E5%B0%86%E5%9B%BE%E7%89%87%E8%BD%AC%E6%8D%A2%E6%88%90%E6%A8%A1%E7%B3%8A%E6%AF%9B%E7%8E%BB%E7%92%83%E6%95%88%E6%9E%9C/)
+- [模糊(毛玻璃)效果2](http://mao.li/css3-blur-filter-pratice/)
+- [模糊(毛玻璃)逼真效果](http://codepen.io/ariona/pen/geFIK)
+```css
+.blur {    
+    -webkit-filter: blur(10px); /* Chrome, Opera */
+       -moz-filter: blur(10px);
+        -ms-filter: blur(10px);    
+            filter: blur(10px);    
+}
+```
+```html
+<img src="mm1.jpg" />
+<img src="mm1.jpg" class="blur" />
+```
 
+- 显示旋转加载图片，[下拉加载数据](https://github.com/chalecao/chale/blob/master/iscroll.js)
+```css
+#pullDown .pullDownIcon{display:inline-block;vertical-align:middle;width:40px;height:40px;background:url(https://github.com/chalecao/chale/blob/master/pull-icon%402x.png) 0 0 no-repeat;-webkit-background-size:40px 80px;background-size:40px 80px;-webkit-transition-property:-webkit-transform;-webkit-transition-duration:250ms}
+#pullDown .pullDownIcon{-webkit-transform:rotate(0deg) translateZ(0)}
+#pullDown .pullDownLabel{display:inline-block;vertical-align:middle;margin-left:5px;}
+#pullDown.flip .pullDownIcon{-webkit-transform:rotate(-180deg) translateZ(0)}
+#pullDown.loading .pullDownIcon{background-position:0 100%;-webkit-transform:rotate(0deg) translateZ(0);-webkit-transition-duration:0ms;-webkit-animation-name:loading;-webkit-animation-duration:2s;-webkit-animation-iteration-count:infinite;-webkit-animation-timing-function:linear}
+@-webkit-keyframes loading{
+    from{-webkit-transform:rotate(0deg) translateZ(0)}
+    to{-webkit-transform:rotate(360deg) translateZ(0)}
+}
+
+```
+
+```html
+<div id="pullDown" class="none loading">
+    <span class="pullDownIcon"></span><span class="pullDownLabel">正在载入中...</span>
+</div>
+```
 
 
