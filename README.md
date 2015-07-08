@@ -3,6 +3,7 @@
 
 - [QQ 群规](//github.com/jsfront/src/blob/master/qq.md)
 - [CSS 常用代码](//github.com/jsfront/src/blob/master/css.md)
+- [JS 常用代码](//github.com/jsfront/src/blob/master/js.md)
 
 
 # 加群说明
