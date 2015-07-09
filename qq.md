@@ -85,7 +85,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - 提问之前最好百度，google过，着重培养的是一种能力或方法，不是一个结果。
 - 不建议直接索要代码，可以追问技术实现的思路或方法。
 
-###五. 资源:
+###五. 资源教程:
 
 - [前端知识体系](http://www.cnblogs.com/sb19871023/p/3894452.html)
 - [前端知识结构](https://github.com/JacksonTian/fks)
@@ -99,6 +99,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [lyn - 慕课系列](http://www.imooc.com/space/teacher/id/104593)
 - [css sprite 雪碧图制作](http://www.imooc.com/learn/93)
 - [瘳雪峰的Javascript教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
+- [焦点图轮播特效](http://www.imooc.com/learn/18)
 
 ###六. API:
 
