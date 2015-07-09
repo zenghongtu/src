@@ -330,6 +330,13 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [node入门](http://www.nodebeginner.org/index-zh-cn.html)
 - [nodejs cms](http://ourjs.com/detail/53e1f281c5910a9806000001)
 
+###十. 性能优化
+- [Javascript高性能动画与页面渲染](http://www.infoq.com/cn/articles/javascript-high-performance-animation-and-page-rendering)
+- [移动H5前端性能优化指南](http://isux.tencent.com/h5-performance.html)
+- []()
+
+###十一. 前端架构
+
 ###十. 个人作品
 
 ####1. 推荐作品
