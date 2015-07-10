@@ -1,6 +1,6 @@
 ### 以下是常用的代码收集，没有任何技术含量，只是填坑的积累。转载请注明出处，谢谢。
 
-#### 1. js
+#### 1. PC - js
 - 返回指定范围的随机数(m-n之间)的公式
 ```javascript
 Math.random()*(n-m)+m
@@ -15,8 +15,10 @@ Math.random()*(n-m)+m
 // 他会做event.stopPropagation();
 // 停止callback function的执行并且立即return回来
 ```
+#### 2. Mobile - js
 
-#### 2. [微信 weixin](http://loo2k.com/blog/detecting-wechat-client/)
+
+#### 3. [微信 weixin](http://loo2k.com/blog/detecting-wechat-client/)
 
 - UserAgent 判断微信客户端
 ```javascript
