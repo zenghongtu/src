@@ -321,7 +321,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [Chrome - 移动](http://www.cnblogs.com/constantince/p/4624241.html)
 - [Chrome - 使用技巧](http://www.cnblogs.com/liyunhua/p/4544738.html)
 - [Chrome - Console控制台不完全指南](http://www.cnblogs.com/Wayou/p/chrome-console-tips-and-tricks.html)
-- [Chrome - Workspace使浏览器编程IDE](http://c7sky.com/chrome-devtools-workspace.html)
+- [Chrome - Workspace使浏览器变成IDE](http://c7sky.com/chrome-devtools-workspace.html)
 
 ####6. Chrome, Firebug, Filddle 调试
 
