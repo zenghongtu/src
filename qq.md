@@ -393,6 +393,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [jyg 游戏案例](http://www.lovewebgames.com/)
 - [很多jquery插件](http://www.helloweba.com/list.html)
 - [soJs 作品系列](http://www.bujichong.com/sojs/api/index.html)
+- [frozenui](http://frozenui.github.io/case.html)
 
 ####2. 群员作品
 - [mdialog - [合肥-M.J]](http://demo.webjyh.com/)
