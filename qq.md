@@ -286,6 +286,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [HTML&CSS编码规范 by @mdo](http://codeguide.bootcss.com/)
 - [前端编码规范之js - by yuwenhui](http://yuwenhui.github.io/)
 - [前端编码规范之js - by 李靖](http://www.cnblogs.com/hustskyking/p/javascript-spec.html)
+- [Airbnb JavaScript 编码规范（简体中文版）](https://github.com/yuche/javascript#table-of-contents)
 - [最流行的PHP 代码规范](http://segmentfault.com/a/1190000000443795)
 - [最流行的PHP 代码规范](https://github.com/hfcorriez/fig-standards/blob/zh_CN/%E6%8E%A5%E5%8F%97/PSR-2-coding-style-guide.md)
 - [AMD与CMD规范的区别](http://www.zhihu.com/question/20351507)
