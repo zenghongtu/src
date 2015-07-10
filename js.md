@@ -6,6 +6,16 @@
 Math.random()*(n-m)+m
 ```
 
+- [return false](http://stackoverflow.com/questions/1357118/event-preventdefault-vs-return-false)
+```javascript
+// event.preventDefault()会阻挡预设要发生的事件.
+// event.stopPropagation()会阻挡发生冒泡事件.
+// 而return false则是前面两者的事情他都会做：
+// 他会做event.preventDefault();
+// 他会做event.stopPropagation();
+// 停止callback function的执行并且立即return回来
+```
+
 #### 2. [微信 weixin](http://loo2k.com/blog/detecting-wechat-client/)
 
 - UserAgent 判断微信客户端
