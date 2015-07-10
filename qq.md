@@ -368,6 +368,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 ###十二. 个人作品
 
 ####1. 推荐作品
+- [winter代码片段需要翻墙](https://gist.github.com/wintercn)
 - [fgm](http://www.fgm.cc/learn/)
 - [岑安作品集](https://github.com/hongru/hongru.github.com)
 - [当耐特demo集合](http://kmdjs.github.io/)
