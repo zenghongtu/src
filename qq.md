@@ -5,6 +5,7 @@
 后来想：传播使爱更有力量，阅读使内心更为坚强，沉淀使生活更为醇香，分享使人更为谦卑或快乐。因为快乐，所以分享。
 知识资源来源于互联网，应该返回给互联网，使看到的每一个人受益，也可以供其它各个行业的群主引用。
 规则会不断的修改调整，你不在是一个阅读者，更是一个项目参与者内容规则的创造者，欢迎fork之后pull。
+以下个人网站作品，简历等信息有的未经征得本人同意，如有不便之处请联系我，或fork之后删除在pull，我们的心愿是在技术层面进行交流或学习，同时释放自己的激情或梦想。
 
 ---
 
@@ -398,6 +399,18 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 ###十一. 简历模板
 - [不错的个人简历](http://learnshare.github.io/about/index.html)
+- [简历](http://hcy2367.github.io/resume/)
+- [张伦](http://ncuey.sinaapp.com/CrispElite/ )
+- [简历](https://github.com/hacke2/ResumeSample)
+- [翁天信](http://blog.dandyweng.com/2013/07/how-my-website-was-created/)
+- [动画方式的简历](http://www.webhek.com/misc/interactive-resume/)
+- [组件丰富简历](http://www.linqing07.com/resume.html)
+- [简历池](http://www.mojianli.com/resume/view)
+- [haorooms博客](http://www.haorooms.com/about)
+- [Justin Young](http://cv.youngdze.com/)
+- []()
+- []()
+- []()
 
 ###十二. 面试题
 - [2014最新面试题](http://www.html-js.com/article/1743)
