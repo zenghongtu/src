@@ -110,6 +110,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [microsoft js参考](http://msdn.microsoft.com/zh-cn/library/d1et7k7c(v=vs.94).aspx)
 - [js秘密花园](http://sanshi.me/articles/JavaScript-Garden-CN/html/index.html)
 - [js秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
+- [开源中国在线API文档合集](http://tool.oschina.net/apidocs)
 
 ####1. jQuery
 
@@ -146,6 +147,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [响应式用户交互组件库](https://github.com/bh-lay/UI)
 
 ####5. CSS
+- [CSS 语法参考](http://tympanus.net/codrops/css_reference/)
 - [CSS3动画手册](http://isux.tencent.com/css3/index.html)
 
 ####6. Angularjs
@@ -279,8 +281,9 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 ###七. 开发规范
 
-- [前端编码规范之js](http://yuwenhui.github.io/)
-- [前端编码规范之js](http://www.cnblogs.com/hustskyking/p/javascript-spec.html)
+- [HTML&CSS编码规范 by @mdo](http://codeguide.bootcss.com/)
+- [前端编码规范之js - by yuwenhui](http://yuwenhui.github.io/)
+- [前端编码规范之js - by 李靖](http://www.cnblogs.com/hustskyking/p/javascript-spec.html)
 - [最流行的PHP 代码规范](http://segmentfault.com/a/1190000000443795)
 - [最流行的PHP 代码规范](https://github.com/hfcorriez/fig-standards/blob/zh_CN/%E6%8E%A5%E5%8F%97/PSR-2-coding-style-guide.md)
 - [AMD与CMD规范的区别](http://www.zhihu.com/question/20351507)
@@ -337,6 +340,14 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - []()
 
 ###十一. 前端架构
+- [MUI-最接近原生APP体验的高性能前端框架](http://dcloudio.github.io/mui/)
+- [Amaze UI | 中国首个开源 HTML5 跨屏前端框架](http://amazeui.org/)
+- [KISSY - 阿里前端JavaScript库](http://docs.kissyui.com/)
+- [网易Nej - Nice Easy Javascript](http://nej.netease.com/)
+- [Kendo UI MVVM Demo](http://demos.telerik.com/kendo-ui/mvvm/index)
+- [Bootstrap](http://www.bootcss.com/)
+- [Smart UI](http://smartui.chinamzz.com/)
+- [雅虎UI - CSS UI](http://developer.yahoo.com/yui/grids/)
 
 ###十. 个人作品
 
@@ -358,6 +369,8 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 ###十四. JS功能效果收集
 ####1. 综合效果搜索平台
 - [效果网](http://www.jq22.com)
+- [17素材](http://www.17sucai.com/)
+- [常用的JavaScript代码片段](http://microjs.com/)
 
 ####2. 轮播图
 - [sochange](http://www.jsfoot.com/jquery/demo/2011-09-20/192.html)
@@ -368,4 +381,15 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 ###十五. 前端导航网站
 - [界面清爽的前端导航](http://uxbees.com/index.html)
 - [前端导航](http://whycss.com/)
+
+###十六. 常用CDN
+- [新浪CDN](http://lib.sinaapp.com/)
+- [百度静态资源公共库](http://cdn.code.baidu.com/)
+- [360网站卫士常用前端公共库CDN服务](http://libs.useso.com/)
+- [Bootstrap中文网开源项目免费 CDN 服务](http://www.bootcdn.cn/)
+- [开放静态文件 CDN - 七牛](http://staticfile.org/)
+- [CDN加速 - jq22](http://www.jq22.com/cdn)
+- [jQuery CDN](http://code.jquery.com/)
+- [Google jQuery CDN](http://www.google-jquery-cdn.com/)
+- [微软CDN](http://www.asp.net/ajax/cdn)
 
