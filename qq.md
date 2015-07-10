@@ -149,6 +149,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 ####5. CSS
 - [CSS 语法参考](http://tympanus.net/codrops/css_reference/)
 - [CSS3动画手册](http://isux.tencent.com/css3/index.html)
+- [腾讯css3动画制作工具](http://isux.tencent.com/css3/tools.html)
 
 ####6. Angularjs
 
@@ -233,7 +234,6 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [缓动函数](http://easings.net/zh-cn)
 - [svg 中文参考](http://www.w3school.com.cn/svg/svg_reference.asp)
 - [svg mdn参考](https://developer.mozilla.org/en-US/docs/Web/SVG)
-- [腾讯css3动画制作工具](http://isux.tencent.com/css3/tools.html)
 
 
 ####12. D3
@@ -273,8 +273,8 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 - [Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown/)
 - [markdown入门参考](https://github.com/LearnShare/Learning-Markdown/blob/master/README.md)
-- [gitbook](https://www.gitbook.com/)
-- [mdeditor](https://www.zybuluo.com/mdeditor)
+- [gitbook](https://www.gitbook.com/) 国外的在线markdown可编辑成书
+- [mdeditor](https://www.zybuluo.com/mdeditor)  一款国内的在线markdown编辑器
 - [mditor](http://bh-lay.github.io/mditor/) 一款轻量级的markdown编辑器
 
 ####17. 
@@ -353,6 +353,27 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 ####1. 推荐作品
 - [fgm](http://www.fgm.cc/learn/)
+- [岑安作品集](https://github.com/hongru/hongru.github.com)
+- [当耐特demo集合](http://kmdjs.github.io/)
+- [米空格 js作品](http://www.laoshu133.com/Lab/)
+- [myFocus](http://koen301.github.io/)
+- [jssdk flash开发组件　抽奖转盘](http://jssdk.sinaapp.com/)
+- [SeaJS组件库](http://panxuepeng.github.io/seajslib/)
+- [颜海镜作品](http://yanhaijing.com/myProject/)
+- [脚儿网作品](http://jo2.org/category/myworks/)
+- [javascript个人作品](http://www.cnitblog.com/yemoo/category/3107.html)
+- [妙味的雷东升游戏作品](http://bbs.miaov.com/forum.php?mod=viewthread&tid=7790)
+- [javascript作品集](http://bbs.csdn.net/topics/380227212)
+- [云五笔，灰度产生生成工具](https://github.com/TooBug/works)
+- [项目主页](http://koen301.github.io/)
+- [个性的作品主页](http://zaole.net/)
+- [播放器](http://static.tingall.com/v2/player/)
+- [ucren js demos 集](http://ucren.com/blog/demos)
+- [智能社](http://www.zhinengshe.com/works_list.html)
+- [实例陈列架](http://demos.shizuwu.cn/)
+- []()
+- []()
+- []()
 
 ####2. 群员作品
 - [mdialog - [合肥-M.J]](http://demo.webjyh.com/)
