@@ -325,7 +325,12 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [Chrome - Console控制台不完全指南](http://www.cnblogs.com/Wayou/p/chrome-console-tips-and-tricks.html)
 - [Chrome - Workspace使浏览器变成IDE](http://c7sky.com/chrome-devtools-workspace.html)
 
-####6. Chrome, Firebug, Filddle 调试
+####7. 页面 社会化 分享功能
+- [百度分享](http://share.baidu.com/) pc端
+- [JiaThis](http://jiathis.com/) pc端
+- [社会化分享组件](http://developer.baidu.com/soc/share) 移动端
+- [ShareSDK 轻松实现社会化功能](http://www.mob.com/#/index) 移动端
+- [友盟分享](http://dev.umeng.com/social/android/quick-integration) 移动端
 
 ###九. Nodejs
 - [nodejs 篇幅比较巨大](http://liuqing.pw/)
@@ -360,7 +365,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [Smart UI](http://smartui.chinamzz.com/)
 - [雅虎UI - CSS UI](http://developer.yahoo.com/yui/grids/)
 
-###十. 个人作品
+###十二. 个人作品
 
 ####1. 推荐作品
 - [fgm](http://www.fgm.cc/learn/)
@@ -407,7 +412,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - []()
 - []()
 
-###十一. 简历模板
+###十三. 简历模板
 - [不错的个人简历](http://learnshare.github.io/about/index.html)
 - [简历](http://hcy2367.github.io/resume/)
 - [张伦](http://ncuey.sinaapp.com/CrispElite/ )
@@ -422,13 +427,13 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - []()
 - []()
 
-###十二. 面试题
+###十四. 面试题
 - [2014最新面试题](http://www.html-js.com/article/1743)
 
-###十三. iconfont
+###十五. iconfont
 - [中文字体](http://www.zhihu.com/question/21253343)
 
-###十四. JS功能效果收集
+###十六. JS功能效果收集
 ####1. 综合效果搜索平台
 - [效果网](http://www.jq22.com)
 - [17素材](http://www.17sucai.com/)
@@ -440,11 +445,11 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 ####3. 文件上传
 - [百度上传组件](http://fex.baidu.com/webuploader/)
 
-###十五. 前端导航网站
+###十七. 前端导航网站
 - [界面清爽的前端导航](http://uxbees.com/index.html)
 - [前端导航](http://whycss.com/)
 
-###十六. 常用CDN
+###十八. 常用CDN
 - [新浪CDN](http://lib.sinaapp.com/)
 - [百度静态资源公共库](http://cdn.code.baidu.com/)
 - [360网站卫士常用前端公共库CDN服务](http://libs.useso.com/)
