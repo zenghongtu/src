@@ -48,6 +48,10 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 优点：注册即有，方便
 缺点：只支持静态
 版本控制工具：git
+- [coding](http://coding.net)
+优点：免费，可以为每个项目开启预览，类似于Github Pages功能，但是支持Node.js,PHP,Phthon,Ruby,Scala,Play,Go这些语言。最近刚出的WebIDE可以直接在浏览器中写代码了，强烈推荐！
+缺点：提交新版本后，预览demo需要去后台手动部署（不过也就是点一个按钮的事情）
+版本控制工具：git
 
 参考：
 [X-Y 问题](http://coolshell.cn/articles/10804.html)
