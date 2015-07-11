@@ -10,6 +10,13 @@
 
 ---
 
+###如何优雅的使用群规
+1. 先完整的浏览一遍此群规，了解大纲目录，知道群规有什么内容，以后方便回来查找。
+2. 发出一个问题之后，不要暂时的离开电脑，如果没有把握先不要提问。
+3. 珍惜每一次提问，每个人工作时间还是业余时间抽出的时间有限，准备好应有的资源之后在发问。
+4. 先搜索，在思考，最后在提问，很多人把这个顺序搞反了。
+以上观点部分出自此文 [如何优雅地使用 Stack Overflow](http://www.zhihu.com/question/20824615)
+
 ###前言
 1. 宗旨：高效，高质量的交流，禁止无意义的闲扯，话题内容尽量保持在技术与职业相关范围内。原则上：白天上班时间禁止闲聊，业余时间话题可以稍为宽松。
 2. 随着群人数越来越多，为了使群的价值能够保持技术的高质量输送或新鲜度，也为了使新人能够快速的融入这个团队，特编写此约定，希望大伙能够积极遵守或推进，谢谢各位的支持或厚爱。
@@ -60,12 +67,15 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 [如何优雅地向前辈或者高手请教技术问题？](http://www.zhihu.com/question/25464141)
 
 ###二. 禁问:
+日常生活废话禁问，主观性的问题禁问，概念性的问题禁问。
 
 - 早上问早，晚上道晚安。聊天起于问早，止于呵呵。
 - 有没有人在？
 - 谁能帮我解决一个问题？
 - 有没有jQuery高手在等？
 - 群里有人做过XX的东西吗？等等类似的问题。
+- 编辑器哪个工具好用？webstorm还是sublime还是vim？
+- 什么是Javascript？什么是Ajax?
 
 建议的问法是：
 - 1. 有问题直接问。比如：前端的岗位特点是什么？
@@ -358,6 +368,52 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 ###十. 性能优化
 - [Javascript高性能动画与页面渲染](http://www.infoq.com/cn/articles/javascript-high-performance-animation-and-page-rendering)
 - [移动H5前端性能优化指南](http://isux.tencent.com/h5-performance.html)
+- [5173首页前端性能优化实践](http://ued.5173.com/?p=1731)
+- [给网页设计师和前端开发者看的前端性能优化](http://www.uisdc.com/front-end-performance-for-web-designers-and-front-end-developers)
+- [复杂应用的 CSS 性能分析和优化建议](http://www.orzpoint.com/profiling-css-and-optimization-notes/)
+- [张鑫旭——前端性能](http://www.zhangxinxu.com/wordpress/tag/%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD/)
+- [前端性能监控总结](http://www.xiaoqiang.org/javascript/font-end-performance-monitor.html)
+- [网站性能优化之CSS无图片技术](http://udc.weibo.com/2013/05/%E7%BD%91%E7%AB%99%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E4%B9%8Bcss%E6%97%A0%E5%9B%BE%E7%89%87%E6%8A%80%E6%9C%AF/)
+- [web前端性能优化进阶路](http://www.aliued.cn/2013/01/20/web%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E8%BF%9B%E9%98%B6%E8%B7%AF.html)
+- [前端技术：网站性能优化之CSS无图片技术](http://my.eoe.cn/tuwandou/archive/4544.html)
+- [浏览器的加载与页面性能优化](http://www.baiduux.com/blog/2011/02/15/browser-loading/)
+- [页面加载中的图片性能优化](http://www.w3ctech.com/p/1503)
+- [Hey——前端性能](http://www.feelcss.com/tag/%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD)
+- [html优化](http://www.baiduux.com/blog/2010/03/15/html%E4%BC%98%E5%8C%96-2/)
+- [99css——性能](http://www.99css.com/archives/tag/%E6%80%A7%E8%83%BD)
+- [Yslow——性能优化](http://www.yslow.net/category.php?cid=20)
+- [YSLOW中文介绍](http://www.cnblogs.com/yslow/)
+- [转一篇Yahoo关于网站性能优化的文章，兼谈本站要做的优化](http://www.360ito.com/article/40.html)
+- [Yahoo!团队实践分享：网站性能](http://www.360doc.com/content/10/0928/09/2588264_56971287.shtml)
+- [网站性能优化指南：什么使我们的网站变慢？](http://blog.jiasule.com/i/153)
+- [网站性能优化实践，减少加载时间，提高用户体验](http://www.powereasy.net/helpyou/knowledge/ecommerce/9593.html)
+- [浅谈网站性能优化 前端篇](http://www.umtry.com/archives/747.html)
+- [前端重构实践之如何对网站性能优化？](http://www.adinnet.cn/blog/designview/2012-7-12/678.html)
+- [前端性能优化：使用媒体查询加载指定大小的背景图片](http://www.gbin1.com/technology/javascript/20130708-front-end-performance-optimization-9/)
+- [网站性能系列博文](http://www.mykuer.com/post/factors-that-affect-the-speed-of-web-site-open.html)
+- [加载，不只是少一点点](http://tgideas.qq.com/webplat/info/news_version3/804/808/811/m579/201109/41355.shtml)
+- [前端性能的测试与优化](http://mzhou.me/article/95310/)
+- [分享网页加载速度优化的一些技巧？](http://www.gbin1.com/technology/html/20130217-tips-for-speed-up-page-loading/)
+- [页面加载中的图片性能优化](http://www.f2es.com/images-bytes-opt/)
+- [web前端优化(基于Yslow)](http://www.tcreator.info/webSchool/website/Front-end-Opt-Yslow.html)
+- [网站性能优化工具大全](http://www.qianduan.net/website-performance-optimization-tool.html)
+- [【高性能前端1】高性能HTML](http://www.alloyteam.com/2012/10/high-performance-html/)
+- [【高性能前端2】高性能CSS](http://www.alloyteam.com/2012/10/high-performance-css/)
+- [由12306谈谈网站前端性能和后端性能优化](http://coolshell.cn/articles/6470.html)
+- [AlloyTeam——前端优化](http://www.alloyteam.com/category/webfrontend/%E5%89%8D%E7%AB%AF%E4%BC%98%E5%8C%96/)
+- [毫秒必争，前端网页性能最佳实践](http://www.cnblogs.com/developersupport/p/3248695.html)
+- [网站性能工具Yslow的使用方法](http://blog.sina.com.cn/s/blog_6e9d2e0701017kvu.html)
+- [前端工程与性能优化（上）：静态资源版本更新与缓存](http://www.infoq.com/cn/articles/front-end-engineering-and-performance-optimization-part1)
+- [前端工程与性能优化（下）：静态资源管理与模板框架](http://www.infoq.com/cn/articles/front-end-engineering-and-performance-optimization-part2)
+- [HTTPS连接的前几毫秒发生了什么](http://blog.jobbole.com/48369/)
+- [Yslow](http://uicss.cn/yslow/#more-12319)
+- [Essential Web Performance Metrics — A Primer, Part 1](http://blog.smartbear.com/web-performance/essential-web-performance-metrics-a-primer-part-1/)
+- [Essential Web Performance Metrics — Part 2](http://blog.smartbear.com/performance/essential-web-performance-metrics-part-2/)
+- [YUISlide,针对移动设备的动画性能优化](http://jayli.github.io/blog/data/2011/12/23/yuislide.html)
+- [Improving Site Performance](http://joelglovier.com/improving-site-performance/)
+- [让网站提速的最佳前端实践](http://blog.segmentfault.com/laopopo/1190000000367899)
+- [Why Website Speed is Important](http://sixrevisions.com/web-development/why-website-speed-is-important/)
+- [Need for Speed – How to Improve your Website Performance](http://www.devbridge.com/articles/need-for-speed-how-to-improve-your-website-performance/)
 - []()
 
 ###十一. 前端架构
