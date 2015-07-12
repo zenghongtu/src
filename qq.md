@@ -193,6 +193,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [有jQuery背景，该如何用AngularJS编程思想](http://blog.jobbole.com/46589/ )
 
 ####7. React
+- [react-china](http://react-china.org/)
 - []()
 
 ####8. 移动端API
