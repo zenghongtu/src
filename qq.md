@@ -246,18 +246,13 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [sass](http://www.w3cplus.com/sassguide/)
 - [sass中国](http://www.cn-sass.com/)
 
-####13. 其它
-- [验证api](http://niceue.com/validator/demo/index.php)
-- [underscore 中文手册](http://www.css88.com/doc/underscore/)
-- [underscore源码分析](http://www.html-js.com/article/Underscorejs-source-code-analysis-of-underscorejs-source-code-analysis%203031)
-- [underscrejs en api](http://underscorejs.org/)
-- [ext4api](http://extjs-doc-cn.github.io/ext4api/)
-- [backbone 中文手册](http://www.csser.com/tools/backbone/backbone.js.html)
-- [qwrap手册](http://dev.qwrap.com/resource/js/_docs/_youa/#/qw/base/loadJs_.htm)
-- [缓动函数](http://easings.net/zh-cn)
-- [svg 中文参考](http://www.w3school.com.cn/svg/svg_reference.asp)
-- [svg mdn参考](https://developer.mozilla.org/en-US/docs/Web/SVG)
-
+####13. Markdown
+        
+- [Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown/)
+- [markdown入门参考](https://github.com/LearnShare/Learning-Markdown/blob/master/README.md)
+- [gitbook](https://www.gitbook.com/) 国外的在线markdown可编辑成书
+- [mdeditor](https://www.zybuluo.com/mdeditor)  一款国内的在线markdown编辑器
+- [mditor](http://bh-lay.github.io/mditor/) 一款轻量级的markdown编辑器
 
 ####14. D3
 - [Tutorials](https://github.com/mbostock/d3/wiki/Tutorials)
@@ -292,13 +287,17 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 - [HTTP API 设计指南](http://segmentfault.com/bookmark/1230000002521721)
 
-####18. Markdown
-
-- [Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown/)
-- [markdown入门参考](https://github.com/LearnShare/Learning-Markdown/blob/master/README.md)
-- [gitbook](https://www.gitbook.com/) 国外的在线markdown可编辑成书
-- [mdeditor](https://www.zybuluo.com/mdeditor)  一款国内的在线markdown编辑器
-- [mditor](http://bh-lay.github.io/mditor/) 一款轻量级的markdown编辑器
+####18. 其它
+- [验证api](http://niceue.com/validator/demo/index.php)
+- [underscore 中文手册](http://www.css88.com/doc/underscore/)
+- [underscore源码分析](http://www.html-js.com/article/Underscorejs-source-code-analysis-of-underscorejs-source-code-analysis%203031)
+- [underscrejs en api](http://underscorejs.org/)
+- [ext4api](http://extjs-doc-cn.github.io/ext4api/)
+- [backbone 中文手册](http://www.csser.com/tools/backbone/backbone.js.html)
+- [qwrap手册](http://dev.qwrap.com/resource/js/_docs/_youa/#/qw/base/loadJs_.htm)
+- [缓动函数](http://easings.net/zh-cn)
+- [svg 中文参考](http://www.w3school.com.cn/svg/svg_reference.asp)
+- [svg mdn参考](https://developer.mozilla.org/en-US/docs/Web/SVG)
 
 ####19. 
 
