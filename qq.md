@@ -135,7 +135,6 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 * [css88 jq api](http://www.css88.com/jqapi-1.9/on/)
 * [css88 jqui api](http://www.css88.com/jquery-ui-api/)
 * [devdocs](http://devdocs.io/)
-* [jqschool](http://api.jq-school.com/)
 * [学习jquery](http://learn.jquery.com/)
 * [jquery 源码查找](http://james.padolsey.com/jquery/)
 
