@@ -165,6 +165,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [CSS 语法参考](http://tympanus.net/codrops/css_reference/)
 - [CSS3动画手册](http://isux.tencent.com/css3/index.html)
 - [腾讯css3动画制作工具](http://isux.tencent.com/css3/tools.html)
+- [志爷css小工具集合](http://linxz.github.io/tianyizone/)
 
 ####6. Angularjs
 
@@ -330,6 +331,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [HTML5 有哪些让你惊艳的 demo？](http://www.zhihu.com/question/24398907)
 
 ####3. CSS
+- []()
 
 ####4. jQuery
 
@@ -509,9 +511,34 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 ###十四. 面试题
 - [2014最新面试题](http://www.html-js.com/article/1743)
+- [阿里前端面试题](http://www.w3cfuns.com/thread-5598563-2-1.html)
+- [腾讯面试题](http://www.w3cfuns.com/article-5599657-1-1.html)
+- [年后跳槽那点事：乐视+金山+360面试之行](http://www.cnblogs.com/lvdabao/p/3660707.html)
+- [阿里前端面试题上线](http://fatesinger.com/2722.html)
+- [拉勾网js面试题](http://www.cnblogs.com/52cik/p/js-question-lg.html)
+- [前端面试](http://www.cnblogs.com/allenxing/p/3724382.html)
+- [Web开发笔试面试题 大全](http://mianshiti.diandian.com/)
+- [前端开发面试题](http://segmentfault.com/a/1190000000465431)
+- [2014最新前端面试题](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions)
+- [百度面试](https://github.com/fex-team/interview-questions)
+- [面试题](http://www.w3cfuns.com/forum.php?mod=forumdisplay&fid=51&filter=typeid&typeid=177)
+- [前端工作面试问题](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions/tree/master/Chinese)
+- [前端开发面试题](http://segmentfault.com/a/1190000000465431)
+- [5个经典的前端面试问题](http://ourjs.com/detail/5%E4%B8%AA%E7%BB%8F%E5%85%B8%E7%9A%84%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E9%97%AE%E9%A2%98)
+- [最全前端面试问题及答案总结 ](http://segmentfault.com/a/1190000002562454)
+- [如何面试一名前端开发工程师？](http://www.html-js.com/article/Large-search-front-team-column%202961)
+- [世上最全面试题](https://github.com/hawx1993/Front-end-Interview-questions)
+- []()
 
 ###十五. iconfont
 - [中文字体](http://www.zhihu.com/question/21253343)
+- [淘宝字库](http://iconfont.cn)
+- [字体](http://ux.etao.com/fonts)
+- [制作教程](http://iconfont.cn/help/platform.html)
+- [zhangxinxu-icommon](http://www.zhangxinxu.com/wordpress/?s=icomoon)
+- [icommon](http://icomoon.io/app/)
+- [用字体在网页中画ICON图标(推荐教程)](http://imooc.com/learn/243)
+- []()
 
 ###十六. JS功能效果收集
 ####1. 综合效果搜索平台
@@ -524,10 +551,21 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 ####3. 文件上传
 - [百度上传组件](http://fex.baidu.com/webuploader/)
+- [上传](https://blueimp.github.io/jQuery-File-Upload/)
+- [flash 头像上传](http://www.hdfu.net/)
+- [图片上传预览](http://www.dropzonejs.com/)
+- []()
+
 
 ###十七. 前端导航网站
 - [界面清爽的前端导航](http://uxbees.com/index.html)
 - [前端导航](http://whycss.com/)
+- [前端网址导航](http://www.daqianduan.com/nav)
+- [前端名录](http://sentsin.com/daohang/)
+- [前端导航](http://123.jser.us/)
+- [前端开发资源](http://www.css88.com/nav/)
+- [网址导航](http://www.haourl.cn/)
+- []()
 
 ###十八. 常用CDN
 - [新浪CDN](http://lib.sinaapp.com/)
