@@ -317,6 +317,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 ###八. 其它收集
 
 ####1. Javascript
+- [ieBetter.js-让IE6-IE8拥有IE9+,Chrome等浏览器特性](http://www.zhangxinxu.com/wordpress/2013/12/iebetter-js-make-ie6-ie8-like-modern-browser-ie9-chrome/)
 
 
 ####2. Html5
