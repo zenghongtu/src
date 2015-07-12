@@ -199,7 +199,6 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 ####8. 移动端API
 
 - [99移动端知识集合](https://github.com/jtyjty99999/mobileTech)
-- [司徒正美移动知识集合](https://github.com/RubyLouvre/mobileTech)
 - [移动端前端开发知识库](https://github.com/AlloyTeam/Mars)
 - [zepto 1.0 中文手册](http://mweb.baidu.com/zeptoapi/)
 - [zepto 1.0 中文手册](http://www.html-5.cn/Manual/Zepto/)
@@ -537,3 +536,5 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [Google jQuery CDN](http://www.google-jquery-cdn.com/)
 - [微软CDN](http://www.asp.net/ajax/cdn)
 
+###十九. Svn,Git,Github
+- [GitHub 添加 SSH keys](http://daemon369.github.io/git/2015/03/10/add-ssh-keys-for-github/)
