@@ -192,7 +192,10 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [整合jQuery Mobile+AngularJS经验谈](http://www.tuicool.com/articles/7ZZVr2)
 - [有jQuery背景，该如何用AngularJS编程思想](http://blog.jobbole.com/46589/ )
 
-####7. 移动端API
+####7. React
+- []()
+
+####8. 移动端API
 
 - [99移动端知识集合](https://github.com/jtyjty99999/mobileTech)
 - [司徒正美移动知识集合](https://github.com/RubyLouvre/mobileTech)
@@ -206,14 +209,14 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [js移动调试](http://thx.github.io/mobile/debugging-in-mobile/)
 - [移动开发大杂烩](https://github.com/hoosin/mobile-web-favorites)
 
-####8. 图表类
+####9. 图表类
 
 - [Highcharts 中文API](http://www.hcharts.cn/api/index.php)
 - [Highcharts 英文API](http://api.highcharts.com/highcharts)
 - [ECharts 百度的图表软件](http://echarts.baidu.com/ )
 - [高德地图](http://lbs.amap.com/api/)
 
-####9. Requriejs
+####10. Requriejs
 
 - [Javascript模块化编程（一）：模块的写法 ](http://www.ruanyifeng.com/blog/2012/10/javascript_module.html)
 - [Javascript模块化编程（二）：AMD规范](http://www.ruanyifeng.com/blog/2012/10/asynchronous_module_definition.html)
@@ -227,18 +230,18 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [requriejs 其一 ](http://cyj.me/why-seajs/requirejs/ )
 - [require backbone结合](http://www.cnblogs.com/yexiaochai/p/3221081.html )
 
-####10. Seajs
+####11. Seajs
 
 - [seajs](http://seajs.org/)
 - [seajs 中文手册](http://cyj.me/why-seajs/zh/)
 
-####11. Less,sass
+####12. Less,sass
 
 - [less](http://less.bootcss.com/)
 - [sass](http://www.w3cplus.com/sassguide/)
 - [sass中国](http://www.cn-sass.com/)
 
-####11. 其它
+####13. 其它
 - [验证api](http://niceue.com/validator/demo/index.php)
 - [underscore 中文手册](http://www.css88.com/doc/underscore/)
 - [underscore源码分析](http://www.html-js.com/article/Underscorejs-source-code-analysis-of-underscorejs-source-code-analysis%203031)
@@ -251,19 +254,19 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [svg mdn参考](https://developer.mozilla.org/en-US/docs/Web/SVG)
 
 
-####12. D3
+####14. D3
 - [Tutorials](https://github.com/mbostock/d3/wiki/Tutorials)
 - [lofter](http://datavisual.lofter.com/post/40cf3a_188e535)
 - [iteye](http://alanland.iteye.com/blog/1878595)
 - [ruanyifeng](http://javascript.ruanyifeng.com/library/d3.html)
 
-####13. 兼容性
+####15. 兼容性
 - [esma 兼容列表](http://kangax.github.io/compat-table/es6/)
 - [caniuse](http://caniuse.com/#index )
 - [csscreator](http://csscreator.com/properties)
 - [microsoft](http://msdn.microsoft.com/zh-cn/library/cc351024(v=vs.85).aspx)
 
-####14. UI相关
+####16. UI相关
 
 - [bootcss](http://v3.bootcss.com/)
 - [MetroUICSS](http://www.w3cplus.com/MetroUICSS/)
@@ -280,11 +283,11 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [book](http://git-scm.com/book/zh)
 - [gogojimmy](http://gogojimmy.net/2012/01/17/how-to-use-git-1-git-basic/)
 
-####15. HTTP
+####17. HTTP
 
 - [HTTP API 设计指南](http://segmentfault.com/bookmark/1230000002521721)
 
-####16. Markdown
+####18. Markdown
 
 - [Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown/)
 - [markdown入门参考](https://github.com/LearnShare/Learning-Markdown/blob/master/README.md)
@@ -292,7 +295,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [mdeditor](https://www.zybuluo.com/mdeditor)  一款国内的在线markdown编辑器
 - [mditor](http://bh-lay.github.io/mditor/) 一款轻量级的markdown编辑器
 
-####17. 
+####19. 
 
 ###七. 开发规范
 
