@@ -348,6 +348,16 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [ShareSDK 轻松实现社会化功能](http://www.mob.com/#/index) 移动端
 - [友盟分享](http://dev.umeng.com/social/android/quick-integration) 移动端
 
+####8. 富文本编辑器
+- [百度 ueditor](http://ueditor.baidu.com/website/)
+- [经典的kindeditor](http://kindeditor.net/)
+- [wysiwyg](http://www.bootcss.com/p/bootstrap-wysiwyg/)
+- [一个有情怀的编辑器。Bach's Editor](http://integ.github.io/BachEditor/)
+- [tower用的编辑器](https://github.com/mycolorway/simditor)
+- [summernote 编辑器](https://github.com/summernote/summernote)
+- [html5编辑器](http://neilj.github.io/Squire/)
+- [XEditor](http://lab.hustlzp.com/XEditor/)
+
 ###九. Nodejs
 - [nodejs 篇幅比较巨大](http://liuqing.pw/)
 - [篇幅比较少](http://rainweb.cn/article/category/Nodejs)
