@@ -86,6 +86,16 @@ font-family:"Hiragino Sans GB","Hiragino Sans GB W3",'微软雅黑';
 
 #### 2. css 3
 
+- title 换行
+```html
+&#13;
+```
+
+- 关闭 x 符号
+```html
+&#215;
+```
+
 - 投影
 ```css
 .b{box-shadow:inset 1px -1px 0 #f1f1f1;text-shadow:1px 1px 0px #630;}
@@ -105,15 +115,6 @@ http://blog.csdn.net/do_it__/article/details/6789699
 line-height: normal; /* for non-ie */
 line-height: 22px\9; /* for ie */
 ```
-- title 换行
-```html
-&#13;
-```
-
-- 关闭 x 符号
-```html
-&#215;
-```
 
 - [全部浏览器的兼容代码生成](http://www.colorzilla.com/gradient-editor/ )
 [CSS 实现 textArea 的 placeholder 换行](http://segmentfault.com/a/1190000000362621)
@@ -122,6 +123,12 @@ line-height: 22px\9; /* for ie */
 ```css
 pointer-events:none;
 ```
+
+- [去掉输入框聚焦时候的白色背景](http://ntesmailfetc.blog.163.com/blog/static/20628706120139184457401/)
+```css
+-webkit-user-modify: read-write-plaintext-only;
+```
+
 - 变灰 gray
 ```css
 html{
