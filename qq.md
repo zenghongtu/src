@@ -140,6 +140,8 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 ####2. Ecmascript
 
+- [exploring-es6](https://leanpub.com/exploring-es6/read)
+- [exploring-es6翻译](https://github.com/es6-org/exploring-es6)
 - [阮一峰 es6](http://es6.ruanyifeng.com/)
 - [阮一峰 Javascript](http://javascript.ruanyifeng.com/)
 - [ECMA-262，第 5 版](http://yanhaijing.com/es5/)
