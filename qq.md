@@ -492,7 +492,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [[成都-feeling]](http://guoshan.sinaapp.com/)
 - [[上海-angela]](http://www.cnblogs.com/liyunhua/)
 - [[海南-hank]作品](http://hcjp.github.io/work/demo/)
-- []()
+- [上海-张力](https://github.com/yibuyisheng/blogs/issues)
 - []()
 - []()
 
