@@ -293,6 +293,8 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [HTTP API 设计指南](http://segmentfault.com/bookmark/1230000002521721)
 
 ####18. 其它
+
+- [javascript流行库汇总](javascriptoo)
 - [验证api](http://niceue.com/validator/demo/index.php)
 - [underscore 中文手册](http://www.css88.com/doc/underscore/)
 - [underscore源码分析](http://www.html-js.com/article/Underscorejs-source-code-analysis-of-underscorejs-source-code-analysis%203031)
