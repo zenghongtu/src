@@ -215,6 +215,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [移动浏览器开发集合](https://github.com/maxzhang/maxzhang.github.com/issues)
 - [js移动调试](http://thx.github.io/mobile/debugging-in-mobile/)
 - [移动开发大杂烩](https://github.com/hoosin/mobile-web-favorites)
+- [微信webview中的一些问题](http://lin-chao.github.io/2014/11/14/%E5%BE%AE%E4%BF%A1webview%E4%B8%AD%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98/)
 
 ####9. 图表类
 
