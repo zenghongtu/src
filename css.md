@@ -217,11 +217,6 @@ input:-moz-placeholder {color: #369;}
 -webkit-tap-highlight-color:rgba(255,0,0,0.5);-webkit-tap-highlight-color:transparent; /* For some Androids */
 ```
 
-- [用户不能选择元素中的任何内容](http://www.qianduan.net/introduce-user-select/)
-```css
-user-select:none
-```
-
 - IOS iframe 滚动 [滚动回弹特效](http://www.cnblogs.com/flash3d/archive/2013/09/28/3343877.html)
 ```css
 -webkit-overflow-scrolling:touch;overflow-y:scroll;
