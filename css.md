@@ -129,6 +129,12 @@ pointer-events:none;
 -webkit-user-modify: read-write-plaintext-only;
 ```
 
+- [input:focus时input不随软键盘升起而抬高的情况](http://www.cnblogs.com/hongru/archive/2013/02/06/2902938.html)
+```css
+ :focus{-webkit-tap-highlight-color:rgba(255, 255, 255, 0);
+ -webkit-user-modify:read-write-plaintext-only;}
+```
+
 - 变灰 gray
 ```css
 html{
