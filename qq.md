@@ -376,6 +376,17 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [html5编辑器](http://neilj.github.io/Squire/)
 - [XEditor](http://lab.hustlzp.com/XEditor/)
 
+####9. 日历
+- [经典my97](http://www.my97.net/dp/demo/index.htm)
+- [强大的独立日期选择器](http://www.cnblogs.com/gbin1/archive/2012/04/16/2452105.html)
+- [fullcalendar](http://arshaw.com/fullcalendar/)
+- [fullcalendar日历控件知识点集合 ](http://blog.csdn.net/francislaw/article/details/7740630)
+- [中文api](http://blog.sina.com.cn/s/blog_9475b1c101012c5f.html)
+- [农历日历](https://github.com/zzyss86/LunarCalendar)
+- [日期格式化](http://momentjs.com/)
+- [大气实用jQuery手机移动端日历日期选择插件](http://www.js-css.cn/a/jscode/date/2014/1009/1336.html)
+- [大牛日历控件](https://github.com/Johnqing/QPAYCalendar/)
+
 ###九. Nodejs
 - [nodejs 篇幅比较巨大](http://liuqing.pw/)
 - [篇幅比较少](http://rainweb.cn/article/category/Nodejs)
