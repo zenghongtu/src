@@ -333,6 +333,17 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 ###八. 其它收集
 
+####0. 各大公司开源项目
+- [Facebook Projects](https://code.facebook.com/projects/web/)
+- [百度web前端研发部](http://fex.baidu.com/)
+- [百度github](https://github.com/fex-team/)
+- [alloyteam](http://www.alloyteam.com/)
+- [alloyteam github](http://alloyteam.github.io/)
+- [值得订阅的weekly](https://github.com/fenbility/weekly-feed)
+- [腾讯html5](http://cube.qq.com/)
+- [奇舞团开源项目](http://75team.github.io/)
+- []()
+
 ####1. Javascript
 - [ieBetter.js-让IE6-IE8拥有IE9+,Chrome等浏览器特性](http://www.zhangxinxu.com/wordpress/2013/12/iebetter-js-make-ie6-ie8-like-modern-browser-ie9-chrome/)
 
@@ -386,6 +397,27 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [日期格式化](http://momentjs.com/)
 - [大气实用jQuery手机移动端日历日期选择插件](http://www.js-css.cn/a/jscode/date/2014/1009/1336.html)
 - [大牛日历控件](https://github.com/Johnqing/QPAYCalendar/)
+
+####10. 综合效果搜索平台
+- [效果网](http://www.jq22.com)
+- [17素材](http://www.17sucai.com/)
+- [常用的JavaScript代码片段](http://microjs.com/)
+
+####11. 轮播图
+- [sochange](http://www.jsfoot.com/jquery/demo/2011-09-20/192.html)
+
+####12. 文件上传
+- [百度上传组件](http://fex.baidu.com/webuploader/)
+- [上传](https://blueimp.github.io/jQuery-File-Upload/)
+- [flash 头像上传](http://www.hdfu.net/)
+- [图片上传预览](http://www.dropzonejs.com/)
+- []()
+
+####13. 模拟select
+- [糖饼 select](http://aui.github.io/popupjs/doc/selectbox.html)
+- [flexselect](https://github.com/rmm5t/jquery-flexselect)
+- [双select](http://loudev.com/)
+- []()
 
 ###九. Nodejs
 - [nodejs 篇幅比较巨大](http://liuqing.pw/)
@@ -562,20 +594,6 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - []()
 
 ###十六. JS功能效果收集
-####1. 综合效果搜索平台
-- [效果网](http://www.jq22.com)
-- [17素材](http://www.17sucai.com/)
-- [常用的JavaScript代码片段](http://microjs.com/)
-
-####2. 轮播图
-- [sochange](http://www.jsfoot.com/jquery/demo/2011-09-20/192.html)
-
-####3. 文件上传
-- [百度上传组件](http://fex.baidu.com/webuploader/)
-- [上传](https://blueimp.github.io/jQuery-File-Upload/)
-- [flash 头像上传](http://www.hdfu.net/)
-- [图片上传预览](http://www.dropzonejs.com/)
-- []()
 
 
 ###十七. 前端导航网站
