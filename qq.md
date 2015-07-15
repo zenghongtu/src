@@ -354,6 +354,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [百度github](https://github.com/fex-team/)
 - [alloyteam](http://www.alloyteam.com/)
 - [alloyteam github](http://alloyteam.github.io/)
+- [AlloyDesigner](http://alloyteam.github.io/AlloyDesigner/) 即时修改，即时保存，设计稿较正，其它开发辅助工具
 - [值得订阅的weekly](https://github.com/fenbility/weekly-feed)
 - [腾讯html5](http://cube.qq.com/)
 - [奇舞团开源项目](http://75team.github.io/)
