@@ -431,6 +431,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [上传](https://blueimp.github.io/jQuery-File-Upload/)
 - [flash 头像上传](http://www.hdfu.net/)
 - [图片上传预览](http://www.dropzonejs.com/)
+- [图片裁剪](http://elemefe.github.io/image-cropper/)
 - []()
 
 ####13. 模拟select
