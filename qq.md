@@ -324,6 +324,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 ####20. vue
 - [Vue.js](http://cn.vuejs.org/)
 - [Vue 入门指南](http://www.cnblogs.com/aaronjs/p/3660102.html)
+- [Vue.js 的一些资源索引](http://segmentfault.com/a/1190000000411057)
 - []()
 
 ###七. 开发规范
