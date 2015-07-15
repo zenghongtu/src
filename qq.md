@@ -224,12 +224,8 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [特色的HTML框架可以创建精美的iOS应用](http://framework7.taobao.org/)
 - [淘宝SUI](http://m.sui.taobao.org/)
 
-####9. 图表类
-
-- [Highcharts 中文API](http://www.hcharts.cn/api/index.php)
-- [Highcharts 英文API](http://api.highcharts.com/highcharts)
-- [ECharts 百度的图表软件](http://echarts.baidu.com/ )
-- [高德地图](http://lbs.amap.com/api/)
+####9. avalon
+- [avalonjs](http://avalonjs.github.io/)
 
 ####10. Requriejs
 
@@ -311,7 +307,12 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [svg 中文参考](http://www.w3school.com.cn/svg/svg_reference.asp)
 - [svg mdn参考](https://developer.mozilla.org/en-US/docs/Web/SVG)
 
-####19. 
+####19. 图表类
+
+- [Highcharts 中文API](http://www.hcharts.cn/api/index.php)
+- [Highcharts 英文API](http://api.highcharts.com/highcharts)
+- [ECharts 百度的图表软件](http://echarts.baidu.com/ )
+- [高德地图](http://lbs.amap.com/api/)
 
 ###七. 开发规范
 
