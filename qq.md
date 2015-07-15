@@ -203,6 +203,8 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [react.js material UI](http://material-ui.com/#/)
 - [react.js TouchstoneJS UI](http://touchstonejs.io/)
 - [react.js amazeui UI](http://amazeui.org/react/)
+- [Webpack 和 React 小书 - 前端乱炖](http://www.html-js.com/article/Fakefish%203053)
+- [Webpack 和 React 小书 - gitbook](https://fakefish.github.io/react-webpack-cookbook/)
 - []()
 
 ####8. 移动端API
