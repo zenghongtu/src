@@ -210,6 +210,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 1. API
 - [99移动端知识集合](https://github.com/jtyjty99999/mobileTech)
 - [移动端前端开发知识库](https://github.com/AlloyTeam/Mars)
+- [移动前端的一些坑和解决方法（外观表现）](http://caibaojian.com/mobile-web-bug.html)
 - [zepto 1.0 中文手册](http://mweb.baidu.com/zeptoapi/)
 - [zepto 1.0 中文手册](http://www.html-5.cn/Manual/Zepto/)
 - [zepto 1.1.2](http://www.css88.com/doc/zeptojs_api/)
