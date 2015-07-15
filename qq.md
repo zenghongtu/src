@@ -226,6 +226,10 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 ####9. avalon
 - [avalonjs](http://avalonjs.github.io/)
+- [Avalon新一代UI库： OniUI](http://ued.qunar.com/oniui/index.html)
+- [avalon.oniui-基于avalon的组件库](https://github.com/RubyLouvre/avalon.oniui)
+- []()
+- []()
 
 ####10. Requriejs
 
@@ -314,6 +318,11 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [ECharts 百度的图表软件](http://echarts.baidu.com/ )
 - [高德地图](http://lbs.amap.com/api/)
 
+####20. vue
+- [Vue.js](http://cn.vuejs.org/)
+- [Vue 入门指南](http://www.cnblogs.com/aaronjs/p/3660102.html)
+- []()
+
 ###七. 开发规范
 
 - [HTML&CSS编码规范 by @mdo](http://codeguide.bootcss.com/)
@@ -344,6 +353,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [值得订阅的weekly](https://github.com/fenbility/weekly-feed)
 - [腾讯html5](http://cube.qq.com/)
 - [奇舞团开源项目](http://75team.github.io/)
+- [Qunar UED](http://ued.qunar.com/)
 - []()
 
 ####1. Javascript
