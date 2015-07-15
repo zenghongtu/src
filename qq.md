@@ -116,6 +116,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [css sprite 雪碧图制作](http://www.imooc.com/learn/93)
 - [瘳雪峰的Javascript教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
 - [焦点图轮播特效](http://www.imooc.com/learn/18)
+- [版本控制入门 – 搬进 Github](http://www.imooc.com/learn/390)
 
 ###六. API:
 
