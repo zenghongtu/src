@@ -442,6 +442,12 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [双select](http://loudev.com/)
 - []()
 
+####14. 取色插件
+- [类似 Photoshop 的界面取色插件](http://www.jq22.com/plugin/367)
+- [jquery color](https://github.com/jquery/jquery-color/)
+- [取色插件集合](http://www.oschina.net/project/tag/287/color-picker)
+- []()
+
 ###九. Nodejs
 - [nodejs 篇幅比较巨大](http://liuqing.pw/)
 - [篇幅比较少](http://rainweb.cn/article/category/Nodejs)
