@@ -526,6 +526,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [让网站提速的最佳前端实践](http://blog.segmentfault.com/laopopo/1190000000367899)
 - [Why Website Speed is Important](http://sixrevisions.com/web-development/why-website-speed-is-important/)
 - [Need for Speed – How to Improve your Website Performance](http://www.devbridge.com/articles/need-for-speed-how-to-improve-your-website-performance/)
+- [阿里无线前端性能优化指南 (Pt.1 加载期优化) ](https://github.com/amfe/article/issues/1)
 - []()
 
 ###十一. 前端架构
