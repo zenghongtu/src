@@ -360,11 +360,11 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [AlloyDesigner](http://alloyteam.github.io/AlloyDesigner/) 即时修改，即时保存，设计稿较正，其它开发辅助工具
 - [H5交互页编辑器AEditor介绍](http://www.alloyteam.com/2015/06/h5-jiao-hu-ye-bian-ji-qi-aeditor-jie-shao/) H5动画交互页开发的工具介绍
 - [AEditor](http://aeditor.alloyteam.com/) H5动画交互页开发的工具
+- [maka](http://forum.maka.im/wordpress/)
 - [值得订阅的weekly](https://github.com/fenbility/weekly-feed)
 - [腾讯html5](http://cube.qq.com/)
 - [奇舞团开源项目](http://75team.github.io/)
 - [Qunar UED](http://ued.qunar.com/)
-- []()
 
 ####1. Javascript
 - [ieBetter.js-让IE6-IE8拥有IE9+,Chrome等浏览器特性](http://www.zhangxinxu.com/wordpress/2013/12/iebetter-js-make-ie6-ie8-like-modern-browser-ie9-chrome/)
