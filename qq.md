@@ -120,7 +120,10 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 ###六. API:
 
-####0. 开发中心
+####0. 总目录
+
+1. 开发中心
+
 - [mozilla js参考](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 - [chrome开发中心（chrome的内核已转向blink）](http://developer.chrome.com/extensions/api_index.html)
 - [safari开发中心](https://developer.apple.com/library/safari/navigation)
@@ -128,6 +131,13 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [js秘密花园](http://sanshi.me/articles/JavaScript-Garden-CN/html/index.html)
 - [js秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 - [开源中国在线API文档合集](http://tool.oschina.net/apidocs)
+
+2. 综合搜索
+
+- [javascripting](http://www.javascripting.com/)
+- [microjs](http://microjs.com/)
+
+
 
 ####1. jQuery
 
@@ -150,6 +160,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 ####3. Js template
 
+- [template-chooser](http://garann.github.io/template-chooser/)
 - [artTemplate](https://github.com/aui/artTemplate)
 - [tomdjs](https://github.com/aui/tmodjs/blob/master/README.md)
 - [淘宝模板juicer模板](http://juicer.name/docs/docs_zh_cn.html)
