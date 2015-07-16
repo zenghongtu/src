@@ -358,6 +358,8 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [alloyteam](http://www.alloyteam.com/)
 - [alloyteam github](http://alloyteam.github.io/)
 - [AlloyDesigner](http://alloyteam.github.io/AlloyDesigner/) 即时修改，即时保存，设计稿较正，其它开发辅助工具
+- [H5交互页编辑器AEditor介绍](http://www.alloyteam.com/2015/06/h5-jiao-hu-ye-bian-ji-qi-aeditor-jie-shao/) H5动画交互页开发的工具介绍
+- [AEditor](http://aeditor.alloyteam.com/) H5动画交互页开发的工具
 - [值得订阅的weekly](https://github.com/fenbility/weekly-feed)
 - [腾讯html5](http://cube.qq.com/)
 - [奇舞团开源项目](http://75team.github.io/)
