@@ -483,6 +483,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [类似 Photoshop 的界面取色插件](http://www.jq22.com/plugin/367)
 - [jquery color](https://github.com/jquery/jquery-color/)
 - [取色插件集合](http://www.oschina.net/project/tag/287/color-picker)
+- [farbtastic 圆环＋正方形](https://github.com/mattfarina/farbtastic)
 - []()
 
 ###九. Nodejs
@@ -665,10 +666,10 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 1. 前端开发工具
 
-- [Webstorm,InterllIdea,Phpstorm](http://t.cn/8kZZ1Uy)
-- [SublimeText](https://github.com/jikeytang/sublime-text)
-- [Atom](https://atom.io/)
-- [visual studio code](https://code.visualstudio.com/)
+    - [Webstorm,InterllIdea,Phpstorm](http://t.cn/8kZZ1Uy)
+    - [SublimeText](https://github.com/jikeytang/sublime-text)
+    - [Atom](https://atom.io/)
+    - [visual studio code](https://code.visualstudio.com/)
 
 2. Chrome, Firebug, Filddle 调试
 
