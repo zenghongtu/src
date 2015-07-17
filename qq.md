@@ -224,22 +224,22 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 ####8. 移动端API
 
-    1. API    
-        - [99移动端知识集合](https://github.com/jtyjty99999/mobileTech)
-        - [移动端前端开发知识库](https://github.com/AlloyTeam/Mars)
-        - [移动前端的一些坑和解决方法（外观表现）](http://caibaojian.com/mobile-web-bug.html)
-        - [zepto 1.0 中文手册](http://mweb.baidu.com/zeptoapi/)
-        - [zepto 1.0 中文手册](http://www.html-5.cn/Manual/Zepto/)
-        - [zepto 1.1.2](http://www.css88.com/doc/zeptojs_api/)
-        - [zepto 中文注释](http://www.cnblogs.com/sky000/archive/2013/03/29/2988952.html)
-        - [jqmobile 手册](http://app-framework-software.intel.com/api.php)
-        - [移动浏览器开发集合](https://github.com/maxzhang/maxzhang.github.com/issues)
-        - [js移动调试](http://thx.github.io/mobile/debugging-in-mobile/)
-        - [移动开发大杂烩](https://github.com/hoosin/mobile-web-favorites)
-        - [微信webview中的一些问题](http://lin-chao.github.io/2014/11/14/%E5%BE%AE%E4%BF%A1webview%E4%B8%AD%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98/)
-    2. 框架    
-        - [特色的HTML框架可以创建精美的iOS应用](http://framework7.taobao.org/)
-        - [淘宝SUI](http://m.sui.taobao.org/)
+1. API    
+    - [99移动端知识集合](https://github.com/jtyjty99999/mobileTech)
+    - [移动端前端开发知识库](https://github.com/AlloyTeam/Mars)
+    - [移动前端的一些坑和解决方法（外观表现）](http://caibaojian.com/mobile-web-bug.html)
+    - [zepto 1.0 中文手册](http://mweb.baidu.com/zeptoapi/)
+    - [zepto 1.0 中文手册](http://www.html-5.cn/Manual/Zepto/)
+    - [zepto 1.1.2](http://www.css88.com/doc/zeptojs_api/)
+    - [zepto 中文注释](http://www.cnblogs.com/sky000/archive/2013/03/29/2988952.html)
+    - [jqmobile 手册](http://app-framework-software.intel.com/api.php)
+    - [移动浏览器开发集合](https://github.com/maxzhang/maxzhang.github.com/issues)
+    - [js移动调试](http://thx.github.io/mobile/debugging-in-mobile/)
+    - [移动开发大杂烩](https://github.com/hoosin/mobile-web-favorites)
+    - [微信webview中的一些问题](http://lin-chao.github.io/2014/11/14/%E5%BE%AE%E4%BF%A1webview%E4%B8%AD%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98/)
+2. 框架    
+    - [特色的HTML框架可以创建精美的iOS应用](http://framework7.taobao.org/)
+    - [淘宝SUI](http://m.sui.taobao.org/)
 
 ####9. avalon
 
