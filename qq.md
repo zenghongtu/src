@@ -364,7 +364,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 ###八. 其它收集
 
-####0. 各大公司开源项目
+####1. 各大公司开源项目
 - [Facebook Projects](https://code.facebook.com/projects/web/)
 - [百度web前端研发部](http://fex.baidu.com/)
 - [百度github](https://github.com/fex-team/)
@@ -379,31 +379,20 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [奇舞团开源项目](http://75team.github.io/)
 - [Qunar UED](http://ued.qunar.com/)
 
-####1. Javascript
+####2. Javascript
 - [ieBetter.js-让IE6-IE8拥有IE9+,Chrome等浏览器特性](http://www.zhangxinxu.com/wordpress/2013/12/iebetter-js-make-ie6-ie8-like-modern-browser-ie9-chrome/)
 
 
-####2. Html5
+####3. Html5
 - [HTML5 有哪些让你惊艳的 demo？](http://www.zhihu.com/question/24398907)
 
-####3. CSS
+####4. CSS
 - []()
 
-####4. jQuery
+####5. jQuery
 
-####5. Ext, Easyui, J-ui
+####6. Ext, Easyui, J-ui
 
-####6. Chrome, Firebug, Filddle 调试
-- [Fiddler调式使用知多少(一)深入研究](http://www.cnblogs.com/tugenhua0707/p/4623317.html)
-- [Google Chrome 官方](https://developer.chrome.com/devtools)
-- [Chrome - 基础](http://www.cnblogs.com/constantince/p/4565261.html)
-- [Chrome - 进阶](http://www.cnblogs.com/constantince/p/4579121.html)
-- [Chrome - 性能](http://www.cnblogs.com/constantince/p/4585983.html)
-- [Chrome - 性能进阶](http://www.cnblogs.com/constantince/p/4607497.html)
-- [Chrome - 移动](http://www.cnblogs.com/constantince/p/4624241.html)
-- [Chrome - 使用技巧](http://www.cnblogs.com/liyunhua/p/4544738.html)
-- [Chrome - Console控制台不完全指南](http://www.cnblogs.com/Wayou/p/chrome-console-tips-and-tricks.html)
-- [Chrome - Workspace使浏览器变成IDE](http://c7sky.com/chrome-devtools-workspace.html)
 
 ####7. 页面 社会化 分享功能
 - [百度分享](http://share.baidu.com/) pc端
@@ -636,7 +625,37 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [用字体在网页中画ICON图标(推荐教程)](http://imooc.com/learn/243)
 - []()
 
-###十六. JS功能效果收集
+###十六. 开发工具类
+
+1. 前端开发工具
+- [Webstorm,InterllIdea,Phpstorm](http://t.cn/8kZZ1Uy)
+- [SublimeText](https://github.com/jikeytang/sublime-text)
+- [Atom](https://atom.io/)
+- [visual studio code](https://code.visualstudio.com/)
+
+2. Chrome, Firebug, Filddle 调试
+
+    1. Fiddler
+    - [Fiddler调式使用知多少(一)深入研究](http://www.cnblogs.com/tugenhua0707/p/4623317.html)
+    
+    2. Google
+    - [Google Chrome 官方](https://developer.chrome.com/devtools)
+    - [Chrome - 基础](http://www.cnblogs.com/constantince/p/4565261.html)
+    - [Chrome - 进阶](http://www.cnblogs.com/constantince/p/4579121.html)
+    - [Chrome - 性能](http://www.cnblogs.com/constantince/p/4585983.html)
+    - [Chrome - 性能进阶](http://www.cnblogs.com/constantince/p/4607497.html)
+    - [Chrome - 移动](http://www.cnblogs.com/constantince/p/4624241.html)
+    - [Chrome - 使用技巧](http://www.cnblogs.com/liyunhua/p/4544738.html)
+    - [Chrome - Console控制台不完全指南](http://www.cnblogs.com/Wayou/p/chrome-console-tips-and-tricks.html)
+    - [Chrome - Workspace使浏览器变成IDE](http://c7sky.com/chrome-devtools-workspace.html)
+
+
+3. 浏览器同步
+- [puer](https://github.com/leeluolee/puer)
+- [liveReload](http://livereload.com/)
+- [f5](http://getf5.com/)
+- [File Watchers](http://geek100.com/2608/)
+- []()
 
 
 ###十七. 前端导航网站
