@@ -177,6 +177,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [响应式用户交互组件库](https://github.com/bh-lay/UI)
 
 ####5. CSS
+
 - [CSS 语法参考](http://tympanus.net/codrops/css_reference/)
 - [CSS3动画手册](http://isux.tencent.com/css3/index.html)
 - [腾讯css3动画制作工具](http://isux.tencent.com/css3/tools.html)
@@ -244,6 +245,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [淘宝SUI](http://m.sui.taobao.org/)
 
 ####9. avalon
+
 - [avalonjs](http://avalonjs.github.io/)
 - [Avalon新一代UI库： OniUI](http://ued.qunar.com/oniui/index.html)
 - [avalon.oniui-基于avalon的组件库](https://github.com/RubyLouvre/avalon.oniui)
@@ -284,12 +286,14 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [mditor](http://bh-lay.github.io/mditor/) 一款轻量级的markdown编辑器
 
 ####14. D3
+
 - [Tutorials](https://github.com/mbostock/d3/wiki/Tutorials)
 - [lofter](http://datavisual.lofter.com/post/40cf3a_188e535)
 - [iteye](http://alanland.iteye.com/blog/1878595)
 - [ruanyifeng](http://javascript.ruanyifeng.com/library/d3.html)
 
 ####15. 兼容性
+
 - [esma 兼容列表](http://kangax.github.io/compat-table/es6/)
 - [caniuse](http://caniuse.com/#index )
 - [csscreator](http://csscreator.com/properties)
@@ -338,6 +342,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [高德地图](http://lbs.amap.com/api/)
 
 ####20. vue
+
 - [Vue.js](http://cn.vuejs.org/)
 - [Vue 入门指南](http://www.cnblogs.com/aaronjs/p/3660102.html)
 - [Vue.js 的一些资源索引](http://segmentfault.com/a/1190000000411057)
@@ -365,6 +370,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 ###八. 其它收集
 
 ####1. 各大公司开源项目
+
 - [Facebook Projects](https://code.facebook.com/projects/web/)
 - [百度web前端研发部](http://fex.baidu.com/)
 - [百度github](https://github.com/fex-team/)
@@ -395,6 +401,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 
 ####7. 页面 社会化 分享功能
+
 - [百度分享](http://share.baidu.com/) pc端
 - [JiaThis](http://jiathis.com/) pc端
 - [社会化分享组件](http://developer.baidu.com/soc/share) 移动端
@@ -402,6 +409,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [友盟分享](http://dev.umeng.com/social/android/quick-integration) 移动端
 
 ####8. 富文本编辑器
+
 - [百度 ueditor](http://ueditor.baidu.com/website/)
 - [经典的kindeditor](http://kindeditor.net/)
 - [wysiwyg](http://www.bootcss.com/p/bootstrap-wysiwyg/)
@@ -412,6 +420,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [XEditor](http://lab.hustlzp.com/XEditor/)
 
 ####9. 日历
+
 - [经典my97](http://www.my97.net/dp/demo/index.htm)
 - [强大的独立日期选择器](http://www.cnblogs.com/gbin1/archive/2012/04/16/2452105.html)
 - [fullcalendar](http://arshaw.com/fullcalendar/)
@@ -423,6 +432,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [大牛日历控件](https://github.com/Johnqing/QPAYCalendar/)
 
 ####10. 综合效果搜索平台
+
 - [效果网](http://www.jq22.com)
 - [17素材](http://www.17sucai.com/)
 - [常用的JavaScript代码片段](http://microjs.com/)
@@ -431,6 +441,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [sochange](http://www.jsfoot.com/jquery/demo/2011-09-20/192.html)
 
 ####12. 文件上传
+
 - [百度上传组件](http://fex.baidu.com/webuploader/)
 - [上传](https://blueimp.github.io/jQuery-File-Upload/)
 - [flash 头像上传](http://www.hdfu.net/)
@@ -439,18 +450,21 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - []()
 
 ####13. 模拟select
+
 - [糖饼 select](http://aui.github.io/popupjs/doc/selectbox.html)
 - [flexselect](https://github.com/rmm5t/jquery-flexselect)
 - [双select](http://loudev.com/)
 - []()
 
 ####14. 取色插件
+
 - [类似 Photoshop 的界面取色插件](http://www.jq22.com/plugin/367)
 - [jquery color](https://github.com/jquery/jquery-color/)
 - [取色插件集合](http://www.oschina.net/project/tag/287/color-picker)
 - []()
 
 ###九. Nodejs
+
 - [nodejs 篇幅比较巨大](http://liuqing.pw/)
 - [篇幅比较少](http://rainweb.cn/article/category/Nodejs)
 - [node express 入门教程](http://www.w3cfuns.com/article-5598538-1-1.html)
@@ -469,6 +483,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [nodejs cms](http://ourjs.com/detail/53e1f281c5910a9806000001)
 
 ###十. 性能优化
+
 - [Javascript高性能动画与页面渲染](http://www.infoq.com/cn/articles/javascript-high-performance-animation-and-page-rendering)
 - [移动H5前端性能优化指南](http://isux.tencent.com/h5-performance.html)
 - [5173首页前端性能优化实践](http://ued.5173.com/?p=1731)
@@ -521,6 +536,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - []()
 
 ###十一. 前端架构
+
 - [MUI-最接近原生APP体验的高性能前端框架](http://dcloudio.github.io/mui/)
 - [Amaze UI | 中国首个开源 HTML5 跨屏前端框架](http://amazeui.org/)
 - [KISSY - 阿里前端JavaScript库](http://docs.kissyui.com/)
@@ -533,6 +549,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 ###十二. 个人作品
 
 ####1. 推荐作品
+
 - [winter代码片段需要翻墙](https://gist.github.com/wintercn)
 - [fgm](http://www.fgm.cc/learn/)
 - [岑安作品集](https://github.com/hongru/hongru.github.com)
@@ -562,6 +579,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [frozenui](http://frozenui.github.io/case.html)
 
 ####2. 群员作品
+
 - [mdialog - [合肥-M.J]](http://demo.webjyh.com/)
 - [轮播图 - [上海－冷静]](http://sandbox.runjs.cn/show/do6zlrrk )
 - [[广州—坚壳]](http://www.replace5.com/)
@@ -580,6 +598,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - []()
 
 ###十三. 简历模板
+
 - [不错的个人简历](http://learnshare.github.io/about/index.html)
 - [简历](http://hcy2367.github.io/resume/)
 - [张伦](http://ncuey.sinaapp.com/CrispElite/ )
@@ -595,6 +614,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - []()
 
 ###十四. 面试题
+
 - [2014最新面试题](http://www.html-js.com/article/1743)
 - [阿里前端面试题](http://www.w3cfuns.com/thread-5598563-2-1.html)
 - [腾讯面试题](http://www.w3cfuns.com/article-5599657-1-1.html)
@@ -616,6 +636,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - []()
 
 ###十五. iconfont
+
 - [中文字体](http://www.zhihu.com/question/21253343)
 - [淘宝字库](http://iconfont.cn)
 - [字体](http://ux.etao.com/fonts)
@@ -653,11 +674,11 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 3. 浏览器同步
 
-- [puer](https://github.com/leeluolee/puer)
-- [liveReload](http://livereload.com/)
-- [f5](http://getf5.com/)
-- [File Watchers](http://geek100.com/2608/)
-- []()
+    - [puer](https://github.com/leeluolee/puer)
+    - [liveReload](http://livereload.com/)
+    - [f5](http://getf5.com/)
+    - [File Watchers](http://geek100.com/2608/)
+    - []()
 
 
 ###十七. 前端导航网站
