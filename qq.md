@@ -284,7 +284,8 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 ####14. D3
 
-- [Tutorials](https://github.com/mbostock/d3/wiki/Tutorials)
+- [d3 Tutorials](https://github.com/mbostock/d3/wiki/Tutorials)
+- [Gallery](https://github.com/mbostock/d3/wiki/Gallery)
 - [lofter](http://datavisual.lofter.com/post/40cf3a_188e535)
 - [iteye](http://alanland.iteye.com/blog/1878595)
 - [ruanyifeng](http://javascript.ruanyifeng.com/library/d3.html)
