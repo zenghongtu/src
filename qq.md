@@ -394,8 +394,33 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 ####5. jQuery
 
-####6. Ext, Easyui, J-ui
+####6. Ext, EasyUI, J-UI 及其它各种UI方案
 
+1. Ext
+
+    - [extjs](https://www.sencha.com/products/extjs/)
+    - [ext4英文api](http://docs.sencha.com/extjs/4.0.7/)
+    - [ext4中文api](http://extjs-doc-cn.github.io/ext4api/)
+    - []()
+    
+2. EasyUI
+
+    - [jquery easyui 未压缩源代码](http://jquery-easyui.googlecode.com/svn/trunk/src/)
+
+3. J-UI
+
+    - [J-UI](http://www.j-ui.com)
+   
+4. Other
+
+    - [MUI-最接近原生APP体验的高性能前端框架](http://dcloudio.github.io/mui/)
+    - [Amaze UI | 中国首个开源 HTML5 跨屏前端框架](http://amazeui.org/)
+    - [KISSY - 阿里前端JavaScript库](http://docs.kissyui.com/)
+    - [网易Nej - Nice Easy Javascript](http://nej.netease.com/)
+    - [Kendo UI MVVM Demo](http://demos.telerik.com/kendo-ui/mvvm/index)
+    - [Bootstrap](http://www.bootcss.com/)
+    - [Smart UI](http://smartui.chinamzz.com/)
+    - [雅虎UI - CSS UI](http://developer.yahoo.com/yui/grids/)
 
 ####7. 页面 社会化 分享功能
 
@@ -534,14 +559,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 ###十一. 前端架构
 
-- [MUI-最接近原生APP体验的高性能前端框架](http://dcloudio.github.io/mui/)
-- [Amaze UI | 中国首个开源 HTML5 跨屏前端框架](http://amazeui.org/)
-- [KISSY - 阿里前端JavaScript库](http://docs.kissyui.com/)
-- [网易Nej - Nice Easy Javascript](http://nej.netease.com/)
-- [Kendo UI MVVM Demo](http://demos.telerik.com/kendo-ui/mvvm/index)
-- [Bootstrap](http://www.bootcss.com/)
-- [Smart UI](http://smartui.chinamzz.com/)
-- [雅虎UI - CSS UI](http://developer.yahoo.com/yui/grids/)
+
 
 ###十二. 个人作品
 
@@ -677,7 +695,13 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [File Watchers](http://geek100.com/2608/)
     - []()
 
-
+4. PPT
+    
+    - [PPT](https://github.com/ksky521/nodePPT)
+    - [reveal](https://github.com/hakimel/reveal.js/)
+    - [slippy](https://github.com/Seldaek/slippy)
+    
+    
 ###十七. 前端导航网站
 
 - [界面清爽的前端导航](http://uxbees.com/index.html)
