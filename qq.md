@@ -442,6 +442,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [summernote 编辑器](https://github.com/summernote/summernote)
 - [html5编辑器](http://neilj.github.io/Squire/)
 - [XEditor](http://lab.hustlzp.com/XEditor/)
+- [wangEditor](https://github.com/wangfupeng1988/wangEditor )
 
 ####9. 日历
 
