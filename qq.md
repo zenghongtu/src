@@ -636,18 +636,18 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 2. Chrome, Firebug, Filddle 调试
 
     1. Fiddler
-    - [Fiddler调式使用知多少(一)深入研究](http://www.cnblogs.com/tugenhua0707/p/4623317.html)
+        - [Fiddler调式使用知多少(一)深入研究](http://www.cnblogs.com/tugenhua0707/p/4623317.html)
     
     2. Google
-    - [Google Chrome 官方](https://developer.chrome.com/devtools)
-    - [Chrome - 基础](http://www.cnblogs.com/constantince/p/4565261.html)
-    - [Chrome - 进阶](http://www.cnblogs.com/constantince/p/4579121.html)
-    - [Chrome - 性能](http://www.cnblogs.com/constantince/p/4585983.html)
-    - [Chrome - 性能进阶](http://www.cnblogs.com/constantince/p/4607497.html)
-    - [Chrome - 移动](http://www.cnblogs.com/constantince/p/4624241.html)
-    - [Chrome - 使用技巧](http://www.cnblogs.com/liyunhua/p/4544738.html)
-    - [Chrome - Console控制台不完全指南](http://www.cnblogs.com/Wayou/p/chrome-console-tips-and-tricks.html)
-    - [Chrome - Workspace使浏览器变成IDE](http://c7sky.com/chrome-devtools-workspace.html)
+        - [Google Chrome 官方](https://developer.chrome.com/devtools)
+        - [Chrome - 基础](http://www.cnblogs.com/constantince/p/4565261.html)
+        - [Chrome - 进阶](http://www.cnblogs.com/constantince/p/4579121.html)
+        - [Chrome - 性能](http://www.cnblogs.com/constantince/p/4585983.html)
+        - [Chrome - 性能进阶](http://www.cnblogs.com/constantince/p/4607497.html)
+        - [Chrome - 移动](http://www.cnblogs.com/constantince/p/4624241.html)
+        - [Chrome - 使用技巧](http://www.cnblogs.com/liyunhua/p/4544738.html)
+        - [Chrome - Console控制台不完全指南](http://www.cnblogs.com/Wayou/p/chrome-console-tips-and-tricks.html)
+        - [Chrome - Workspace使浏览器变成IDE](http://c7sky.com/chrome-devtools-workspace.html)
 
 
 3. 浏览器同步
