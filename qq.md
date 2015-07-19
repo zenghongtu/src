@@ -151,6 +151,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 ####2. Ecmascript
 
+- [Understanding ECMAScript 6 - Nicholas C. Zakas](https://leanpub.com/understandinges6/read)
 - [exploring-es6](https://leanpub.com/exploring-es6/read)
 - [exploring-es6翻译](https://github.com/es6-org/exploring-es6)
 - [exploring-es6翻译后预览](http://es6-org.github.io/exploring-es6/)
