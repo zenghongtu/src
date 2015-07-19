@@ -492,6 +492,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [JiaThis 分享到微信代码](http://www.jiathis.com/help/html/weixin-share-code)
     - [聊聊移动端跨平台开发的各种技术](http://fex.baidu.com/blog/2015/05/cross-mobile/)
     - [前端自动化测试](http://www.zhihu.com/question/29922082)
+    - [多种轮换图片](http://ajccom.github.io/niceslider/)
 
 ####12. 文件上传
 
