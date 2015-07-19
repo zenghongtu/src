@@ -463,7 +463,35 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [常用的JavaScript代码片段](http://microjs.com/)
 
 ####11. 轮播图
-- [sochange](http://www.jsfoot.com/jquery/demo/2011-09-20/192.html)
+
+1. pc图轮
+
+    - [sochange](http://www.jsfoot.com/jquery/demo/2011-09-20/192.html)
+
+2. 移动端
+
+    - [无缝切换](http://www.swipejs.com/)
+    - [滑屏效果](http://www.idangero.us/swiper)
+    - [全屏fullpage](https://github.com/peunzhang/fullpage)
+    - [单个图片切换](https://github.com/qiqiboy/touchslider)
+    - [单个全屏切换](https://github.com/peunzhang/slip.js)
+    - [百度的切换库](http://touch.code.baidu.com/examples.html?qq-pf-to=pcqq.group)
+    - [单个全屏切换](https://github.com/peunzhang/iSlider)
+    - [滑屏效果](https://github.com/saw/touch-interfaces)
+    - [旋转拖动设置](http://baijs.com/tinycircleslider/)
+    - [类似于swipe切换](http://touchslider.com/)
+    - [支持多种形式的触摸滑动](http://www.swiper.com.cn/demo/index.html)
+    - [滑屏效果](https://github.com/joker-ye/main/blob/master/wap/index.html)
+    - [大话主席pc移动图片轮换](http://www.superslide2.com/)
+    - [滑屏效果](https://github.com/hahnzhu/parallax.js)
+    - [基于zepto的fullpage](https://github.com/yanhaijing/zepto.fullpage)
+    - [微信调试的那些事](http://liyaodong.com/2015/07/06/%E5%BE%AE%E4%BF%A1%E8%B0%83%E8%AF%95%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
+    - [[WebApp]定宽网页设计下，固定宽度布局开发WebApp并实现多终端下WebApp布局自适应](http://www.cnblogs.com/plums/archive/2013/01/10/WebApp-fixed-width-layout-of-multi-terminal-adapter-since.html)
+    - [判断微信客户端的那些坑](http://loo2k.com/blog/detecting-wechat-client/)
+    - [可以通过javascript直接调用原生分享的工具](https://github.com/JefferyWang/nativeShare.js)
+    - [JiaThis 分享到微信代码](http://www.jiathis.com/help/html/weixin-share-code)
+    - [聊聊移动端跨平台开发的各种技术](http://fex.baidu.com/blog/2015/05/cross-mobile/)
+    - [前端自动化测试](http://www.zhihu.com/question/29922082)
 
 ####12. 文件上传
 
