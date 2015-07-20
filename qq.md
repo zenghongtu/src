@@ -735,6 +735,9 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [reveal](https://github.com/hakimel/reveal.js/)
     - [slippy](https://github.com/Seldaek/slippy)
     
+5. 移动微信调试
+    
+    - [浏览器端调试安卓](https://openstf.github.io/)
     
 ###十七. 前端导航网站
 
