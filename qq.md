@@ -690,6 +690,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [最全前端面试问题及答案总结 ](http://segmentfault.com/a/1190000002562454)
 - [如何面试一名前端开发工程师？](http://www.html-js.com/article/Large-search-front-team-column%202961)
 - [世上最全面试题](https://github.com/hawx1993/Front-end-Interview-questions)
+- [前端实习生面试总结 ](http://www.cnblogs.com/xiaoruo/p/4665163.html)
 - []()
 
 ###十五. iconfont
