@@ -503,6 +503,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [flash 头像上传](http://www.hdfu.net/)
 - [图片上传预览](http://www.dropzonejs.com/)
 - [图片裁剪](http://elemefe.github.io/image-cropper/)
+- [jQuery图片处理](http://www.oschina.net/project/tag/284/jquery-image-tools?lang=0&os=0&sort=view&p=2)
 - []()
 
 ####13. 模拟select
