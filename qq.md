@@ -503,7 +503,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [前端自动化测试](http://www.zhihu.com/question/29922082)
     - [多种轮换图片](http://ajccom.github.io/niceslider/)
 
-####12. 文件上传
+####13. 文件上传
 
 - [百度上传组件](http://fex.baidu.com/webuploader/)
 - [上传](https://blueimp.github.io/jQuery-File-Upload/)
@@ -513,19 +513,24 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [jQuery图片处理](http://www.oschina.net/project/tag/284/jquery-image-tools?lang=0&os=0&sort=view&p=2)
 - []()
 
-####13. 模拟select
+####14. 模拟select
 
 - [糖饼 select](http://aui.github.io/popupjs/doc/selectbox.html)
 - [flexselect](https://github.com/rmm5t/jquery-flexselect)
 - [双select](http://loudev.com/)
 - []()
 
-####14. 取色插件
+####15. 取色插件
 
 - [类似 Photoshop 的界面取色插件](http://www.jq22.com/plugin/367)
 - [jquery color](https://github.com/jquery/jquery-color/)
 - [取色插件集合](http://www.oschina.net/project/tag/287/color-picker)
 - [farbtastic 圆环＋正方形](https://github.com/mattfarina/farbtastic)
+- []()
+
+####16. 城市联动
+
+- [jquery.cityselect.js基于jQuery+JSON的省市或自定义联动效果](http://www.ijquery.cn/?p=360)
 - []()
 
 ###九. Nodejs
@@ -673,8 +678,6 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [简历池](http://www.mojianli.com/resume/view)
 - [haorooms博客](http://www.haorooms.com/about)
 - [Justin Young](http://cv.youngdze.com/)
-- []()
-- []()
 - []()
 
 ###十四. 面试题
