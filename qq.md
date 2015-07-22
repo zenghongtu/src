@@ -117,6 +117,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [瘳雪峰的Javascript教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
 - [焦点图轮播特效](http://www.imooc.com/learn/18)
 - [版本控制入门 – 搬进 Github](http://www.imooc.com/learn/390)
+- [重新介绍 JavaScript（JS 教程）](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
 ###六. API:
 
@@ -464,7 +465,13 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [17素材](http://www.17sucai.com/)
 - [常用的JavaScript代码片段](http://microjs.com/)
 
-####11. 轮播图
+####11. 前端工程化
+
+1. gulp 
+    
+    - [Gulp不完全入门教程](http://www.ido321.com/1622.html)
+
+####12. 轮播图
 
 1. pc图轮
 
@@ -691,6 +698,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [如何面试一名前端开发工程师？](http://www.html-js.com/article/Large-search-front-team-column%202961)
 - [世上最全面试题](https://github.com/hawx1993/Front-end-Interview-questions)
 - [前端实习生面试总结 ](http://www.cnblogs.com/xiaoruo/p/4665163.html)
+- [史上最全 前端开发面试问题及答案整理](https://github.com/hawx1993/Front-end-Interview-questions)
 - []()
 
 ###十五. iconfont
