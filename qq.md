@@ -185,6 +185,9 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [腾讯css3动画制作工具](http://isux.tencent.com/css3/tools.html)
 - [志爷css小工具集合](http://linxz.github.io/tianyizone/)
 - [css3 js 移动大杂烩](http://www.note12.com/category/blog/2014-6-5/538fe0a9f786f1b7019a4dfb)
+- [bouncejs 触摸库](http://bouncejs.com/)
+- [css3 按钮动画](http://fian.my.id/Waves/)
+- []()
 
 ####6. Angularjs
 
