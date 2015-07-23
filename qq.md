@@ -758,7 +758,9 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
         - [reveal](https://github.com/hakimel/reveal.js/)
         - [slippy](https://github.com/Seldaek/slippy)
     
+3. Other
 
+- [loading img](http://preloaders.net/en/circular)
     
 ###十七. 前端导航网站
 
