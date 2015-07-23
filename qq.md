@@ -250,7 +250,6 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [Avalon新一代UI库： OniUI](http://ued.qunar.com/oniui/index.html)
 - [avalon.oniui-基于avalon的组件库](https://github.com/RubyLouvre/avalon.oniui)
 - []()
-- []()
 
 ####10. Requriejs
 
@@ -664,6 +663,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [[海南-hank]作品](http://hcjp.github.io/work/demo/)
 - [[上海-张力]博客](https://github.com/yibuyisheng/blogs/issues)
 - [[上海-zenki]作品](http://zkske121.github.io/)
+- [移动端图案解锁](http://01google.sinaapp.com/locker.html)
 - []()
 
 ###十三. 简历模板
