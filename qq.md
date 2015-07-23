@@ -463,6 +463,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 ####8. 富文本编辑器
 
 - [百度 ueditor](http://ueditor.baidu.com/website/)
+- [经典的ckeditor](http://ckeditor.com/)
 - [经典的kindeditor](http://kindeditor.net/)
 - [wysiwyg](http://www.bootcss.com/p/bootstrap-wysiwyg/)
 - [一个有情怀的编辑器。Bach's Editor](http://integ.github.io/BachEditor/)
