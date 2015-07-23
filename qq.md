@@ -103,21 +103,30 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 ###五. 资源教程:
 
-- [前端知识体系](http://www.cnblogs.com/sb19871023/p/3894452.html)
-- [前端知识结构](https://github.com/JacksonTian/fks)
-- [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
-- [前端书籍](https://github.com/dypsilon/frontend-dev-bookmarks)
-- [前端入门教程](http://www.cnblogs.com/jikey/p/3613082.html)
-- [前端知识体系](http://www.cnblogs.com/sb19871023/p/3894452.html)
-- [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
-- [张鑫旭 - 慕课系列](http://www.imooc.com/space/teacher/id/197450)
-- [智能社 - 精通JavaScript开发](http://study.163.com/course/introduction/224014.htm)
-- [lyn - 慕课系列](http://www.imooc.com/space/teacher/id/104593)
-- [css sprite 雪碧图制作](http://www.imooc.com/learn/93)
-- [瘳雪峰的Javascript教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
-- [焦点图轮播特效](http://www.imooc.com/learn/18)
-- [版本控制入门 – 搬进 Github](http://www.imooc.com/learn/390)
-- [重新介绍 JavaScript（JS 教程）](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+1. 综合类
+
+    - [前端知识体系](http://www.cnblogs.com/sb19871023/p/3894452.html)
+    - [前端知识结构](https://github.com/JacksonTian/fks)
+    - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
+    - [前端书籍](https://github.com/dypsilon/frontend-dev-bookmarks)
+    - [前端知识体系](http://www.cnblogs.com/sb19871023/p/3894452.html)
+    - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
+    - [张鑫旭 - 慕课系列](http://www.imooc.com/space/teacher/id/197450)
+    - [智能社 - 精通JavaScript开发](http://study.163.com/course/introduction/224014.htm)
+    - [lyn - 慕课系列](http://www.imooc.com/space/teacher/id/104593)
+    - [css sprite 雪碧图制作](http://www.imooc.com/learn/93)
+    - [版本控制入门 – 搬进 Github](http://www.imooc.com/learn/390)
+    - [重新介绍 JavaScript（JS 教程）](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+
+2. 入门类
+
+    - [前端入门教程](http://www.cnblogs.com/jikey/p/3613082.html)
+    - [瘳雪峰的Javascript教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
+
+3. 效果类
+
+    - [弹出层](http://www.imooc.com/learn/58)
+    - [焦点图轮播特效](http://www.imooc.com/learn/18)
 
 ###六. API:
 
