@@ -387,8 +387,19 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [Qunar UED](http://ued.qunar.com/)
 
 ####2. Javascript
-- [ieBetter.js-让IE6-IE8拥有IE9+,Chrome等浏览器特性](http://www.zhangxinxu.com/wordpress/2013/12/iebetter-js-make-ie6-ie8-like-modern-browser-ie9-chrome/)
 
+1. 常用    
+
+    - [ieBetter.js-让IE6-IE8拥有IE9+,Chrome等浏览器特性](http://www.zhangxinxu.com/wordpress/2013/12/iebetter-js-make-ie6-ie8-like-modern-browser-ie9-chrome/)
+
+2. 算法
+
+    - [数据结构与算法 JavaScript 描述. 章节练习](https://github.com/Ralph-Wang/algorithm.in.js)
+    - [常见排序算法（JS版）](https://github.com/twobin/twobinSort)
+    - [经典排序](https://github.com/luofei2011/jsAgm/blob/master/js/sort.js)
+    - [常见排序算法-js版本](https://github.com/hechangmin/jssort)
+    - [JavaScript 算法与数据结构 精华集](https://github.com/lightningtgc/JavaScript-Algorithms)
+    - []()
 
 ####3. Html5
 - [HTML5 有哪些让你惊艳的 demo？](http://www.zhihu.com/question/24398907)
