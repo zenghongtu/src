@@ -48,8 +48,8 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 缺点：需要身份证验证获取免费云豆
 版本控制工具：svn
 - [京东云](http://jae.jd.com/)
-优点：不需要身份验证，支持：java,php,nodejs,python,ruby
-缺点：需要在控制台手动发布才能在线上预览
+优点：支持：java,php,nodejs,python,ruby
+缺点：需要实名认证200元/人，需要在控制台手动发布才能在线上预览
 版本控制工具：git
 - [github](http://github.com)
 优点：注册即有，方便
