@@ -114,8 +114,6 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [张鑫旭 - 慕课系列](http://www.imooc.com/space/teacher/id/197450)
     - [智能社 - 精通JavaScript开发](http://study.163.com/course/introduction/224014.htm)
     - [lyn - 慕课系列](http://www.imooc.com/space/teacher/id/104593)
-    - [css sprite 雪碧图制作](http://www.imooc.com/learn/93)
-    - [版本控制入门 – 搬进 Github](http://www.imooc.com/learn/390)
     - [重新介绍 JavaScript（JS 教程）](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
 2. 入门类
@@ -127,10 +125,15 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
     - [弹出层](http://www.imooc.com/learn/58)
     - [焦点图轮播特效](http://www.imooc.com/learn/18)
+    
+4. 工具类
+
+    - [css sprite 雪碧图制作](http://www.imooc.com/learn/93)
+    - [版本控制入门 – 搬进 Github](http://www.imooc.com/learn/390)
 
 ###六. API:
 
-####0. 总目录
+####1. 总目录
 
 1. 开发中心
 
@@ -149,7 +152,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 
 
-####1. jQuery
+####2. jQuery
 
 * [jQuery API 中文文档](http://jquery.bootcss.com/)
 * [hemin 在线版](http://hemin.cn/jq/)
@@ -159,7 +162,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 * [学习jquery](http://learn.jquery.com/)
 * [jquery 源码查找](http://james.padolsey.com/jquery/)
 
-####2. Ecmascript
+####3. Ecmascript
 
 - [Understanding ECMAScript 6 - Nicholas C. Zakas](https://leanpub.com/understandinges6/read)
 - [exploring-es6](https://leanpub.com/exploring-es6/read)
@@ -170,7 +173,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [ECMA-262，第 5 版](http://yanhaijing.com/es5/)
 - [es5](http://es5.github.io/)
 
-####3. Js template
+####4. Js template
 
 - [template-chooser](http://garann.github.io/template-chooser/)
 - [artTemplate](https://github.com/aui/artTemplate)
@@ -179,7 +182,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [Fxtpl v1.0 繁星前端模板引擎](http://koen301.github.io/fxtpl/)
 - [laytpl](http://sentsin.com/layui/laytpl/)
 
-####4. 弹出层
+####5. 弹出层
 
 - [artDialog 最新版](https://github.com/aui/artDialog)
 - [artDialog 文档](http://aui.github.io/artDialog/doc/index.html)
@@ -187,7 +190,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [贤心弹出层](http://sentsin.com/jquery/layer/)
 - [响应式用户交互组件库](https://github.com/bh-lay/UI)
 
-####5. CSS
+####6. CSS
 
 - [CSS 语法参考](http://tympanus.net/codrops/css_reference/)
 - [CSS3动画手册](http://isux.tencent.com/css3/index.html)
@@ -198,7 +201,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [css3 按钮动画](http://fian.my.id/Waves/)
 - []()
 
-####6. Angularjs
+####7. Angularjs
 
 - [angularjs中文社区](http://angularjs.cn/)
 - [Angularjs源码学习](http://www.cnblogs.com/xuwenmin888/p/3739096.html)
@@ -224,7 +227,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [整合jQuery Mobile+AngularJS经验谈](http://www.tuicool.com/articles/7ZZVr2)
 - [有jQuery背景，该如何用AngularJS编程思想](http://blog.jobbole.com/46589/ )
 
-####7. React
+####8. React
 - [react.js 中文论坛](http://www.react-china.org/)
 - [react.js 官方网址](https://facebook.github.io/react/index.html)
 - [react.js 官方文档](https://facebook.github.io/react/docs/getting-started.html)
@@ -237,7 +240,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [webpack](https://github.com/webpack/webpack)
 - []()
 
-####8. 移动端API
+####9. 移动端API
 
 1. API    
     - [99移动端知识集合](https://github.com/jtyjty99999/mobileTech)
@@ -256,14 +259,14 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [特色的HTML框架可以创建精美的iOS应用](http://framework7.taobao.org/)
     - [淘宝SUI](http://m.sui.taobao.org/)
 
-####9. avalon
+####10. avalon
 
 - [avalonjs](http://avalonjs.github.io/)
 - [Avalon新一代UI库： OniUI](http://ued.qunar.com/oniui/index.html)
 - [avalon.oniui-基于avalon的组件库](https://github.com/RubyLouvre/avalon.oniui)
 - []()
 
-####10. Requriejs
+####11. Requriejs
 
 - [Javascript模块化编程（一）：模块的写法 ](http://www.ruanyifeng.com/blog/2012/10/javascript_module.html)
 - [Javascript模块化编程（二）：AMD规范](http://www.ruanyifeng.com/blog/2012/10/asynchronous_module_definition.html)
@@ -277,18 +280,18 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [requriejs 其一 ](http://cyj.me/why-seajs/requirejs/ )
 - [require backbone结合](http://www.cnblogs.com/yexiaochai/p/3221081.html )
 
-####11. Seajs
+####12. Seajs
 
 - [seajs](http://seajs.org/)
 - [seajs 中文手册](http://cyj.me/why-seajs/zh/)
 
-####12. Less,sass
+####13. Less,sass
 
 - [less](http://less.bootcss.com/)
 - [sass](http://www.w3cplus.com/sassguide/)
 - [sass中国](http://www.cn-sass.com/)
 
-####13. Markdown
+####14. Markdown
         
 - [Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown/)
 - [markdown入门参考](https://github.com/LearnShare/Learning-Markdown/blob/master/README.md)
@@ -296,7 +299,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [mdeditor](https://www.zybuluo.com/mdeditor)  一款国内的在线markdown编辑器
 - [mditor](http://bh-lay.github.io/mditor/) 一款轻量级的markdown编辑器
 
-####14. D3
+####15. D3
 
 - [d3 Tutorials](https://github.com/mbostock/d3/wiki/Tutorials)
 - [Gallery](https://github.com/mbostock/d3/wiki/Gallery)
@@ -304,14 +307,14 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [iteye](http://alanland.iteye.com/blog/1878595)
 - [ruanyifeng](http://javascript.ruanyifeng.com/library/d3.html)
 
-####15. 兼容性
+####16. 兼容性
 
 - [esma 兼容列表](http://kangax.github.io/compat-table/es6/)
 - [caniuse](http://caniuse.com/#index )
 - [csscreator](http://csscreator.com/properties)
 - [microsoft](http://msdn.microsoft.com/zh-cn/library/cc351024(v=vs.85).aspx)
 
-####16. UI相关
+####17. UI相关
 
 - [bootcss](http://v3.bootcss.com/)
 - [MetroUICSS](http://www.w3cplus.com/MetroUICSS/)
@@ -328,11 +331,11 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [book](http://git-scm.com/book/zh)
 - [gogojimmy](http://gogojimmy.net/2012/01/17/how-to-use-git-1-git-basic/)
 
-####17. HTTP
+####18. HTTP
 
 - [HTTP API 设计指南](http://segmentfault.com/bookmark/1230000002521721)
 
-####18. 其它API
+####19. 其它API
 
 - [javascript流行库汇总](javascriptoo)
 - [验证api](http://niceue.com/validator/demo/index.php)
@@ -347,14 +350,14 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [svg mdn参考](https://developer.mozilla.org/en-US/docs/Web/SVG)
 - [localStorage 库](https://github.com/machao/localStorage)
 
-####19. 图表类
+####20. 图表类
 
 - [Highcharts 中文API](http://www.hcharts.cn/api/index.php)
 - [Highcharts 英文API](http://api.highcharts.com/highcharts)
 - [ECharts 百度的图表软件](http://echarts.baidu.com/ )
 - [高德地图](http://lbs.amap.com/api/)
 
-####20. vue
+####21. vue
 
 - [Vue.js](http://cn.vuejs.org/)
 - [Vue 入门指南](http://www.cnblogs.com/aaronjs/p/3660102.html)
