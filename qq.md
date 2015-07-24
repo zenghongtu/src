@@ -762,8 +762,11 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
     1. Fiddler
         - [Fiddler调式使用知多少(一)深入研究](http://www.cnblogs.com/tugenhua0707/p/4623317.html)
+        - [微信fiddle](http://www.cnblogs.com/strick/p/4570006.html)
+        - [微信fiddle](http://gaoboy.com/article/26.html)
+        - []()
     
-    2. Google
+    2. Chrome
         - [Google Chrome 官方](https://developer.chrome.com/devtools)
         - [Chrome - 基础](http://www.cnblogs.com/constantince/p/4565261.html)
         - [Chrome - 进阶](http://www.cnblogs.com/constantince/p/4579121.html)
@@ -773,24 +776,53 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
         - [Chrome - 使用技巧](http://www.cnblogs.com/liyunhua/p/4544738.html)
         - [Chrome - Console控制台不完全指南](http://www.cnblogs.com/Wayou/p/chrome-console-tips-and-tricks.html)
         - [Chrome - Workspace使浏览器变成IDE](http://c7sky.com/chrome-devtools-workspace.html)
+        - [network面板](http://www.html-js.com/article/Nothing-blind%202975)
+        - [chrome开发工具快捷键](http://anti-code.com/devtools-cheatsheet/)
+        - [chrome调试工具](http://www.html-js.com/article/2327)
+        - [Chrome 开发工具 Workspace 使用](http://www.iinterest.net/2014/05/09/chrome-dev-tool-workspace/)
+        - [Chrome神器Vimium快捷键学习记录 ](http://www.cppblog.com/deercoder/archive/2011/10/22/158886.html)
+        - [sass调试](http://www.w3cplus.com/sassguide/debug.html)
+        - [chrome调试canvas](http://sentsin.com/web/253.html)
+        - [chrome profiles1](https://developer.chrome.com/devtools/index)
+        - [chrome profiles2](http://h5dev.uc.cn/article-25-1.html)
+        - [chrome profiles3](http://www.oschina.net/translate/performance-optimisation-with-timeline-profiles)
+        - [chrome移动版调试](https://developers.google.com/chrome-developer-tools/docs/mobile-emulation)
+        - [chrome调试](http://ued.taobao.org/blog/?p=5534)
+        - [chrome的调试](http://www.cnblogs.com/QLeelulu/archive/2011/08/28/2156402.html)
+        - [chrome console 命令详解](https://developers.google.com/chrome-developer-tools/docs/commandline-api)
+        - [查看事件绑定1](http://www.cnblogs.com/leonkao/p/3809655.html)
+        - [查看事件绑定2](http://www.cnblogs.com/xiaoyao2011/p/3447421.html)
+        - [神器——Chrome开发者工具(一)](http://segmentfault.com/blog/xuelang/1190000000683599)
     
-    3. 移动微信调试
-        
+    3. Firebug
+        - [firebug视频教程](http://www.imooc.com/learn/137)
+        - [firefox 模拟器](https://developer.mozilla.org/zh-CN/docs/Tools/WebIDE)
+        - [console.log 命令详解](http://www.cnblogs.com/ctriphire/p/4116207.html)
+        - [Firebug入门指南](http://www.ruanyifeng.com/blog/2008/06/firebug_tutorial.html)
+        - [Firebug控制台详解](http://www.ruanyifeng.com/blog/2011/03/firebug_console_tutorial.html)
+        - []()
+    
+    4. 移动,微信调试
         - [浏览器端调试安卓](https://openstf.github.io/)
+        - [移动端前端开发调试](http://yujiangshui.com/multidevice-frontend-debug/)
+        - [使用 Chrome 远程调试 Android 设备](https://github.com/yujiangshui/CN-Chrome-DevTools/blob/remote-debugging/md/Use-Tools/remote-debugging.md)
+        - [mac移动端调试](http://plus.uc.cn/document/webapp/doc5.html)
+        - [mac移动端调试](http://www.mihtool.com/)
+        - [无线调试攻略](http://thx.github.io/mobile/debugging-in-mobile/)
+        - [无线调试攻略](http://yanhaijing.com/mobile/2014/12/17/web-debug-for-mobile/)
         
-    4. 浏览器同步
-    
+    5. 浏览器同步
         - [puer](https://github.com/leeluolee/puer)
         - [liveReload](http://livereload.com/)
         - [f5](http://getf5.com/)
         - [File Watchers](http://geek100.com/2608/)
         - []()
     
-    5. PPT
-        
+    6. PPT
         - [PPT](https://github.com/ksky521/nodePPT)
         - [reveal](https://github.com/hakimel/reveal.js/)
         - [slippy](https://github.com/Seldaek/slippy)
+        - []()
     
 3. Other
 
