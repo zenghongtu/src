@@ -72,6 +72,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 [向别人求助时有哪些「潜」规则？](http://www.zhihu.com/question/21218381)
 [如何在知乎提一个好问题？](http://www.zhihu.com/question/19555761)
 [如何优雅地向前辈或者高手请教技术问题？](http://www.zhihu.com/question/25464141)
+[提问的艺术-ZZ](http://www.awflasher.com/blog/archives/200)
 
 ###二. 禁问:
 日常生活废话禁问，主观性的问题禁问，概念性的问题禁问。
