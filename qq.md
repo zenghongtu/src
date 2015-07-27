@@ -199,6 +199,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [google code 下载地址](https://code.google.com/p/artdialog/downloads/list)
 - [贤心弹出层](http://sentsin.com/jquery/layer/)
 - [响应式用户交互组件库](https://github.com/bh-lay/UI)
+- [sweetalert-有css3动画弹出层](http://t4t5.github.io/sweetalert/)
 
 ####6. CSS
 
