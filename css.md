@@ -177,6 +177,7 @@ a{-webkit-tap-highlight-color:rgba(0,0,0,0);}
 - webkit 水平居中
 ```css
 display:-webkit-box;-webkit-box-pack:center; -webkit-box-align: center;
+position:absolute; top:50%;left:50%;transform:translate(-50%,-50%);
 ```
 - 取消chrome 搜索x提示
 ```css
