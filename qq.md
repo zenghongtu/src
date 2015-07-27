@@ -686,7 +686,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 ####2. 群员作品
 
-- [mdialog - [合肥-M.J]](http://demo.webjyh.com/)
+- [MDialog - [合肥-M.J]](http://demo.webjyh.com/)
 - [轮播图 - [上海－冷静]](http://sandbox.runjs.cn/show/do6zlrrk )
 - [[广州—坚壳]](http://www.replace5.com/)
 - [[成都 - 无痕]　感恩节专题](http://www.seejs.com/demos/)
@@ -702,6 +702,8 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [[上海-张力]博客](https://github.com/yibuyisheng/blogs/issues)
 - [[上海-zenki]作品](http://zkske121.github.io/)
 - [移动端图案解锁](http://01google.sinaapp.com/locker.html)
+- [MPreview 移动端图片预览组- [合肥-M.J]](https://github.com/webjyh/MPreview.mobile)
+- [Mexam 移动端在线做题组 - [合肥-M.J]](https://github.com/webjyh/Mexam)
 - []()
 
 ###十三. 简历模板
