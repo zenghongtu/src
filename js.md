@@ -7,6 +7,7 @@ Math.random()*(n-m)+m
 ```
 
 - [return false](http://stackoverflow.com/questions/1357118/event-preventdefault-vs-return-false)
+- [return false](http://www.75team.com/archives/201)
 ```javascript
 // event.preventDefault()会阻挡预设要发生的事件.
 // event.stopPropagation()会阻挡发生冒泡事件.
