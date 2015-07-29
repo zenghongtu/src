@@ -819,6 +819,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
         - [mac移动端调试](http://www.mihtool.com/)
         - [无线调试攻略](http://thx.github.io/mobile/debugging-in-mobile/)
         - [无线调试攻略](http://yanhaijing.com/mobile/2014/12/17/web-debug-for-mobile/)
+        - [屌爆了,完美调试 微信webview(x5)](http://www.jianshu.com/p/ccf124f1f74b)
         
     5. 浏览器同步
         - [puer](https://github.com/leeluolee/puer)
