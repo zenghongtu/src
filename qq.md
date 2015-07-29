@@ -367,6 +367,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [Highcharts 英文API](http://api.highcharts.com/highcharts)
 - [ECharts 百度的图表软件](http://echarts.baidu.com/ )
 - [高德地图](http://lbs.amap.com/api/)
+- [开源的矢量图脚本框架](http://paperjs.org/)
 
 ####21. vue
 
@@ -426,6 +427,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [经典排序](https://github.com/luofei2011/jsAgm/blob/master/js/sort.js)
     - [常见排序算法-js版本](https://github.com/hechangmin/jssort)
     - [JavaScript 算法与数据结构 精华集](https://github.com/lightningtgc/JavaScript-Algorithms)
+    - [面试常考算法题精讲](http://www.nowcoder.com/live/courses)
     - []()
 
 ####3. Html5
