@@ -728,6 +728,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 - [2014最新面试题](http://www.html-js.com/article/1743)
 - [阿里前端面试题](http://www.w3cfuns.com/thread-5598563-2-1.html)
+- [2016校招内推 -- 阿里巴巴前端 -- 三面面试经历 ](http://www.cnblogs.com/imwtr/p/4685546.html)
 - [腾讯面试题](http://www.w3cfuns.com/article-5599657-1-1.html)
 - [年后跳槽那点事：乐视+金山+360面试之行](http://www.cnblogs.com/lvdabao/p/3660707.html)
 - [阿里前端面试题上线](http://fatesinger.com/2722.html)
