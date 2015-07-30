@@ -715,6 +715,10 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [Mexam 移动端在线做题组 - [合肥-M.J]](https://github.com/webjyh/Mexam)
 - []()
 
+####3. 国外大牛精品
+
+- [pazguille](http://pazguille.me/)
+
 ###十三. 简历模板
 
 - [不错的个人简历](http://learnshare.github.io/about/index.html)
