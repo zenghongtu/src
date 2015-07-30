@@ -579,6 +579,10 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [jquery.cityselect.js基于jQuery+JSON的省市或自定义联动效果](http://www.ijquery.cn/?p=360)
 - []()
 
+####17. 剪贴板
+
+- [剪贴板](https://github.com/zeroclipboard/zeroclipboard)
+
 ###九. Nodejs
 
 - [nodejs 篇幅比较巨大](http://liuqing.pw/)
