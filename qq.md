@@ -157,6 +157,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [js秘密花园](http://sanshi.me/articles/JavaScript-Garden-CN/html/index.html)
     - [js秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
     - [开源中国在线API文档合集](http://tool.oschina.net/apidocs)
+    - [devdocs](http://devdocs.io/) 英文综合API网站
 
 2. 综合搜索
 
@@ -171,7 +172,6 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 * [hemin 在线版](http://hemin.cn/jq/)
 * [css88 jq api](http://www.css88.com/jqapi-1.9/on/)
 * [css88 jqui api](http://www.css88.com/jquery-ui-api/)
-* [devdocs](http://devdocs.io/)
 * [学习jquery](http://learn.jquery.com/)
 * [jquery 源码查找](http://james.padolsey.com/jquery/)
 
