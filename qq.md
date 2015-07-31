@@ -158,6 +158,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [js秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
     - [开源中国在线API文档合集](http://tool.oschina.net/apidocs)
     - [devdocs](http://devdocs.io/) 英文综合API网站
+    - [w3help](http://www.w3help.org/) 综合Bug集合网站
 
 2. 综合搜索
 
