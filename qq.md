@@ -311,6 +311,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [markdown入门参考](https://github.com/LearnShare/Learning-Markdown/blob/master/README.md)
 - [gitbook](https://www.gitbook.com/) 国外的在线markdown可编辑成书
 - [mdeditor](https://www.zybuluo.com/mdeditor)  一款国内的在线markdown编辑器
+- [stackedit](https://stackedit.io) 国外的在线markdown编辑器，功能强大，同步云盘
 - [mditor](http://bh-lay.github.io/mditor/) 一款轻量级的markdown编辑器
 
 ####15. D3
