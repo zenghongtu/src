@@ -141,6 +141,8 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
     - [css sprite 雪碧图制作](http://www.imooc.com/learn/93)
     - [版本控制入门 – 搬进 Github](http://www.imooc.com/learn/390)
+    - [Grunt-beginner前端自动化工具](http://www.imooc.com/learn/30)
+    - [Gulp in Action](http://www.imooc.com/learn/390)
 
 ###六. API:
 
@@ -520,7 +522,11 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 1. gulp 
     
+    - [Gulp官网](http://gulpjs.com/)
+    - [Gulp中文网]( http://www.gulpjs.com.cn/)
+    - [Gulp插件](http://gulpjs.com/plugins/)
     - [Gulp不完全入门教程](http://www.ido321.com/1622.html)
+    - [为什么使用gulp?](https://github.com/hjzheng/CUF_meeting_knowledge_share/issues/33)
 
 ####12. 轮播图
 
