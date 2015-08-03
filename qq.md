@@ -253,6 +253,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [Webpack 和 React 小书 - gitbook](https://fakefish.github.io/react-webpack-cookbook/)
 - [React 入门实例教程 - 阮一峰](http://www.ruanyifeng.com/blog/2015/03/react.html)
 - [webpack](https://github.com/webpack/webpack)
+- [React Native 中文版](http://wiki.jikexueyuan.com/project/react-native/)
 - []()
 
 ####9. 移动端API
@@ -403,6 +404,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [百度前端规范](http://isobar-idev.github.io/code-standards/)
 - [百度前端规范](http://zhuanlan.zhihu.com/fuyun/19884834)
 - [【敏捷开发】Android团队开发规范](http://www.cnblogs.com/lcw/p/3619181.html)
+- [ECMAScript6 编码规范--广发证券前端团队](https://github.com/gf-web/es6-coding-style/)
 
 ###八. 其它收集
 
