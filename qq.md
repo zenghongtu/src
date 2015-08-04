@@ -733,6 +733,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [移动端图案解锁](http://01google.sinaapp.com/locker.html)
 - [MPreview 移动端图片预览组- [合肥-M.J]](https://github.com/webjyh/MPreview.mobile)
 - [Mexam 移动端在线做题组 - [合肥-M.J]](https://github.com/webjyh/Mexam)
+- [dancer小人 - [北京-苏瑞]](http://letyougo.github.io/dancer/)
 - []()
 
 ####3. 国外大牛精品
