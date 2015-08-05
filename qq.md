@@ -874,9 +874,13 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
         - [slippy](https://github.com/Seldaek/slippy)
         - []()
     
-3. Other
+3. loading img
 
 - [loading img](http://preloaders.net/en/circular)
+
+4. 生成二维码
+
+- [生成二维码](http://cli.im/)
     
 ###十七. 前端导航网站
 
