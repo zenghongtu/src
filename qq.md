@@ -516,6 +516,11 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [大气实用jQuery手机移动端日历日期选择插件](http://www.js-css.cn/a/jscode/date/2014/1009/1336.html)
 - [jQuery Mobile 移动开发中的日期插件Mobiscroll ](https://mobiscroll.com/)
 
+3. Date library
+
+- [Datejs](https://github.com/datejs/Datejs)
+- [sugarjs](http://sugarjs.com/api/Date)
+
 ####10. 综合效果搜索平台
 
 - [效果网](http://www.jq22.com)
