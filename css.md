@@ -281,3 +281,8 @@ user-select:none;
     .class{}
 }
 ```
+
+- 屏蔽苹果浏览器对数字的识别[Meta标签中的format-detection属性及含义](http://blog.sina.com.cn/s/blog_51048da70101cgea.html)
+```html
+<meta content="telephone=no" name="format-detection">
+```
