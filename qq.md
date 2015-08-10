@@ -606,6 +606,10 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 - [剪贴板](https://github.com/zeroclipboard/zeroclipboard)
 
+####18. 简繁转换
+
+- [简繁转换](https://github.com/BYVoid/OpenCC)
+
 ###九. Nodejs
 
 - [nodejs 篇幅比较巨大](http://liuqing.pw/)
