@@ -725,6 +725,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [很多jquery插件](http://www.helloweba.com/list.html)
 - [soJs 作品系列](http://www.bujichong.com/sojs/api/index.html)
 - [frozenui](http://frozenui.github.io/case.html)
+- [黑白棋](http://js-game.github.io/othello/)
 
 ####2. 群员作品
 
