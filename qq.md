@@ -544,6 +544,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
     - [单屏轮播sochange](http://www.jsfoot.com/jquery/demo/2011-09-20/192.html)
     - [左右按钮多图切换](http://bxslider.com/examples/carousel-demystified)
+    - [fullpage全屏轮播](https://github.com/alvarotrigo/fullPage.js/)
 
 2. 移动端
 
