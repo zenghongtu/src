@@ -17,6 +17,13 @@ Math.random()*(n-m)+m
 // 停止callback function的执行并且立即return回来
 ```
 
+- 防止被Iframe嵌套
+```javascript
+if(top != self){
+    location.href = ”about:blank”;
+}
+```
+
 - 两种图片lazy加载的方式
 第一个By JS中级交流群 成都-猎巫 第二个By 上海-zenki 
 ```javascript
