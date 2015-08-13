@@ -7,6 +7,7 @@ Math.random()*(n-m)+m
 ```
 
 - [return false](http://stackoverflow.com/questions/1357118/event-preventdefault-vs-return-false)
+- [return false](http://www.75team.com/archives/201)
 ```javascript
 // event.preventDefault()会阻挡预设要发生的事件.
 // event.stopPropagation()会阻挡发生冒泡事件.
@@ -14,6 +15,13 @@ Math.random()*(n-m)+m
 // 他会做event.preventDefault();
 // 他会做event.stopPropagation();
 // 停止callback function的执行并且立即return回来
+```
+
+- 防止被Iframe嵌套
+```javascript
+if(top != self){
+    location.href = ”about:blank”;
+}
 ```
 
 - 两种图片lazy加载的方式

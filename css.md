@@ -177,6 +177,7 @@ a{-webkit-tap-highlight-color:rgba(0,0,0,0);}
 - webkit 水平居中
 ```css
 display:-webkit-box;-webkit-box-pack:center; -webkit-box-align: center;
+position:absolute; top:50%;left:50%;transform:translate(-50%,-50%);
 ```
 - 取消chrome 搜索x提示
 ```css
@@ -265,4 +266,23 @@ user-select:none;
 </div>
 ```
 
+- 手机多终端适配 media query[web app iphone4 iphone5 iphone6 响应式布局 适配代码](http://club.zoomla.cn/PItem?id=12594)
+```css
+@media (device-height:480px) and (-webkit-min-device-pixel-ratio:2){/* 兼容iphone4/4s */
+    .class{}
+}
+@media (device-height:568px) and (-webkit-min-device-pixel-ratio:2){/* 兼容iphone5 */
+    .class{}
+}
+@media (device-height:667px) and (-webkit-min-device-pixel-ratio:2){/* 兼容iphone6 */
+    .class{}
+}
+@media (device-height:736px) and (-webkit-min-device-pixel-ratio:2){/* 兼容iphone6 Plus */
+    .class{}
+}
+```
 
+- 屏蔽苹果浏览器对数字的识别[Meta标签中的format-detection属性及含义](http://blog.sina.com.cn/s/blog_51048da70101cgea.html)
+```html
+<meta content="telephone=no" name="format-detection">
+```
