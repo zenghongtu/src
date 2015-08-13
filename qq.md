@@ -590,6 +590,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [糖饼 select](http://aui.github.io/popupjs/doc/selectbox.html)
 - [flexselect](https://github.com/rmm5t/jquery-flexselect)
 - [双select](http://loudev.com/)
+- [select2](http://select2.github.io/)
 - []()
 
 ####15. 取色插件
