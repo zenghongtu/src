@@ -735,6 +735,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [soJs 作品系列](http://www.bujichong.com/sojs/api/index.html)
 - [frozenui](http://frozenui.github.io/case.html)
 - [黑白棋](http://js-game.github.io/othello/)
+- [fromone](http://yansm.github.io/fromone/index.html)
 
 ####2. 群员作品
 
