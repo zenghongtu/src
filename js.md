@@ -194,3 +194,4 @@ WeixinJSBridge.invoke('getBrandWCPayRequest', d, function(res){
     loading.hide();
 });
 ```
+
