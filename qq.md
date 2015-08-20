@@ -512,6 +512,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [日期格式化](http://momentjs.com/)
 - [大牛日历控件](https://github.com/Johnqing/QPAYCalendar/)
 - [我群某管理作品](https://github.com/Iamlars/dateMarker)
+- [input按位替换](http://digitalbush.com/projects/masked-input-plugin/)
 
 2. 移动
 
