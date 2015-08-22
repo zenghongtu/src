@@ -738,7 +738,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [平凡](http://pingfan1990.sinaapp.com)
 - [jyg 游戏案例](http://www.lovewebgames.com/)
 - [很多jquery插件](http://www.helloweba.com/list.html)
-- [soJs 作品系列](http://www.bujichong.com/sojs/api/index.html)
+- [不羁虫 - soJs 作品系列](http://www.bujichong.com/sojs/api/index.html)
 - [frozenui](http://frozenui.github.io/case.html)
 - [黑白棋](http://js-game.github.io/othello/)
 - [fromone](http://yansm.github.io/fromone/index.html)
