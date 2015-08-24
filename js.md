@@ -156,6 +156,14 @@ weekday[new Date(2015, 9, 1).getDay()];	//2015年10月1号
 
 #### 2. Mobile - js
 
+- [js 判断IOS, 安卓](http://caibaojian.com/browser-ios-or-android.html)
+```javascript
+var u = navigator.userAgent, app = navigator.appVersion;
+var isAndroid = u.indexOf('Android') > -1 || u.indexOf('Linux') > -1; //android终端或者uc浏览器
+var isiOS = !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/); //ios终端
+alert('是否是Android：'+isAndroid);
+alert('是否是iOS：'+isiOS);
+```
 
 #### 3. [微信 weixin](http://loo2k.com/blog/detecting-wechat-client/)
 
