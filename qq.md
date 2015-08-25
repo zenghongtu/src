@@ -946,7 +946,13 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 ###十九. Svn,Git,Github
 
-- [廖雪峰-Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
-- [git-for-windows](https://git-for-windows.github.io/)
-- [GitHub 添加 SSH keys](http://daemon369.github.io/git/2015/03/10/add-ssh-keys-for-github/)
-- [gogithub](http://www.worldhello.net/gotgithub/index.html)
+1. Git
+
+    - [git-scm](http://git-scm.com/)
+    - [廖雪峰-Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+    - [git-for-windows](https://git-for-windows.github.io/)
+    - [GitHub 添加 SSH keys](http://daemon369.github.io/git/2015/03/10/add-ssh-keys-for-github/)
+    - [gogithub](http://www.worldhello.net/gotgithub/index.html)
+
+2. Svn
+
