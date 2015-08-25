@@ -386,6 +386,14 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [Vue.js 的一些资源索引](http://segmentfault.com/a/1190000000411057)
 - []()
 
+####21. 正则
+
+- [JS正则表达式元字符](http://segmentfault.com/a/1190000002471140)
+- [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
+- [MDN-正则表达式](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Regular_Expressions)
+- [ruanyifeng-RegExp对象](http://javascript.ruanyifeng.com/stdlib/regexp.html)
+- []()
+
 ####22. ionic
 
 - [ionic](https://github.com/ychow/ionic-guide)
