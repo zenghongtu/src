@@ -115,6 +115,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
     - [前端知识体系](http://www.cnblogs.com/sb19871023/p/3894452.html)
     - [前端知识结构](https://github.com/JacksonTian/fks)
+    - [Web Front-end Stack v2.2](https://raw.githubusercontent.com/unruledboy/WebFrontEndStack/master/Web%20Front%20End%20Stack.png)
     - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
     - [前端书籍](https://github.com/dypsilon/frontend-dev-bookmarks)
     - [前端知识体系](http://www.cnblogs.com/sb19871023/p/3894452.html)
@@ -813,10 +814,13 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [5个经典的前端面试问题](http://ourjs.com/detail/5%E4%B8%AA%E7%BB%8F%E5%85%B8%E7%9A%84%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E9%97%AE%E9%A2%98)
 - [最全前端面试问题及答案总结 ](http://segmentfault.com/a/1190000002562454)
 - [如何面试一名前端开发工程师？](http://www.html-js.com/article/Large-search-front-team-column%202961)
-- [世上最全面试题](https://github.com/hawx1993/Front-end-Interview-questions)
+- [史上最全 前端开发面试问题及答案整理](https://github.com/hawx1993/Front-end-Interview-questions)
 - [前端实习生面试总结 ](http://www.cnblogs.com/xiaoruo/p/4665163.html)
 - [史上最全 前端开发面试问题及答案整理](https://github.com/hawx1993/Front-end-Interview-questions)
 - [BAT及各大互联网公司2014前端笔试面试题：JavaScript篇](http://blog.jobbole.com/78738/)
+- [前端开发面试题大收集](https://github.com/paddingme/Front-end-Web-Development-Interview-Question)
+- [收集的前端面试题和答案](https://github.com/qiu-deqing/FE-interview)
+- [如何面试前端工程师](http://www.zhihu.com/question/19568008)
 - []()
 
 ###十五. iconfont
