@@ -127,6 +127,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [麻省理工学院公开课：计算机科学及编程导论](http://v.163.com/special/opencourse/bianchengdaolun.html)
     - [JavaScript中的this陷阱的最全收集--没有之一](http://segmentfault.com/a/1190000002640298)
     - [jQuery基础课程](http://www.imooc.com/learn/11)
+    - [JS函数式编程指南](http://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch1.html)
 
 2. 入门类
 
