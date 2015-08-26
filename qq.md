@@ -370,6 +370,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [缓动函数](http://easings.net/zh-cn)
 - [svg 中文参考](http://www.w3school.com.cn/svg/svg_reference.asp)
 - [svg mdn参考](https://developer.mozilla.org/en-US/docs/Web/SVG)
+- [ai-to-svg](http://www.zamzar.com/convert/ai-to-svg/)
 - [localStorage 库](https://github.com/machao/localStorage)
 
 ####20. 图表类
