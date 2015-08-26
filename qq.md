@@ -130,6 +130,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [JavaScript中的this陷阱的最全收集--没有之一](http://segmentfault.com/a/1190000002640298)
     - [jQuery基础课程](http://www.imooc.com/learn/11)
     - [JS函数式编程指南](http://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch1.html)
+    - [JavaScript Promise迷你书（中文版）](http://liubin.github.io/promises-book/)
     - [腾讯移动Web前端知识库](https://github.com/AlloyTeam/Mars)
 
 2. 入门类
