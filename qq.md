@@ -130,6 +130,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [JavaScript中的this陷阱的最全收集--没有之一](http://segmentfault.com/a/1190000002640298)
     - [jQuery基础课程](http://www.imooc.com/learn/11)
     - [JS函数式编程指南](http://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch1.html)
+    - [腾讯移动Web前端知识库](https://github.com/AlloyTeam/Mars)
 
 2. 入门类
 
@@ -532,7 +533,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 - [大气实用jQuery手机移动端日历日期选择插件](http://www.js-css.cn/a/jscode/date/2014/1009/1336.html)
 - [jQuery Mobile 移动开发中的日期插件Mobiscroll ](https://mobiscroll.com/)
-- [腾讯移动Web前端知识库](https://github.com/AlloyTeam/Mars)
+
 
 3. Date library
 
