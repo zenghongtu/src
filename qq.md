@@ -223,6 +223,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 ####7. Angularjs
 
+- [Angular.js 的一些学习资源](https://github.com/dolymood/AngularLearning)
 - [angularjs中文社区](http://angularjs.cn/)
 - [Angularjs源码学习](http://www.cnblogs.com/xuwenmin888/p/3739096.html)
 - [Angularjs源码学习](http://www.ifeenan.com/?c=AngularJS)
