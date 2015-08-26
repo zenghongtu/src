@@ -458,6 +458,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [HTML5 有哪些让你惊艳的 demo？](http://www.zhihu.com/question/24398907)
 
 ####4. CSS
+- [browserhacks](http://browserhacks.com/)
 - []()
 
 ####5. jQuery
@@ -531,6 +532,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 - [大气实用jQuery手机移动端日历日期选择插件](http://www.js-css.cn/a/jscode/date/2014/1009/1336.html)
 - [jQuery Mobile 移动开发中的日期插件Mobiscroll ](https://mobiscroll.com/)
+- [腾讯移动Web前端知识库](https://github.com/AlloyTeam/Mars)
 
 3. Date library
 
