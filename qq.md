@@ -132,6 +132,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [JS函数式编程指南](http://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch1.html)
     - [JavaScript Promise迷你书（中文版）](http://liubin.github.io/promises-book/)
     - [腾讯移动Web前端知识库](https://github.com/AlloyTeam/Mars)
+    - [Front-End-Develop-Guide 前端开发指南](https://github.com/w3crange/Front-End-Develop-Guide)
 
 2. 入门类
 
@@ -431,7 +432,8 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [百度web前端研发部](http://fex.baidu.com/)
 - [百度github](https://github.com/fex-team/)
 - [alloyteam](http://www.alloyteam.com/)
-- [alloyteam github](http://alloyteam.github.io/)
+- [alloyteam-github](http://alloyteam.github.io/)
+- [alloyteam-AlloyGameEngine](https://github.com/AlloyTeam/AlloyGameEngine)
 - [AlloyDesigner](http://alloyteam.github.io/AlloyDesigner/) 即时修改，即时保存，设计稿较正，其它开发辅助工具
 - [H5交互页编辑器AEditor介绍](http://www.alloyteam.com/2015/06/h5-jiao-hu-ye-bian-ji-qi-aeditor-jie-shao/) H5动画交互页开发的工具介绍
 - [AEditor](http://aeditor.alloyteam.com/) H5动画交互页开发的工具
