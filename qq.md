@@ -406,6 +406,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 ###七. 开发规范
 
 - [HTML&CSS编码规范 by @mdo](http://codeguide.bootcss.com/)
+- [团队合作的css命名规范-腾讯AlloyTeam前端团队](http://www.alloyteam.com/2011/10/107/)
 - [前端编码规范之js - by yuwenhui](http://yuwenhui.github.io/)
 - [前端编码规范之js - by 李靖](http://www.cnblogs.com/hustskyking/p/javascript-spec.html)
 - [Airbnb JavaScript 编码规范（简体中文版）](https://github.com/yuche/javascript#table-of-contents)
@@ -550,8 +551,9 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [常用的JavaScript代码片段](http://microjs.com/)
 
 ####11. 前端工程化
+1.[什么是前端工程化](https://github.com/fouber/blog/issues/10?from=timeline&isappinstalled=0#)
 
-1. gulp 
+2. gulp 
     
     - [Gulp官网](http://gulpjs.com/)
     - [Gulp中文网]( http://www.gulpjs.com.cn/)
