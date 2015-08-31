@@ -903,6 +903,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
         - [查看事件绑定1](http://www.cnblogs.com/leonkao/p/3809655.html)
         - [查看事件绑定2](http://www.cnblogs.com/xiaoyao2011/p/3447421.html)
         - [神器——Chrome开发者工具(一)](http://segmentfault.com/blog/xuelang/1190000000683599)
+        - [奇趣百科性能优化(Chrome DevTools 中的 Timeline Profils 等工具使用介绍)](https://xinranliu.me/2015-05-22-qiqu-performance/)
     
     3. Firebug
         - [firebug视频教程](http://www.imooc.com/learn/137)
