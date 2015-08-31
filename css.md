@@ -286,3 +286,19 @@ user-select:none;
 ```html
 <meta content="telephone=no" name="format-detection">
 ```
+
+- 移除HTML5 input在type="number"时的上下小箭头
+  - 在chrome下：
+  ```css
+    input::-webkit-outer-spin-button,input::-webkit-inner-spin-button{
+        -webkit-appearance: none !important;
+        margin: 0; 
+    }
+  ```
+  - Firefox下：
+  ```css
+    input[type="number"]{-moz-appearance:textfield;}
+  ```
+    
+  - 第二种方案：
+    - 将type="number"改为type="tel"，同样是数字键盘，但是没有箭头。
