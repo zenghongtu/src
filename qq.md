@@ -572,6 +572,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [Gulp插件](http://gulpjs.com/plugins/)
     - [Gulp不完全入门教程](http://www.ido321.com/1622.html)
     - [为什么使用gulp?](https://github.com/hjzheng/CUF_meeting_knowledge_share/issues/33)
+    - [Gulp安装及配合组件构建前端开发一体化](http://www.dbpoo.com/getting-started-with-gulp/)
 
 ####12. 轮播图
 
