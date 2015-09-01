@@ -206,6 +206,8 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [淘宝模板juicer模板](http://juicer.name/docs/docs_zh_cn.html)
 - [Fxtpl v1.0 繁星前端模板引擎](http://koen301.github.io/fxtpl/)
 - [laytpl](http://sentsin.com/layui/laytpl/)
+- [mozilla - nunjucks](https://github.com/mozilla/nunjucks)
+- [Juicer](https://github.com/PaulGuo/Juicer)
 
 ####5. 弹出层
 
