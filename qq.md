@@ -443,6 +443,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 - [Facebook Projects](https://code.facebook.com/projects/web/)
 - [百度web前端研发部](http://fex.baidu.com/)
+- [百度EFE](http://efe.baidu.com/)
 - [百度github](https://github.com/fex-team/)
 - [alloyteam](http://www.alloyteam.com/)
 - [alloyteam-github](http://alloyteam.github.io/)
