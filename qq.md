@@ -554,10 +554,13 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [input按位替换-官网](http://digitalbush.com/projects/masked-input-plugin/)
 - [input按位替换-github](https://github.com/digitalBush/jquery.maskedinput/tree/1.2.2)
 - [bootstrap-daterangepicker](https://github.com/dangrossman/bootstrap-daterangepicker)
+- [国外30个插件集合](http://www.vandelaydesign.com/30-best-free-jquery-plugins/)
+- [JavaScript datepicker](http://dbushell.com/2012/10/09/pikaday-javascript-datepicker/)
+- [Datepair.js](http://jonthornton.github.io/Datepair.js/)
 
 2. 移动
 
-- [大气实用jQuery手机移动端日历日期选择插件](http://www.js-css.cn/a/jscode/date/2014/1009/1336.html)
+- [大气实用jQuery手机移动端日历日期选择插件](http://www.frankdemo.cn/index.php?c=content&a=show&id=115)
 - [jQuery Mobile 移动开发中的日期插件Mobiscroll ](https://mobiscroll.com/)
 
 
