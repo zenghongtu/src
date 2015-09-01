@@ -542,6 +542,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [我群某管理作品](https://github.com/Iamlars/dateMarker)
 - [input按位替换-官网](http://digitalbush.com/projects/masked-input-plugin/)
 - [input按位替换-github](https://github.com/digitalBush/jquery.maskedinput/tree/1.2.2)
+- [bootstrap-daterangepicker](https://github.com/dangrossman/bootstrap-daterangepicker)
 
 2. 移动
 
