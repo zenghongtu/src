@@ -339,9 +339,12 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 ####16. 兼容性
 
 - [esma 兼容列表](http://kangax.github.io/compat-table/es6/)
+- [W3C CSS验证服务](http://jigsaw.w3.org/css-validator/validator.html.zh-cn)
 - [caniuse](http://caniuse.com/#index )
 - [csscreator](http://csscreator.com/properties)
 - [microsoft](http://msdn.microsoft.com/zh-cn/library/cc351024(v=vs.85).aspx)
+- [在线测兼容-移动端](http://www.responsinator.com/)
+- [emulators](https://www.manymo.com/emulators)
 
 ####17. UI相关
 
@@ -944,11 +947,6 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 - [生成二维码](http://cli.im/)
 
-5. 兼容
-
-- [ES 兼容网站](http://kangax.github.io/compat-table/es6/)
-- [W3C CSS验证服务](http://jigsaw.w3.org/css-validator/validator.html.zh-cn)
-- [emulators](https://www.manymo.com/emulators)
     
 ###十七. 前端导航网站
 
