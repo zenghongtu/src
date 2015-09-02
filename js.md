@@ -208,3 +208,68 @@ WeixinJSBridge.invoke('getBrandWCPayRequest', d, function(res){
     loading.hide();
 });
 ```
+
+- 瀑布流无限加载实例 
+```javascript
+  // be dependent on jquery & jquery.infinitescroll.min.js
+  // insert this '<div id="more"><a href="api?page="></a></div>' to your page.html
+  (function($){
+      $(function(){
+          var $container = $('.list-wrap-gd');
+          function layOutCallBack() {
+              $container.imagesLoaded(function(){
+                  $container.masonry({
+                      itemSelector: '.item-bar',
+                      gutter: 10
+                  });
+              });
+              $container.imagesLoaded().progress( function() {
+                  $container.masonry('layout');
+              });
+          }
+
+          layOutCallBack();
+
+          $container.infinitescroll({
+              navSelector : "#more",
+              nextSelector : "#more a",
+              itemSelector : ".item-bar",
+              pixelsFromNavToBottom: 300,
+              loading:{
+                  img: "/images/masonry_loading.gif",
+                  msgText: ' ',
+                  finishedMsg: "<em>已经到最后一页</em>",
+                  finished: function(){
+                      $("#more").remove();
+                      $("#infscr-loading").hide();
+                  }
+              },
+              errorCallback:function(){
+                  $(window).unbind('.infscr');
+              },
+              pathParse: function (path, nextPage) {
+                  var query = "";
+                  var keyword=$("#search_keyword").val();
+                  var cat_id=$("#cat_id").val();
+                  var brand_id=$("#brand_id").val();
+                  var country_id = $("#country_id").val();
+                  query = query + "&namekeyword="+keyword;
+                  query = query +"&cat_id="+cat_id
+                  query = query + "&brand_id=" + brand_id; 
+                  query = query + "&country_id=" + country_id;
+                  path = [path,query];
+                  return path;
+              }
+          },
+
+          function(newElements) {
+              var $newElems = $( newElements ).css({ opacity: 0 });
+              $newElems.imagesLoaded(function(){
+                  $newElems.animate({ opacity: 1 });
+                  $container.masonry( 'appended', $newElems, true );
+                  layOutCallBack();
+              });
+          });
+      });
+  })(jQuery);
+  ```
