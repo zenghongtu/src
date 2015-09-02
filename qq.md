@@ -698,6 +698,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [nodejs事件轮询](http://blog.mixu.net/2011/02/01/understanding-the-node-js-event-loop/)
 - [node入门](http://www.nodebeginner.org/index-zh-cn.html)
 - [nodejs cms](http://ourjs.com/detail/53e1f281c5910a9806000001)
+- [Node初学者入门，一本全面的NodeJS教程](http://ourjs.com/detail/529ca5950cb6498814000005)
 
 ###十. 性能优化
 
