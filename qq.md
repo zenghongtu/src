@@ -764,6 +764,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
     - [google在线工具](https://developers.google.com/speed/pagespeed/insights/)
     - [阿里测](http://www.alibench.com/)
+    - [阿里-免费测试服务](http://itest.aliyun.com/)
     - [js性能测试](http://jsperf.com/)
     - []()
     
