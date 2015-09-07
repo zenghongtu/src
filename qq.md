@@ -258,6 +258,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [angular ui](http://mgcrea.github.io/angular-strap/)
 - [整合jQuery Mobile+AngularJS经验谈](http://www.tuicool.com/articles/7ZZVr2)
 - [有jQuery背景，该如何用AngularJS编程思想](http://blog.jobbole.com/46589/ )
+- [AngularJS在线教程](http://each.sinaapp.com/angular/)
 
 ####8. React
 - [react.js 中文论坛](http://www.react-china.org/)
