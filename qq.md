@@ -558,6 +558,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [国外30个插件集合](http://www.vandelaydesign.com/30-best-free-jquery-plugins/)
 - [JavaScript datepicker](http://dbushell.com/2012/10/09/pikaday-javascript-datepicker/)
 - [Datepair.js](http://jonthornton.github.io/Datepair.js/)
+- [一个风格多样的日历](https://github.com/glad/glDatePicker)
 
 2. 移动
 
