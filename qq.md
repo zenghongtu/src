@@ -412,6 +412,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [ruanyifeng - RegExp对象](http://javascript.ruanyifeng.com/stdlib/regexp.html)
 - [小胡子哥 - 进阶正则表达式](http://div.io/topic/764?page=1)
 - [is.js](https://github.com/Cedriking/is.js/blob/master/is.js)
+- [正则在线测试](http://regexper.com/)
 - []()
 
 ####22. ionic
