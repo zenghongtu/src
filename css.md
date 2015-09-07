@@ -308,7 +308,7 @@ user-select:none;
 ```html
 <a href="tel:15222222222">移动WEB页面JS一键拨打号码咨询功能</a>
 <a href="sms:15222222222">移动WEB页面JS一键发送短信咨询功能</a>
-//移动web页面自动探测电话号码
+<!--移动web页面自动探测电话号码-->
 <meta name="format-detection" content="telephone=no">
 <meta http-equiv="x-rim-auto-match" content="none">
 ```
