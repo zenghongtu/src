@@ -303,12 +303,12 @@ user-select:none;
   - 第二种方案：
     - 将type="number"改为type="tel"，同样是数字键盘，但是没有箭头。
     
-  - [HTML5手机浏览直接给一个号码打电话，发短信](http://java-er.com/blog/html5-mobile-call-sms/)
+- [HTML5手机浏览直接给一个号码打电话，发短信](http://java-er.com/blog/html5-mobile-call-sms/)
   
-  ```html
-  <a href="tel:15222222222">移动WEB页面JS一键拨打号码咨询功能</a>
-  <a href="sms:15222222222">移动WEB页面JS一键发送短信咨询功能</a>
-  `移动web页面自动探测电话号码`
-  <meta name="format-detection" content="telephone=no">
-  <meta http-equiv="x-rim-auto-match" content="none">
-  ```
+```html
+<a href="tel:15222222222">移动WEB页面JS一键拨打号码咨询功能</a>
+<a href="sms:15222222222">移动WEB页面JS一键发送短信咨询功能</a>
+//移动web页面自动探测电话号码
+<meta name="format-detection" content="telephone=no">
+<meta http-equiv="x-rim-auto-match" content="none">
+```
