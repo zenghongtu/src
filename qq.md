@@ -174,7 +174,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 2. 综合搜索
 
     - [javascripting](http://www.javascripting.com/)
-    - [microjs](http://microjs.com/)
+    - [各种流行库搜索](http://microjs.com/)
 
 
 
