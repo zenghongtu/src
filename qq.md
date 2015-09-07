@@ -593,6 +593,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [为什么使用gulp?](https://github.com/hjzheng/CUF_meeting_knowledge_share/issues/33)
     - [Gulp安装及配合组件构建前端开发一体化](http://www.dbpoo.com/getting-started-with-gulp/)
     - [Gulp 入门指南](https://github.com/nimojs/gulp-book)
+    - [Gulp入门教程](http://markpop.github.io/2014/09/17/Gulp%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/)
 
 3. Grunt
 
