@@ -691,6 +691,19 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 - [facebook表格](http://facebook.github.io/fixed-data-table/)
 
+####20. 在线演示
+
+- [js 在线编辑 - runjs](http://runjs.cn/)
+- [js 在线编辑 - jsbin](http://jsbin.com/)
+- [js 在线编辑 - codepen](http://codepen.io/)
+- [js 在线编辑 - jsfiddle](http://jsfiddle.net/)
+- [java 在线编辑 - runjs](http://ideone.com/)
+- [js 在线编辑 - hcharts](http://code.hcharts.cn/)
+- [js 在线编辑 - jsdm](http://jsdm.com/)
+- [sql 在线编辑 - sqlfiddle](http://sqlfiddle.com/)
+- [mozilla 在线编辑器](https://thimble.mozilla.org)
+
+
 ###九. Nodejs
 
 - [nodejs 篇幅比较巨大](http://liuqing.pw/)
