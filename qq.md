@@ -923,6 +923,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 1. 前端开发工具
 
+    - [IntelliJ IDEA 简体中文专题教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
     - [Webstorm,InterllIdea,Phpstorm](http://t.cn/8kZZ1Uy)
     - [SublimeText](https://github.com/jikeytang/sublime-text)
     - [Atom](https://atom.io/)
