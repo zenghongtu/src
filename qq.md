@@ -115,7 +115,8 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
     - [前端知识体系](http://www.cnblogs.com/sb19871023/p/3894452.html)
     - [前端知识结构](https://github.com/JacksonTian/fks)
-    - [WebFrontEndStack](https://github.com/unruledboy/WebFrontEndStack)
+    - [Web前端开发大系概览](https://github.com/unruledboy/WebFrontEndStack)
+    - [Web前端开发大系概览-中文版](http://www.cnblogs.com/unruledboy/p/WebFrontEndStack.html)
     - [Web Front-end Stack v2.2](https://raw.githubusercontent.com/unruledboy/WebFrontEndStack/master/Web%20Front%20End%20Stack.png)
     - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
     - [前端书籍](https://github.com/dypsilon/frontend-dev-bookmarks)
