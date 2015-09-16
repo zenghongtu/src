@@ -1044,6 +1044,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [gogithub](http://www.worldhello.net/gotgithub/index.html)
     - [git常规命令练习](http://pcottle.github.io/learnGitBranching/)
     - [git的资料整理](https://github.com/xirong/my-git)
+    - [我所记录的git命令（非常实用）](http://www.cnblogs.com/fanfan259/p/4810517.html)
 
 2. Svn
 
