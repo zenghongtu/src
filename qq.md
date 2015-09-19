@@ -694,6 +694,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 ####19. 表格
 
 - [facebook表格](http://facebook.github.io/fixed-data-table/)
+- [类似于Excel编辑表格-handsontable](http://handsontable.com/)
 
 ####20. 在线演示
 
