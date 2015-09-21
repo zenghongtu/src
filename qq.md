@@ -148,7 +148,6 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [css sprite 雪碧图制作](http://www.imooc.com/learn/93)
     - [版本控制入门 – 搬进 Github](http://www.imooc.com/learn/390)
     - [Grunt-beginner前端自动化工具](http://www.imooc.com/learn/30)
-    - [Gulp in Action](http://www.imooc.com/learn/390)
 
 5. 慕课专题
 
@@ -605,6 +604,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [Gulp 入门指南](https://github.com/nimojs/gulp-book)
     - [Gulp 入门指南 - nimojs](https://github.com/nimojs/blog/issues/19)
     - [Gulp入门教程](http://markpop.github.io/2014/09/17/Gulp%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/)
+    - [Gulp in Action](http://www.imooc.com/learn/390)
 
 3. Grunt
 
