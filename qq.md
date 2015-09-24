@@ -268,12 +268,13 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [react.js material UI](http://material-ui.com/#/)
 - [react.js TouchstoneJS UI](http://touchstonejs.io/)
 - [react.js amazeui UI](http://amazeui.org/react/)
+- [React 入门实例教程 - 阮一峰](http://www.ruanyifeng.com/blog/2015/03/react.html)
+- [React Native 中文版](http://wiki.jikexueyuan.com/project/react-native/)
 - [Webpack 和 React 小书 - 前端乱炖](http://www.html-js.com/article/Fakefish%203053)
 - [Webpack 和 React 小书 - gitbook](https://fakefish.github.io/react-webpack-cookbook/)
-- [React 入门实例教程 - 阮一峰](http://www.ruanyifeng.com/blog/2015/03/react.html)
 - [webpack](https://github.com/webpack/webpack)
-- [React Native 中文版](http://wiki.jikexueyuan.com/project/react-native/)
-- []()
+- [Webpack，101入门体验](http://html-js.com/article/3009)
+- [webpack入门教程](http://html-js.com/article/3113)
 
 ####9. 移动端API
 
