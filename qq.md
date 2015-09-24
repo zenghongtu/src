@@ -442,6 +442,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [百度前端规范](http://isobar-idev.github.io/code-standards/)
     - [百度前端规范](http://zhuanlan.zhihu.com/fuyun/19884834)
     - [ECMAScript6 编码规范--广发证券前端团队](https://github.com/gf-web/es6-coding-style/)
+    - [JavaScript 风格指南/编码规范（Airbnb公司版）](http://blog.jobbole.com/79484/)
 
 2. PHP
 
