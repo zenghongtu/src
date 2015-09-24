@@ -424,25 +424,33 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 ###七. 开发规范
 
-- [HTML&CSS编码规范 by @mdo](http://codeguide.bootcss.com/)
-- [团队合作的css命名规范-腾讯AlloyTeam前端团队](http://www.alloyteam.com/2011/10/107/)
-- [前端编码规范之js - by yuwenhui](http://yuwenhui.github.io/)
-- [前端编码规范之js - by 李靖](http://www.cnblogs.com/hustskyking/p/javascript-spec.html)
-- [Airbnb JavaScript 编码规范（简体中文版）](https://github.com/yuche/javascript#table-of-contents)
-- [最流行的PHP 代码规范](http://segmentfault.com/a/1190000000443795)
-- [最流行的PHP 代码规范](https://github.com/hfcorriez/fig-standards/blob/zh_CN/%E6%8E%A5%E5%8F%97/PSR-2-coding-style-guide.md)
-- [AMD与CMD规范的区别](http://www.zhihu.com/question/20351507)
-- [AMD与CMD规范的区别](http://www.cnblogs.com/tugenhua0707/p/3507957.html)
-- [KISSY 源码规范](http://docs.kissyui.com/1.4/docs/html/tutorials/style-guide/kissy-source-style.html)
-- [bt编码规范](http://codeguide.bootcss.com/)
-- [规范加强版](https://github.com/Suxiaogang/Code_Guide)
-- [前端代码规范 及 最佳实践](http://blog.jobbole.com/79075/)
-- [百度前端规范](http://coderlmn.github.io/code-standards/)
-- [百度前端规范](http://isobar-idev.github.io/code-standards/)
-- [百度前端规范](http://zhuanlan.zhihu.com/fuyun/19884834)
-- [【敏捷开发】Android团队开发规范](http://www.cnblogs.com/lcw/p/3619181.html)
-- [ECMAScript6 编码规范--广发证券前端团队](https://github.com/gf-web/es6-coding-style/)
-- [Android 开发规范与应用](http://www.jianshu.com/p/4390f4fe19b3)
+1. 前端
+    - [HTML&CSS编码规范 by @mdo](http://codeguide.bootcss.com/)
+    - [团队合作的css命名规范-腾讯AlloyTeam前端团队](http://www.alloyteam.com/2011/10/107/)
+    - [前端编码规范之js - by yuwenhui](http://yuwenhui.github.io/)
+    - [前端编码规范之js - by 李靖](http://www.cnblogs.com/hustskyking/p/javascript-spec.html)
+    - [前端开发规范手册](http://zhibimo.com/read/Ashu/front-end-style-guide/)
+    - [Airbnb JavaScript 编码规范（简体中文版）](https://github.com/yuche/javascript#table-of-contents)
+    - [AMD与CMD规范的区别](http://www.zhihu.com/question/20351507)
+    - [AMD与CMD规范的区别](http://www.cnblogs.com/tugenhua0707/p/3507957.html)
+    - [KISSY 源码规范](http://docs.kissyui.com/1.4/docs/html/tutorials/style-guide/kissy-source-style.html)
+    - [bt编码规范](http://codeguide.bootcss.com/)
+    - [规范加强版](https://github.com/Suxiaogang/Code_Guide)
+    - [前端代码规范 及 最佳实践](http://blog.jobbole.com/79075/)
+    - [百度前端规范](http://coderlmn.github.io/code-standards/)
+    - [百度前端规范](http://isobar-idev.github.io/code-standards/)
+    - [百度前端规范](http://zhuanlan.zhihu.com/fuyun/19884834)
+    - [ECMAScript6 编码规范--广发证券前端团队](https://github.com/gf-web/es6-coding-style/)
+
+2. PHP
+
+    - [最流行的PHP 代码规范](http://segmentfault.com/a/1190000000443795)
+    - [最流行的PHP 代码规范](https://github.com/hfcorriez/fig-standards/blob/zh_CN/%E6%8E%A5%E5%8F%97/PSR-2-coding-style-guide.md)
+        
+3. Android
+
+    - [【敏捷开发】Android团队开发规范](http://www.cnblogs.com/lcw/p/3619181.html)
+    - [Android 开发规范与应用](http://www.jianshu.com/p/4390f4fe19b3)
 
 ###八. 其它收集
 
