@@ -481,6 +481,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [ieBetter.js-让IE6-IE8拥有IE9+,Chrome等浏览器特性](http://www.zhangxinxu.com/wordpress/2013/12/iebetter-js-make-ie6-ie8-like-modern-browser-ie9-chrome/)
     - [模拟键盘](http://mottie.github.io/Keyboard/)
     - [拼音](https://github.com/hotoo/pinyin)
+    - [中国个人身份证号验证](https://github.com/mc-zone/IDValidator)
 
 2. 算法
 
