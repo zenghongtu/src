@@ -404,10 +404,10 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 ####21. vue
 
-- [Vuejs](http://cn.vuejs.org/)
-- [Vuejs 论坛](http://forum.vuejs.org/)
+- [Vue](http://cn.vuejs.org/)
+- [Vue 论坛](http://forum.vuejs.org/)
 - [Vue 入门指南](http://www.cnblogs.com/aaronjs/p/3660102.html)
-- [Vue.js 的一些资源索引](http://segmentfault.com/a/1190000000411057)
+- [Vue 的一些资源索引](http://segmentfault.com/a/1190000000411057)
 - []()
 
 ####21. 正则
