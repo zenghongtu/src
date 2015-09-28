@@ -335,3 +335,23 @@ window.addEventListener("onorientationchange" in window ? "orientationchange" : 
     }, false); 
 //移动端的浏览器一般都支持window.orientation这个参数，通过这个参数可以判断出手机是处在横屏还是竖屏状态。
 ```
+
+- [iOS，Safari浏览器，input等表单focus后fixed元素错位问题](https://www.snip2code.com/Snippet/176582/--iOS-Safari----input---focus-fixed-----)
+```javascript
+if( /iPhone|iPod|iPad/i.test(navigator.userAgent) ) {
+    $(document).on('focus', 'input, textarea', function()
+    {
+       $('header').css("position", 'absolute');
+       $('footer').css("position", 'absolute');
+       
+    });
+    
+    $(document).on('blur', 'input, textarea', function()
+    {
+         $('header').css("position", 'fixed');
+         $('footer').css("position", 'fixed');
+        
+    });
+} 
+
+```
