@@ -273,3 +273,56 @@ WeixinJSBridge.invoke('getBrandWCPayRequest', d, function(res){
       });
   })(jQuery);
   ```
+  
+  - [iOS，Safari浏览器，input等表单focus后fixed元素错位问题](https://www.snip2code.com/Snippet/176582/--iOS-Safari----input---focus-fixed-----)
+  ```javascript
+  if( /iPhone|iPod|iPad/i.test(navigator.userAgent) ) {
+      $(document).on('focus', 'input, textarea', function()
+      {
+         $('header').css("position", 'absolute');
+         $('footer').css("position", 'absolute');
+         
+      });
+      
+      $(document).on('blur', 'input, textarea', function()
+      {
+           $('header').css("position", 'fixed');
+           $('footer').css("position", 'fixed');
+          
+      });
+  } 
+  
+  ```
+  
+  - 得到地理位置
+  ```javascript
+  function getLocation(callback){
+      if(navigator.geolocation){
+          navigator.geolocation.getCurrentPosition(
+                  function(p){
+                      callback(p.coords.latitude, p.coords.longitude);
+                  },
+                  function(e){
+                      var msg = e.code + "\n" + e.message;
+                  }
+          );
+      }
+  }
+  ```
+  
+  - [rem计算适配](http://isux.tencent.com/web-app-rem.html)
+  ```javascript
+  (function(doc, win){
+      var docEl = doc.documentElement,
+          resizeEvt = 'orientationchange' in window ? 'orientationchange' : 'resize',
+          recalc = function(){
+              var clientWidth = docEl.clientWidth;
+              if(!clientWidth) return;
+              docEl.style.fontSize = 20 * (clientWidth / 320) + 'px';
+          };
+  
+      if(!doc.addEventListener) return;
+      win.addEventListener(resizeEvt, recalc, false);
+      doc.addEventListener('DOMContentLoaded', recalc, false);
+  })(document, window);
+  ```
