@@ -289,7 +289,6 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [zepto 中文注释](http://www.cnblogs.com/sky000/archive/2013/03/29/2988952.html)
     - [jqmobile 手册](http://app-framework-software.intel.com/api.php)
     - [移动浏览器开发集合](https://github.com/maxzhang/maxzhang.github.com/issues)
-    - [js移动调试](http://thx.github.io/mobile/debugging-in-mobile/)
     - [移动开发大杂烩](https://github.com/hoosin/mobile-web-favorites)
     - [微信webview中的一些问题](http://lin-chao.github.io/2014/11/14/%E5%BE%AE%E4%BF%A1webview%E4%B8%AD%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98/)
 2. 框架    
@@ -655,7 +654,6 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [大话主席pc移动图片轮换](http://www.superslide2.com/)
     - [滑屏效果](https://github.com/hahnzhu/parallax.js)
     - [基于zepto的fullpage](https://github.com/yanhaijing/zepto.fullpage)
-    - [微信调试的那些事](http://liyaodong.com/2015/07/06/%E5%BE%AE%E4%BF%A1%E8%B0%83%E8%AF%95%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
     - [[WebApp]定宽网页设计下，固定宽度布局开发WebApp并实现多终端下WebApp布局自适应](http://www.cnblogs.com/plums/archive/2013/01/10/WebApp-fixed-width-layout-of-multi-terminal-adapter-since.html)
     - [判断微信客户端的那些坑](http://loo2k.com/blog/detecting-wechat-client/)
     - [可以通过javascript直接调用原生分享的工具](https://github.com/JefferyWang/nativeShare.js)
@@ -1002,6 +1000,8 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
         - [无线调试攻略](http://thx.github.io/mobile/debugging-in-mobile/)
         - [无线调试攻略](http://yanhaijing.com/mobile/2014/12/17/web-debug-for-mobile/)
         - [屌爆了,完美调试 微信webview(x5)](http://www.jianshu.com/p/ccf124f1f74b)
+        - [微信调试的那些事](http://liyaodong.com/2015/07/06/%E5%BE%AE%E4%BF%A1%E8%B0%83%E8%AF%95%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
+        - [远程console](http://jsconsole.com/)
         
     5. 浏览器同步
         - [puer](https://github.com/leeluolee/puer)
