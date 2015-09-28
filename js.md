@@ -211,118 +211,154 @@ WeixinJSBridge.invoke('getBrandWCPayRequest', d, function(res){
 
 - 瀑布流无限加载实例 
 ```javascript
-  // be dependent on jquery & jquery.infinitescroll.min.js
-  // insert this '<div id="more"><a href="api?page="></a></div>' to your page.html
-  (function($){
-      $(function(){
-          var $container = $('.list-wrap-gd');
-          function layOutCallBack() {
-              $container.imagesLoaded(function(){
-                  $container.masonry({
-                      itemSelector: '.item-bar',
-                      gutter: 10
-                  });
-              });
-              $container.imagesLoaded().progress( function() {
-                  $container.masonry('layout');
-              });
-          }
-
-          layOutCallBack();
-
-          $container.infinitescroll({
-              navSelector : "#more",
-              nextSelector : "#more a",
-              itemSelector : ".item-bar",
-              pixelsFromNavToBottom: 300,
-              loading:{
-                  img: "/images/masonry_loading.gif",
-                  msgText: ' ',
-                  finishedMsg: "<em>已经到最后一页</em>",
-                  finished: function(){
-                      $("#more").remove();
-                      $("#infscr-loading").hide();
-                  }
-              },
-              errorCallback:function(){
-                  $(window).unbind('.infscr');
-              },
-              pathParse: function (path, nextPage) {
-                  var query = "";
-                  var keyword=$("#search_keyword").val();
-                  var cat_id=$("#cat_id").val();
-                  var brand_id=$("#brand_id").val();
-                  var country_id = $("#country_id").val();
-                  query = query + "&namekeyword="+keyword;
-                  query = query +"&cat_id="+cat_id
-                  query = query + "&brand_id=" + brand_id; 
-                  query = query + "&country_id=" + country_id;
-                  path = [path,query];
-                  return path;
-              }
-          },
-
-          function(newElements) {
-              var $newElems = $( newElements ).css({ opacity: 0 });
-              $newElems.imagesLoaded(function(){
-                  $newElems.animate({ opacity: 1 });
-                  $container.masonry( 'appended', $newElems, true );
-                  layOutCallBack();
+// be dependent on jquery & jquery.infinitescroll.min.js
+// insert this '<div id="more"><a href="api?page="></a></div>' to your page.html
+(function($){
+  $(function(){
+      var $container = $('.list-wrap-gd');
+      function layOutCallBack() {
+          $container.imagesLoaded(function(){
+              $container.masonry({
+                  itemSelector: '.item-bar',
+                  gutter: 10
               });
           });
-      });
-  })(jQuery);
-  ```
-  
-  - [iOS，Safari浏览器，input等表单focus后fixed元素错位问题](https://www.snip2code.com/Snippet/176582/--iOS-Safari----input---focus-fixed-----)
-  ```javascript
-  if( /iPhone|iPod|iPad/i.test(navigator.userAgent) ) {
-      $(document).on('focus', 'input, textarea', function()
-      {
-         $('header').css("position", 'absolute');
-         $('footer').css("position", 'absolute');
-         
-      });
-      
-      $(document).on('blur', 'input, textarea', function()
-      {
-           $('header').css("position", 'fixed');
-           $('footer').css("position", 'fixed');
-          
-      });
-  } 
-  
-  ```
-  
-  - 得到地理位置
-  ```javascript
-  function getLocation(callback){
-      if(navigator.geolocation){
-          navigator.geolocation.getCurrentPosition(
-                  function(p){
-                      callback(p.coords.latitude, p.coords.longitude);
-                  },
-                  function(e){
-                      var msg = e.code + "\n" + e.message;
-                  }
-          );
+          $container.imagesLoaded().progress( function() {
+              $container.masonry('layout');
+          });
       }
+
+      layOutCallBack();
+
+      $container.infinitescroll({
+          navSelector : "#more",
+          nextSelector : "#more a",
+          itemSelector : ".item-bar",
+          pixelsFromNavToBottom: 300,
+          loading:{
+              img: "/images/masonry_loading.gif",
+              msgText: ' ',
+              finishedMsg: "<em>已经到最后一页</em>",
+              finished: function(){
+                  $("#more").remove();
+                  $("#infscr-loading").hide();
+              }
+          },
+          errorCallback:function(){
+              $(window).unbind('.infscr');
+          },
+          pathParse: function (path, nextPage) {
+              var query = "";
+              var keyword=$("#search_keyword").val();
+              var cat_id=$("#cat_id").val();
+              var brand_id=$("#brand_id").val();
+              var country_id = $("#country_id").val();
+              query = query + "&namekeyword="+keyword;
+              query = query +"&cat_id="+cat_id
+              query = query + "&brand_id=" + brand_id; 
+              query = query + "&country_id=" + country_id;
+              path = [path,query];
+              return path;
+          }
+      },
+
+      function(newElements) {
+          var $newElems = $( newElements ).css({ opacity: 0 });
+          $newElems.imagesLoaded(function(){
+              $newElems.animate({ opacity: 1 });
+              $container.masonry( 'appended', $newElems, true );
+              layOutCallBack();
+          });
+      });
+  });
+})(jQuery);
+```
+  
+- [iOS，Safari浏览器，input等表单focus后fixed元素错位问题](https://www.snip2code.com/Snippet/176582/--iOS-Safari----input---focus-fixed-----)
+```javascript
+if( /iPhone|iPod|iPad/i.test(navigator.userAgent) ) {
+  $(document).on('focus', 'input, textarea', function()
+  {
+     $('header').css("position", 'absolute');
+     $('footer').css("position", 'absolute');
+     
+  });
+  
+  $(document).on('blur', 'input, textarea', function()
+  {
+       $('header').css("position", 'fixed');
+       $('footer').css("position", 'fixed');
+      
+  });
+} 
+
+```
+  
+- 得到地理位置
+```javascript
+function getLocation(callback){
+  if(navigator.geolocation){
+      navigator.geolocation.getCurrentPosition(
+              function(p){
+                  callback(p.coords.latitude, p.coords.longitude);
+              },
+              function(e){
+                  var msg = e.code + "\n" + e.message;
+              }
+      );
   }
-  ```
-  
-  - [rem计算适配](http://isux.tencent.com/web-app-rem.html)
-  ```javascript
-  (function(doc, win){
-      var docEl = doc.documentElement,
-          resizeEvt = 'orientationchange' in window ? 'orientationchange' : 'resize',
-          recalc = function(){
-              var clientWidth = docEl.clientWidth;
-              if(!clientWidth) return;
-              docEl.style.fontSize = 20 * (clientWidth / 320) + 'px';
-          };
-  
-      if(!doc.addEventListener) return;
-      win.addEventListener(resizeEvt, recalc, false);
-      doc.addEventListener('DOMContentLoaded', recalc, false);
-  })(document, window);
-  ```
+}
+```
+
+- [rem计算适配](http://isux.tencent.com/web-app-rem.html)
+```javascript
+(function(doc, win){
+  var docEl = doc.documentElement,
+      resizeEvt = 'orientationchange' in window ? 'orientationchange' : 'resize',
+      recalc = function(){
+          var clientWidth = docEl.clientWidth;
+          if(!clientWidth) return;
+          docEl.style.fontSize = 20 * (clientWidth / 320) + 'px';
+      };
+
+  if(!doc.addEventListener) return;
+  win.addEventListener(resizeEvt, recalc, false);
+  doc.addEventListener('DOMContentLoaded', recalc, false);
+})(document, window);
+```
+
+- [另外一种rem方案](http://www.html-js.com/article/3041)
+```javascript
+var dpr, rem, scale;
+var docEl = document.documentElement;
+var fontEl = document.createElement('style');
+var metaEl = document.querySelector('meta[name="viewport"]');
+
+dpr = window.devicePixelRatio || 1;
+rem = docEl.clientWidth * 2 / 10;
+scale = 1 / dpr;
+
+
+// 设置viewport，进行缩放，达到高清效果
+metaEl.setAttribute('content', 'width=' + dpr * docEl.clientWidth + ',initial-scale=' + scale + ',maximum-scale=' + scale + ', minimum-scale=' + scale + ',user-scalable=no');
+
+// 设置data-dpr属性，留作的css hack之用
+docEl.setAttribute('data-dpr', dpr);
+
+// 动态写入样式
+docEl.firstElementChild.appendChild(fontEl);
+fontEl.innerHTML = 'html{font-size:' + rem + 'px!important;}';
+
+// 给js调用的，某一dpr下rem和px之间的转换函数
+window.rem2px = function(v) {
+    v = parseFloat(v);
+    return v * rem;
+};
+window.px2rem = function(v) {
+    v = parseFloat(v);
+    return v / rem;
+};
+
+window.dpr = dpr;
+window.rem = rem;
+```
