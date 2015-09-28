@@ -724,6 +724,9 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [sql 在线编辑 - sqlfiddle](http://sqlfiddle.com/)
 - [mozilla 在线编辑器](https://thimble.mozilla.org)
 
+####21. 播放器
+
+- [Html5 VideoPlayer](https://github.com/zmmbreeze/DeadSimpleVideoPlayer)
 
 ###九. Nodejs
 
