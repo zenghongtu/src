@@ -335,6 +335,8 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [mdeditor](https://www.zybuluo.com/mdeditor)  一款国内的在线markdown编辑器
 - [stackedit](https://stackedit.io) 国外的在线markdown编辑器，功能强大，同步云盘
 - [mditor](http://bh-lay.github.io/mditor/) 一款轻量级的markdown编辑器
+- [lepture-editor](https://github.com/lepture/editor)
+- [markdown-editor](https://github.com/jbt/markdown-editor)
 
 ####15. D3
 
