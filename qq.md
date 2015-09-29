@@ -276,6 +276,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [Webpack，101入门体验](http://html-js.com/article/3009)
 - [webpack入门教程](http://html-js.com/article/3113)
 - [基于webpack搭建前端工程解决方案探索](http://segmentfault.com/a/1190000003499526)
+- [React原创实战视频教程](http://www.piliyu.com/)
 
 ####9. 移动端API
 
