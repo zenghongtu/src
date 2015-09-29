@@ -391,6 +391,8 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [缓动函数](http://easings.net/zh-cn)
 - [svg 中文参考](http://www.w3school.com.cn/svg/svg_reference.asp)
 - [svg mdn参考](https://developer.mozilla.org/en-US/docs/Web/SVG)
+- [svg 导出 canvas](https://github.com/gabelerner/canvg)
+- [svg 导出 png](https://github.com/exupero/saveSvgAsPng)
 - [ai-to-svg](http://www.zamzar.com/convert/ai-to-svg/)
 - [localStorage 库](https://github.com/machao/localStorage)
 
@@ -700,6 +702,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 ####17. 剪贴板
 
 - [剪贴板](https://github.com/zeroclipboard/zeroclipboard)
+- [clipboard 最新的剪切方案](http://zenorocha.github.io/clipboard.js/)
 
 ####18. 简繁转换
 
@@ -813,6 +816,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [google在线工具](https://developers.google.com/speed/pagespeed/insights/)
     - [阿里测](http://www.alibench.com/)
     - [阿里-免费测试服务](http://itest.aliyun.com/)
+    - [阿里-F2etest多浏览器兼容性测试解决方案](https://github.com/alibaba/f2etest)
     - [js性能测试](http://jsperf.com/)
     - []()
     
