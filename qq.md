@@ -517,6 +517,13 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 ####5. jQuery
 
+1. 焦点图
+    
+    - [myfocus](https://github.com/koen301/myfocus)
+    - [myfocus-官方演示站](http://www.chhua.com/myfocus/)
+    - [SuperSlidev2.1 -- 大话主席](http://www.superslide2.com/)
+    - [soChange](http://www.bujichong.com/sojs/soChange/index.html)
+
 ####6. Ext, EasyUI, J-UI 及其它各种UI方案
 
 1. Ext
@@ -1063,7 +1070,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [Google jQuery CDN](http://www.google-jquery-cdn.com/)
 - [微软CDN](http://www.asp.net/ajax/cdn)
 
-###十九. Svn,Git,Github
+###十九. Git,SVN,Github
 
 1. Git
 
@@ -1077,5 +1084,5 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [我所记录的git命令（非常实用）](http://www.cnblogs.com/fanfan259/p/4810517.html)
     - [企业开发git工作流模式探索部分休整](https://github.com/xirong/my-git/blob/master/git-workflow-tutorial.md)
 
-2. Svn
+2. SVN
 
