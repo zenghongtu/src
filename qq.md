@@ -126,7 +126,6 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [重新介绍 JavaScript（JS 教程）](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
     - [麻省理工学院公开课：计算机科学及编程导论](http://v.163.com/special/opencourse/bianchengdaolun.html)
     - [JavaScript中的this陷阱的最全收集--没有之一](http://segmentfault.com/a/1190000002640298)
-    - [jQuery基础课程](http://www.imooc.com/learn/11)
     - [JS函数式编程指南](http://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch1.html)
     - [JavaScript Promise迷你书（中文版）](http://liubin.github.io/promises-book/)
     - [腾讯移动Web前端知识库](https://github.com/AlloyTeam/Mars)
@@ -1034,17 +1033,17 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
         - [liveReload](http://livereload.com/)
         - [f5](http://getf5.com/)
         - [File Watchers](http://geek100.com/2608/)
-        - []()
-    
+
     6. PPT
         - [PPT](https://github.com/ksky521/nodePPT)
         - [reveal](https://github.com/hakimel/reveal.js/)
         - [slippy](https://github.com/Seldaek/slippy)
-        - []()
-    
-3. loading img
+
+3. img
 
 - [loading img](http://preloaders.net/en/circular)
+- [智图-图片优化平台](http://zhitu.isux.us/)
+- [在线png优化](https://tinypng.com/)
 
 4. 生成二维码
 
