@@ -260,6 +260,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [整合jQuery Mobile+AngularJS经验谈](http://www.tuicool.com/articles/7ZZVr2)
 - [有jQuery背景，该如何用AngularJS编程思想](http://blog.jobbole.com/46589/ )
 - [AngularJS在线教程](http://each.sinaapp.com/angular/)
+- [angular学习笔记](http://www.zouyesheng.com/angular.html)
 
 ####8. React
 - [react.js 中文论坛](http://www.react-china.org/)
@@ -635,6 +636,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [Gulp 入门指南 - nimojs](https://github.com/nimojs/blog/issues/19)
     - [Gulp入门教程](http://markpop.github.io/2014/09/17/Gulp%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/)
     - [Gulp in Action](http://www.imooc.com/learn/390)
+    - [Gulp开发教程（翻译）](http://www.w3ctech.com/topic/134)
 
 3. Grunt
 
@@ -989,7 +991,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
         - [Chrome - Workspace使浏览器变成IDE](http://c7sky.com/chrome-devtools-workspace.html)
         - [network面板](http://www.html-js.com/article/Nothing-blind%202975)
         - [chrome开发工具快捷键](http://anti-code.com/devtools-cheatsheet/)
-        - [chrome调试工具](http://www.html-js.com/article/2327)
+        - [chrome调试工具常用功能整理](http://www.html-js.com/article/2327)
         - [Chrome 开发工具 Workspace 使用](http://www.iinterest.net/2014/05/09/chrome-dev-tool-workspace/)
         - [Chrome神器Vimium快捷键学习记录 ](http://www.cppblog.com/deercoder/archive/2011/10/22/158886.html)
         - [sass调试-w3cplus](http://www.w3cplus.com/sassguide/debug.html)
