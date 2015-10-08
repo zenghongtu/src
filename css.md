@@ -336,4 +336,16 @@ window.addEventListener("onorientationchange" in window ? "orientationchange" : 
 //移动端的浏览器一般都支持window.orientation这个参数，通过这个参数可以判断出手机是处在横屏还是竖屏状态。
 ```
 
+- rem 适配，内容太多，只贴网址
+
+    - [rem自适应方案](https://github.com/imweb/mobile/issues/3)
+    - [html5移动端页面分辨率设置及相应字体大小设置的靠谱使用方式](http://www.cnblogs.com/willian/p/3573353.html)
+    - [移动端高清、多屏适配方案](http://www.html-js.com/article/Mobile-terminal-H5-mobile-terminal-HD-multi-screen-adaptation-scheme%203041)
+    - [通过rem布局+media-query:aspect-ratio实现移动端全机型适配覆盖](http://xiaoyuze88.github.io/blog/2015/05/12/%E9%80%9A%E8%BF%87rem%E5%B8%83%E5%B1%80+media-query%E7%9A%84aspect-ratio%E5%AE%9E%E7%8E%B0%E7%A7%BB%E5%8A%A8%E7%AB%AF%E5%85%A8%E6%9C%BA%E5%9E%8B%E9%80%82%E9%85%8D%E8%A6%86%E7%9B%96/)
+    - [web app变革之rem](http://isux.tencent.com/web-app-rem.html)
+    - [手机淘宝的flexible设计与实现](http://www.html-js.com/article/2402)
+    - [移动端自适应方案](https://github.com/amfe/lib-flexible)
+    - [【原创】移动端高清、多屏适配方案](http://www.html-js.com/article/3041)
+    - [6个html5页面适配iphone6的技巧](http://qietuwang.baijia.baidu.com/article/73861)
+    - [关于移动端 rem 布局的一些总结](http://segmentfault.com/a/1190000003690140)
 
