@@ -900,7 +900,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [[合肥-M.J] - Mexam 移动端在线做题组](https://github.com/webjyh/Mexam)
 - [[北京-苏瑞] - dancer小人](http://letyougo.github.io/dancer/)
 - [[上海-玄沐]- 个人网站](http://k.swao.cn/js/)
-- []()
+- [[厦门-二哲]- 个人博客](http://www.meckodo.com/)
 
 ####3. 国外大牛精品
 
