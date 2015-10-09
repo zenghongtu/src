@@ -581,34 +581,34 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 1. PC
 
-- [经典my97](http://www.my97.net/dp/demo/index.htm)
-- [强大的独立日期选择器](http://www.cnblogs.com/gbin1/archive/2012/04/16/2452105.html)
-- [fullcalendar](http://arshaw.com/fullcalendar/)
-- [fullcalendar日历控件知识点集合 ](http://blog.csdn.net/francislaw/article/details/7740630)
-- [中文api](http://blog.sina.com.cn/s/blog_9475b1c101012c5f.html)
-- [农历日历](https://github.com/zzyss86/LunarCalendar)
-- [日期格式化](http://momentjs.com/)
-- [大牛日历控件](https://github.com/Johnqing/QPAYCalendar/)
-- [我群某管理作品](https://github.com/Iamlars/dateMarker)
-- [input按位替换-官网](http://digitalbush.com/projects/masked-input-plugin/)
-- [input按位替换-github](https://github.com/digitalBush/jquery.maskedinput/tree/1.2.2)
-- [bootstrap-daterangepicker](https://github.com/dangrossman/bootstrap-daterangepicker)
-- [国外30个插件集合](http://www.vandelaydesign.com/30-best-free-jquery-plugins/)
-- [JavaScript datepicker](http://dbushell.com/2012/10/09/pikaday-javascript-datepicker/)
-- [Datepair.js](http://jonthornton.github.io/Datepair.js/)
-- [一个风格多样的日历](https://github.com/glad/glDatePicker)
-- [弹出层式的全日历](http://amsul.ca/pickadate.js/date/)
+    - [经典my97](http://www.my97.net/dp/demo/index.htm)
+    - [强大的独立日期选择器](http://www.cnblogs.com/gbin1/archive/2012/04/16/2452105.html)
+    - [fullcalendar](http://arshaw.com/fullcalendar/)
+    - [fullcalendar日历控件知识点集合 ](http://blog.csdn.net/francislaw/article/details/7740630)
+    - [中文api](http://blog.sina.com.cn/s/blog_9475b1c101012c5f.html)
+    - [农历日历](https://github.com/zzyss86/LunarCalendar)
+    - [日期格式化](http://momentjs.com/)
+    - [大牛日历控件](https://github.com/Johnqing/QPAYCalendar/)
+    - [我群某管理作品](https://github.com/Iamlars/dateMarker)
+    - [input按位替换-官网](http://digitalbush.com/projects/masked-input-plugin/)
+    - [input按位替换-github](https://github.com/digitalBush/jquery.maskedinput/tree/1.2.2)
+    - [bootstrap-daterangepicker](https://github.com/dangrossman/bootstrap-daterangepicker)
+    - [国外30个插件集合](http://www.vandelaydesign.com/30-best-free-jquery-plugins/)
+    - [JavaScript datepicker](http://dbushell.com/2012/10/09/pikaday-javascript-datepicker/)
+    - [Datepair.js](http://jonthornton.github.io/Datepair.js/)
+    - [一个风格多样的日历](https://github.com/glad/glDatePicker)
+    - [弹出层式的全日历](http://amsul.ca/pickadate.js/date/)
 
 2. 移动
 
-- [大气实用jQuery手机移动端日历日期选择插件](http://www.frankdemo.cn/index.php?c=content&a=show&id=115)
-- [jQuery Mobile 移动开发中的日期插件Mobiscroll ](https://mobiscroll.com/)
+    - [大气实用jQuery手机移动端日历日期选择插件](http://www.frankdemo.cn/index.php?c=content&a=show&id=115)
+    - [jQuery Mobile 移动开发中的日期插件Mobiscroll ](https://mobiscroll.com/)
 
 
 3. Date library
 
-- [Datejs](https://github.com/datejs/Datejs)
-- [sugarjs](http://sugarjs.com/api/Date)
+    - [Datejs](https://github.com/datejs/Datejs)
+    - [sugarjs](http://sugarjs.com/api/Date)
 
 ####10. 综合效果搜索平台
 
