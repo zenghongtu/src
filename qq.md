@@ -1041,13 +1041,13 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 3. img
 
-- [loading img](http://preloaders.net/en/circular)
-- [智图-图片优化平台](http://zhitu.isux.us/)
-- [在线png优化](https://tinypng.com/)
+    - [loading img](http://preloaders.net/en/circular)
+    - [智图-图片优化平台](http://zhitu.isux.us/)
+    - [在线png优化](https://tinypng.com/)
 
 4. 生成二维码
 
-- [生成二维码](http://cli.im/)
+    - [生成二维码](http://cli.im/)
 
     
 ###十七. 前端导航网站
