@@ -1029,17 +1029,11 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
         - [屌爆了,完美调试 微信webview(x5)](http://www.jianshu.com/p/ccf124f1f74b)
         - [微信调试的那些事](http://liyaodong.com/2015/07/06/%E5%BE%AE%E4%BF%A1%E8%B0%83%E8%AF%95%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
         - [远程console](http://jsconsole.com/)
-        
-    5. 浏览器同步
-        - [puer](https://github.com/leeluolee/puer)
-        - [liveReload](http://livereload.com/)
-        - [f5](http://getf5.com/)
-        - [File Watchers](http://geek100.com/2608/)
-
-    6. PPT
-        - [PPT](https://github.com/ksky521/nodePPT)
-        - [reveal](https://github.com/hakimel/reveal.js/)
-        - [slippy](https://github.com/Seldaek/slippy)
+        - [微信调试工具](http://blog.qqbrowser.cc/)
+    
+    5. iOS Simulator
+        - [Simulator](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/iOS_Simulator_Guide/Introduction/Introduction.html)
+        - [Xcode中的iOS模拟器(iOS Simulator)的介绍和使用心得](http://www.crifan.com/intro_ios_simulator_in_xcode_and_usage_summary/)
 
 3. img
 
@@ -1050,8 +1044,18 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 4. 生成二维码
 
     - [生成二维码](http://cli.im/)
-
     
+5. 浏览器同步
+    - [puer](https://github.com/leeluolee/puer)
+    - [liveReload](http://livereload.com/)
+    - [f5](http://getf5.com/)
+    - [File Watchers](http://geek100.com/2608/)
+
+6. PPT
+    - [PPT](https://github.com/ksky521/nodePPT)
+    - [reveal](https://github.com/hakimel/reveal.js/)
+    - [slippy](https://github.com/Seldaek/slippy)
+            
 ###十七. 前端导航网站
 
 - [界面清爽的前端导航](http://uxbees.com/index.html)
