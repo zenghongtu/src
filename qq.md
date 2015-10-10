@@ -1051,7 +1051,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [f5](http://getf5.com/)
     - [File Watchers](http://geek100.com/2608/)
 
-6. PPT
+6. 在线PPT制作
     - [PPT](https://github.com/ksky521/nodePPT)
     - [reveal](https://github.com/hakimel/reveal.js/)
     - [slippy](https://github.com/Seldaek/slippy)
