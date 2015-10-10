@@ -93,11 +93,11 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 ###三. 禁发:
 
 - 广告，招聘，找工作，找实习，推广(如极客邀请加入)，明星八卦，禁群内签到，假红包，等与技术或职业探讨主题无关的内容，违者踢。
-- 尽量不要发无意义的大图片，建议发qq提供的默认的等于行距表情，约束这个目的在于：
+- 禁发无意义的大图片，建议发qq提供的默认的等于行距表情，约束这个目的在于：
     1. 人脑对图片的接受速度明显快于文字，过多的无意义图片会分散讨论的主题。
     2. 不方便回查，或聊天记录中寻找有价值的消息。
     3. 另外这是一个信息爆炸时代，人脑的接收是有上限的，过多的垃圾信息会占用有限的带宽。
-- 尽量不要在群邮件中无意义回复，每次一个人回复是一次消息的广播，每个人都会收到，会产生信息垃圾。
+- 禁止在群邮件中无意义回复，每次一个人回复是一次消息的广播，每个人都会收到，会产生信息垃圾。
 - 禁止在群邮件中回复招聘或其它通知邮件。因为你的每一次回复将会有1000多人同时收到，而这条回复对其它人是没有任何意义的。
 - 本群不欢迎纯hr的交流，公司技术人员内推招聘发群邮件，如有违反，直接踢，不另行引导或通知。
 - 禁发超过文本行距的大gif。
@@ -949,7 +949,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [前端开发面试题大收集](https://github.com/paddingme/Front-end-Web-Development-Interview-Question)
 - [收集的前端面试题和答案](https://github.com/qiu-deqing/FE-interview)
 - [如何面试前端工程师](http://www.zhihu.com/question/19568008)
-- []()
+- [前端开发面试题](https://github.com/markyun/My-blog/blob/master/Front-end-Developer-Questions/Questions-and-Answers/README.md)
 
 ###十五. iconfont
 
