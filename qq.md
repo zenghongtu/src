@@ -154,6 +154,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [张鑫旭 - 慕课系列](http://www.imooc.com/space/teacher/id/197450)
     - [lyn - 慕课系列](http://www.imooc.com/space/teacher/id/104593)
     - [艾伦 - 慕课系列](http://www.imooc.com/space/teacher/id/290139)
+    - [碧仔 - Hello，移动WEB](http://www.imooc.com/view/494)
 
 ###六. API:
 
@@ -549,6 +550,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
     - [MUI-最接近原生APP体验的高性能前端框架](http://dcloudio.github.io/mui/)
     - [Amaze UI | 中国首个开源 HTML5 跨屏前端框架](http://amazeui.org/)
+    - [淘宝 HTML5 前端框架](http://m.sui.taobao.org/)
     - [KISSY - 阿里前端JavaScript库](http://docs.kissyui.com/)
     - [网易Nej - Nice Easy Javascript](http://nej.netease.com/)
     - [Kendo UI MVVM Demo](http://demos.telerik.com/kendo-ui/mvvm/index)
