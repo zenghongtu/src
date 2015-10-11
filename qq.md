@@ -43,37 +43,37 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 4. 有图片的代码发群共享或申请免费的测试空间
 
-- [Sina云](http://sae.sina.com.cn/)
+    - [Sina云](http://sae.sina.com.cn/)
 
-优点：不需要手工发布，只需三级域名就可以访问，支持语言：php,python,java，
-缺点：需要身份证验证获取免费云豆
-版本控制工具：svn
+    优点：不需要手工发布，只需三级域名就可以访问，支持语言：php,python,java，
+    缺点：需要身份证验证获取免费云豆
+    版本控制工具：svn
 
-- [京东云](http://jae.jd.com/)
+    - [京东云](http://jae.jd.com/)
 
-优点：支持：java,php,nodejs,python,ruby
-缺点：需要实名认证200元/人，需要在控制台手动发布才能在线上预览
-版本控制工具：git
+    优点：支持：java,php,nodejs,python,ruby
+    缺点：需要实名认证200元/人，需要在控制台手动发布才能在线上预览
+    版本控制工具：git
 
-- [github](http://github.com)
+    - [github](http://github.com)
 
-优点：注册即有，方便
-缺点：只支持静态
-版本控制工具：git
+    优点：注册即有，方便
+    缺点：只支持静态
+    版本控制工具：git
 
-- [coding](http://coding.net)
+    - [coding](http://coding.net)
 
-优点：免费，可以为每个项目开启预览，类似于Github Pages功能，但是支持Node.js,PHP,Phthon,Ruby,Scala,Play,Go这些语言。最近刚出的WebIDE可以直接在浏览器中写代码了，强烈推荐！
-缺点：提交新版本后，预览demo需要去后台手动部署（不过也就是点一个按钮的事情）
-版本控制工具：git
+    优点：免费，可以为每个项目开启预览，类似于Github Pages功能，但是支持Node.js,PHP,Phthon,Ruby,Scala,Play,Go这些语言。最近刚出的WebIDE可以直接在浏览器中写代码了，强烈推荐！
+    缺点：提交新版本后，预览demo需要去后台手动部署（不过也就是点一个按钮的事情）
+    版本控制工具：git
 
 参考：
 
--[X-Y 问题](http://coolshell.cn/articles/10804.html)
--[向别人求助时有哪些「潜」规则？](http://www.zhihu.com/question/21218381)
--[如何在知乎提一个好问题？](http://www.zhihu.com/question/19555761)
--[如何优雅地向前辈或者高手请教技术问题？](http://www.zhihu.com/question/25464141)
--[提问的艺术-ZZ](http://www.awflasher.com/blog/archives/200)
+- [X-Y 问题](http://coolshell.cn/articles/10804.html)
+- [向别人求助时有哪些「潜」规则？](http://www.zhihu.com/question/21218381)
+- [如何在知乎提一个好问题？](http://www.zhihu.com/question/19555761)
+- [如何优雅地向前辈或者高手请教技术问题？](http://www.zhihu.com/question/25464141)
+- [提问的艺术-ZZ](http://www.awflasher.com/blog/archives/200)
 
 ###二. 禁问:
 日常生活废话禁问，主观性的问题禁问，概念性的问题禁问。
