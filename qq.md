@@ -629,7 +629,8 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 2. Gulp 
     
     - [Gulp官网](http://gulpjs.com/)
-    - [Gulp中文网]( http://www.gulpjs.com.cn/)
+    - [Gulp中文网](http://www.gulpjs.com.cn/)
+    - [Gulp：任务自动管理工具 - ruanyifeng](http://javascript.ruanyifeng.com/tool/gulp.html)
     - [Gulp插件](http://gulpjs.com/plugins/)
     - [gulp资料收集](https://github.com/Platform-CUF/use-gulp)
     - [Gulp不完全入门教程](http://www.ido321.com/1622.html)
