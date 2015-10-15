@@ -287,6 +287,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [99移动端知识集合](https://github.com/jtyjty99999/mobileTech)
     - [移动端前端开发知识库](https://github.com/AlloyTeam/Mars)
     - [移动前端的一些坑和解决方法（外观表现）](http://caibaojian.com/mobile-web-bug.html)
+    - [【原】移动web资源整理](http://www.cnblogs.com/PeunZhang/p/3407453.html)
     - [zepto 1.0 中文手册](http://mweb.baidu.com/zeptoapi/)
     - [zepto 1.0 中文手册](http://www.html-5.cn/Manual/Zepto/)
     - [zepto 1.1.2](http://www.css88.com/doc/zeptojs_api/)
@@ -514,6 +515,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 4. JSON
  
     - [模拟生成JSON数据](http://beta.json-generator.com/)
+    - [返回跨域JSONAPI](http://jsonp.afeld.me/)
 
 ####3. Html5
 - [HTML5 有哪些让你惊艳的 demo？](http://www.zhihu.com/question/24398907)
@@ -749,6 +751,10 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 ####21. 播放器
 
 - [Html5 VideoPlayer](https://github.com/zmmbreeze/DeadSimpleVideoPlayer)
+
+####22. 粒子动画
+
+- [Proton 烟花](http://a-jie.github.io/Proton/#example)
 
 ###九. Nodejs
 
