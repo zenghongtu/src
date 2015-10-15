@@ -632,9 +632,9 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     
     - [Gulp官网](http://gulpjs.com/)
     - [Gulp中文网](http://www.gulpjs.com.cn/)
+    - [gulp资料收集](https://github.com/Platform-CUF/use-gulp)
     - [Gulp：任务自动管理工具 - ruanyifeng](http://javascript.ruanyifeng.com/tool/gulp.html)
     - [Gulp插件](http://gulpjs.com/plugins/)
-    - [gulp资料收集](https://github.com/Platform-CUF/use-gulp)
     - [Gulp不完全入门教程](http://www.ido321.com/1622.html)
     - [为什么使用gulp?](https://github.com/hjzheng/CUF_meeting_knowledge_share/issues/33)
     - [Gulp安装及配合组件构建前端开发一体化](http://www.dbpoo.com/getting-started-with-gulp/)
