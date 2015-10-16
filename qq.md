@@ -641,8 +641,9 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [Gulp 入门指南](https://github.com/nimojs/gulp-book)
     - [Gulp 入门指南 - nimojs](https://github.com/nimojs/blog/issues/19)
     - [Gulp入门教程](http://markpop.github.io/2014/09/17/Gulp%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/)
-    - [Gulp in Action](http://www.imooc.com/learn/390)
+    - [Gulp in Action](http://www.imooc.com/video/5692)
     - [Gulp开发教程（翻译）](http://www.w3ctech.com/topic/134)
+    - [前端构建工具gulpjs的使用介绍及技巧](http://www.cnblogs.com/2050/p/4198792.html)
 
 3. Grunt
 
