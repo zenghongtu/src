@@ -328,9 +328,10 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 ####13. Less,sass
 
-- [less](http://less.bootcss.com/)
 - [sass](http://www.w3cplus.com/sassguide/)
-- [sass中国](http://www.cn-sass.com/)
+- [sass教程-sass中国](http://www.sass.hk/)
+- [Sass 中文文档](http://sass.bootcss.com/)
+- [less](http://less.bootcss.com/)
 
 ####14. Markdown
         
@@ -388,6 +389,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [验证api](http://niceue.com/validator/demo/index.php)
 - [underscore 中文手册](http://www.css88.com/doc/underscore/)
 - [underscore源码分析](http://www.html-js.com/article/Underscorejs-source-code-analysis-of-underscorejs-source-code-analysis%203031)
+- [underscore源码分析-亚里士朱德的博客](http://yalishizhude.github.io/tags/underscore/)
 - [underscrejs en api](http://underscorejs.org/)
 - [lodash - underscore的代替品](https://lodash.com/)
 - [ext4api](http://extjs-doc-cn.github.io/ext4api/)
@@ -777,6 +779,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [node入门](http://www.nodebeginner.org/index-zh-cn.html)
 - [nodejs cms](http://ourjs.com/detail/53e1f281c5910a9806000001)
 - [Node初学者入门，一本全面的NodeJS教程](http://ourjs.com/detail/529ca5950cb6498814000005)
+- [NodeJS的代码调试和性能调优](http://www.barretlee.com/blog/2015/10/07/debug-nodejs-in-command-line/)
 
 ###十. 性能优化
 
@@ -935,6 +938,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 ###十四. 面试题
 
+- [那几个月在找工作（百度，网易游戏）](http://www.nowcoder.com/discuss/3196)
 - [2014最新面试题](http://www.html-js.com/article/1743)
 - [阿里前端面试题](http://www.w3cfuns.com/thread-5598563-2-1.html)
 - [2016校招内推 -- 阿里巴巴前端 -- 三面面试经历 ](http://www.cnblogs.com/imwtr/p/4685546.html)
@@ -961,6 +965,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [收集的前端面试题和答案](https://github.com/qiu-deqing/FE-interview)
 - [如何面试前端工程师](http://www.zhihu.com/question/19568008)
 - [前端开发面试题](https://github.com/markyun/My-blog/blob/master/Front-end-Developer-Questions/Questions-and-Answers/README.md)
+- [牛客网-笔试面经](http://www.nowcoder.com/discuss?type=2)
 
 ###十五. iconfont
 
