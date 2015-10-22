@@ -1049,6 +1049,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
         - [微信调试的那些事](http://liyaodong.com/2015/07/06/%E5%BE%AE%E4%BF%A1%E8%B0%83%E8%AF%95%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
         - [远程console](http://jsconsole.com/)
         - [微信调试工具](http://blog.qqbrowser.cc/)
+        - [各种真机远程调试方法汇总](https://github.com/jieyou/remote_inspect_web_on_real_device)
     
     5. iOS Simulator
         - [Simulator](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/iOS_Simulator_Guide/Introduction/Introduction.html)
