@@ -170,8 +170,6 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [microsoft js参考](http://msdn.microsoft.com/zh-cn/library/d1et7k7c(v=vs.94).aspx)
     - [js秘密花园](http://sanshi.me/articles/JavaScript-Garden-CN/html/index.html)
     - [js秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
-    - [开源中国在线API文档合集](http://tool.oschina.net/apidocs)
-    - [devdocs](http://devdocs.io/) 英文综合API网站
     - [w3help](http://www.w3help.org/) 综合Bug集合网站
 
 2. 综合搜索
@@ -179,7 +177,11 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [javascripting](http://www.javascripting.com/)
     - [各种流行库搜索](http://microjs.com/)
 
-
+3. 综合API
+    
+    - [runoob.com-包含各种API集合](http://www.runoob.com/)
+    - [开源中国在线API文档合集](http://tool.oschina.net/apidocs)
+    - [devdocs](http://devdocs.io/) 英文综合API网站
 
 ####2. jQuery
 
