@@ -763,6 +763,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 ###九. Nodejs
 
 - [nodejs 篇幅比较巨大](http://liuqing.pw/)
+- [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
 - [篇幅比较少](http://rainweb.cn/article/category/Nodejs)
 - [node express 入门教程](http://www.w3cfuns.com/article-5598538-1-1.html)
 - [nodejs定时任务](http://my.oschina.net/u/568264/blog/193773)
