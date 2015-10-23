@@ -597,6 +597,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [fullcalendar日历控件知识点集合 ](http://blog.csdn.net/francislaw/article/details/7740630)
     - [中文api](http://blog.sina.com.cn/s/blog_9475b1c101012c5f.html)
     - [农历日历](https://github.com/zzyss86/LunarCalendar)
+    - [超酷的仿百度带节日日历老黄历控件](http://www.sucaisj.com/jiaoben/date/201509/16856.html)
     - [日期格式化](http://momentjs.com/)
     - [大牛日历控件](https://github.com/Johnqing/QPAYCalendar/)
     - [我群某管理作品](https://github.com/Iamlars/dateMarker)
