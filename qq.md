@@ -631,6 +631,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 1. 概述
 
+    - [前端工具大全](http://www.awesomes.cn/)
     - [什么是前端工程化](https://github.com/fouber/blog/issues/10?from=timeline&isappinstalled=0#)
 
 2. Gulp 
