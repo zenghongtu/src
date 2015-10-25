@@ -235,7 +235,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [bouncejs 触摸库](http://bouncejs.com/)
 - [css3 按钮动画](http://fian.my.id/Waves/)
 - [animate.css](http://daneden.github.io/animate.css/)
-- []()
+- [全局CSS的终结(狗带) [译]](http://www.alloyteam.com/2015/10/8536/)
 
 ####7. Angularjs
 
@@ -444,6 +444,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 ###七. 开发规范
 
 1. 前端
+    - [通过分析github代码库总结出来的工程师代码书写习惯](http://alloyteam.github.io/CodeGuide)
     - [HTML&CSS编码规范 by @mdo](http://codeguide.bootcss.com/)
     - [团队合作的css命名规范-腾讯AlloyTeam前端团队](http://www.alloyteam.com/2011/10/107/)
     - [前端编码规范之js - by yuwenhui](http://yuwenhui.github.io/)
@@ -461,6 +462,9 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [百度前端规范](http://zhuanlan.zhihu.com/fuyun/19884834)
     - [ECMAScript6 编码规范--广发证券前端团队](https://github.com/gf-web/es6-coding-style/)
     - [JavaScript 风格指南/编码规范（Airbnb公司版）](http://blog.jobbole.com/79484/)
+    - [网易前端开发规范](http://nec.netease.com/standard)
+    - [css模块](http://www.75team.com/archives/1049)
+    - [前端规范资源列表](https://github.com/ecomfe/spec)
 
 2. PHP
 
@@ -1030,6 +1034,9 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
         - [查看事件绑定2](http://www.cnblogs.com/xiaoyao2011/p/3447421.html)
         - [神器——Chrome开发者工具(一)](http://segmentfault.com/blog/xuelang/1190000000683599)
         - [奇趣百科性能优化(Chrome DevTools 中的 Timeline Profils 等工具使用介绍)](https://xinranliu.me/2015-05-22-qiqu-performance/)
+        - [chrome 开发者工具的 15 个小技巧](http://frontenddev.org/link/15-tips-of-chrome-developer-tools.html)
+        - [Chrome开发者工具不完全指南](http://1ke.co/course/361)
+        - [Chrome 开发者工具使用技巧](http://segmentfault.com/a/1190000003882567)
 
     3. Firebug
         - [firebug视频教程](http://www.imooc.com/learn/137)
