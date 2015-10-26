@@ -1123,6 +1123,10 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [git的资料整理](https://github.com/xirong/my-git)
     - [我所记录的git命令（非常实用）](http://www.cnblogs.com/fanfan259/p/4810517.html)
     - [企业开发git工作流模式探索部分休整](https://github.com/xirong/my-git/blob/master/git-workflow-tutorial.md)
+    - [GitHub 漫游指南](https://github.com/phodal/github-roam)
+    - [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
+    - [使用git和github进行协同开发流程](http://livoras.com/post/28)
+    - [动画方式练习git](http://onlywei.github.io/explain-git-with-d3/)
 
 2. SVN
 
