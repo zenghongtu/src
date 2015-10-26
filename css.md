@@ -174,6 +174,10 @@ textarea{resize:none}
 ```css
 a{-webkit-tap-highlight-color:rgba(0,0,0,0);}
 ```
+- 取消input,button焦点或点击时蓝色边框
+```css
+input{outline:none;}
+```
 - webkit 水平居中
 ```css
 display:-webkit-box;-webkit-box-pack:center; -webkit-box-align: center;
