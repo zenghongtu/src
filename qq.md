@@ -613,6 +613,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [Datepair.js](http://jonthornton.github.io/Datepair.js/)
     - [一个风格多样的日历](https://github.com/glad/glDatePicker)
     - [弹出层式的全日历](http://amsul.ca/pickadate.js/date/)
+    - [jquery双日历](http://www.daterangepicker.com/)
 
 2. 移动
 
