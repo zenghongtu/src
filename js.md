@@ -362,3 +362,37 @@ window.px2rem = function(v) {
 window.dpr = dpr;
 window.rem = rem;
 ```
+
+- 获取js所在路径
+```js
+function getJsDir (src) {
+    var script = null;
+
+    if (src) {
+        script = [].filter.call(document.scripts, function (v) {
+            return v.src.indexOf(src) !== -1;
+        })[0];
+    } else {
+        script = document.scripts[document.scripts.length - 1];
+    }
+
+    return script ? script.src.substr(0, script.src.lastIndexOf('/')) : script;
+}
+```
+
+- 从全局捕获错误
+```js
+window.onerror = function (errMsg, scriptURI, lineNumber, columnNumber, errorObj) {
+    setTimeout(function () {
+        var rst = {
+            "错误信息：": errMsg,
+            "出错文件：": scriptURI,
+            "出错行号：": lineNumber,
+            "出错列号：": columnNumber,
+            "错误详情：": errorObj
+        };
+
+        alert(JSON.stringify(rst, null, 10));
+    });
+};
+```
