@@ -160,6 +160,10 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [艾伦 - 慕课系列](http://www.imooc.com/space/teacher/id/290139)
     - [碧仔 - Hello，移动WEB](http://www.imooc.com/view/494)
 
+6. 周报类
+
+    - [平安科技移动开发二队技术周报](https://github.com/PaicHyperionDev/MobileDevWeekly)
+
 ###六. API:
 
 ####1. 总目录
