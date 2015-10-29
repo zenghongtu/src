@@ -133,6 +133,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [Front-End-Develop-Guide 前端开发指南](https://github.com/w3crange/Front-End-Develop-Guide)
     - [前端开发笔记本](https://li-xinyang.gitbooks.io/frontend-notebook/content/)
     - [大前端工具集 - 聂微东](https://github.com/nieweidong/fetool)
+    - [前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content/)
 
 2. 入门类
 
