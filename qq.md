@@ -881,7 +881,6 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [当耐特demo集合](http://kmdjs.github.io/)
 - [米空格 js作品](http://www.laoshu133.com/Lab/)
 - [myFocus](http://koen301.github.io/)
-- [jssdk flash开发组件　抽奖转盘](http://jssdk.sinaapp.com/)
 - [SeaJS组件库](http://panxuepeng.github.io/seajslib/)
 - [颜海镜作品](http://yanhaijing.com/myProject/)
 - [脚儿网作品](http://jo2.org/category/myworks/)
@@ -1083,10 +1082,11 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [File Watchers](http://geek100.com/2608/)
 
 6. 在线PPT制作
+    - [nodePPT](http://js8.in/2013/11/16/%E6%8E%A8%E8%8D%90nodeppt%EF%BC%9A%E4%BD%BF%E7%94%A8markdown%E8%AF%AD%E6%B3%95%E6%9D%A5%E5%86%99%E7%BD%91%E9%A1%B5ppt/)
     - [PPT](https://github.com/ksky521/nodePPT)
     - [reveal](https://github.com/hakimel/reveal.js/)
     - [slippy](https://github.com/Seldaek/slippy)
-            
+
 ###十七. 前端导航网站
 
 - [界面清爽的前端导航](http://uxbees.com/index.html)
