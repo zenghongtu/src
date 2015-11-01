@@ -121,6 +121,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [Web Front-end Stack v2.2](https://raw.githubusercontent.com/unruledboy/WebFrontEndStack/master/Web%20Front%20End%20Stack.png)
     - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
     - [前端书籍](https://github.com/dypsilon/frontend-dev-bookmarks)
+    - [前端免费书籍大全](https://github.com/vhf/free-programming-books)
     - [前端知识体系](http://www.cnblogs.com/sb19871023/p/3894452.html)
     - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
     - [智能社 - 精通JavaScript开发](http://study.163.com/course/introduction/224014.htm)
@@ -133,6 +134,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [Front-End-Develop-Guide 前端开发指南](https://github.com/w3crange/Front-End-Develop-Guide)
     - [前端开发笔记本](https://li-xinyang.gitbooks.io/frontend-notebook/content/)
     - [大前端工具集 - 聂微东](https://github.com/nieweidong/fetool)
+    - [前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content/)
 
 2. 入门类
 
@@ -158,6 +160,10 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [lyn - 慕课系列](http://www.imooc.com/space/teacher/id/104593)
     - [艾伦 - 慕课系列](http://www.imooc.com/space/teacher/id/290139)
     - [碧仔 - Hello，移动WEB](http://www.imooc.com/view/494)
+
+6. 周报类
+
+    - [平安科技移动开发二队技术周报](https://github.com/PaicHyperionDev/MobileDevWeekly)
 
 ###六. API:
 
