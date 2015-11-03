@@ -142,6 +142,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [瘳雪峰的Javascript教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
     - [jQuery基础教程](http://www.imooc.com/view/11)
     - [前端工程师必备的PS技能——切图篇](http://www.imooc.com/view/506)
+    - [结合个人经历总结的前端入门方法](https://github.com/qiu-deqing/FE-learning)
 
 3. 效果类
 
