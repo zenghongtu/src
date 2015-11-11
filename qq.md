@@ -866,7 +866,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [阿里-免费测试服务](http://itest.aliyun.com/)
     - [阿里-F2etest多浏览器兼容性测试解决方案](https://github.com/alibaba/f2etest)
     - [js性能测试](http://jsperf.com/)
-    - []()
+    - [轻松玩转PDF](http://smallpdf.com/cn)
     
 ###十一. 前端架构
 
