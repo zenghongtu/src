@@ -474,12 +474,16 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [css模块](http://www.75team.com/archives/1049)
     - [前端规范资源列表](https://github.com/ecomfe/spec)
 
-2. PHP
+2. Nodejs
+
+    - [Node.js 风格指南](https://github.com/wwsun/node-style-guide)
+    
+3. PHP
 
     - [最流行的PHP 代码规范](http://segmentfault.com/a/1190000000443795)
     - [最流行的PHP 代码规范](https://github.com/hfcorriez/fig-standards/blob/zh_CN/%E6%8E%A5%E5%8F%97/PSR-2-coding-style-guide.md)
         
-3. Android
+4. Android
 
     - [【敏捷开发】Android团队开发规范](http://www.cnblogs.com/lcw/p/3619181.html)
     - [Android 开发规范与应用](http://www.jianshu.com/p/4390f4fe19b3)
