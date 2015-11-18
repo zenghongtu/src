@@ -223,6 +223,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [Juicer](https://github.com/PaulGuo/Juicer)
 - [dustjs](http://akdubya.github.io/dustjs/)
 - [etpl](http://ecomfe.github.io/etpl/)
+- [twitter-tpl](http://twitter.github.io/hogan.js/)
 
 ####5. 弹出层
 
@@ -285,10 +286,6 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [React Native 中文版](http://wiki.jikexueyuan.com/project/react-native/)
 - [Webpack 和 React 小书 - 前端乱炖](http://www.html-js.com/article/Fakefish%203053)
 - [Webpack 和 React 小书 - gitbook](https://fakefish.github.io/react-webpack-cookbook/)
-- [webpack](https://github.com/webpack/webpack)
-- [Webpack，101入门体验](http://html-js.com/article/3009)
-- [webpack入门教程](http://html-js.com/article/3113)
-- [基于webpack搭建前端工程解决方案探索](http://segmentfault.com/a/1190000003499526)
 - [React原创实战视频教程](http://www.piliyu.com/)
 
 ####9. 移动端API
@@ -678,6 +675,13 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [fis 官网](http://fex-team.github.io/fis-site/index.html)
     - [fis](http://fis.baidu.com/)
 
+5. webpack
+
+    - [webpack](https://github.com/webpack/webpack)
+    - [Webpack，101入门体验](http://html-js.com/article/3009)
+    - [webpack入门教程](http://html-js.com/article/3113)
+    - [基于webpack搭建前端工程解决方案探索](http://segmentfault.com/a/1190000003499526)
+    
 ####12. 轮播图
 
 1. pc图轮
