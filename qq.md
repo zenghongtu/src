@@ -1147,6 +1147,8 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
     - [使用git和github进行协同开发流程](http://livoras.com/post/28)
     - [动画方式练习git](http://onlywei.github.io/explain-git-with-d3/)
+    - [版本管理工具介绍—Git篇](http://www.imooc.com/learn/208)
+    - [版本控制入门 – 搬进 Github](http://www.imooc.com/learn/390)
 
 2. SVN
 
