@@ -1116,7 +1116,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [前端开发仓库 - 众多效果的收集地](http://code.ciaoca.com/) 
 - [前端资源导航](https://github.com/jnoodle/f2e-collect)
 - [F2E 前端导航](http://f2e.im/static/pages/nav/index.html)
-- [前端收藏夹](w3ctrain.github.io)
+- [前端收藏夹](http://w3ctrain.github.io)
 
 ###十八. 常用CDN
 
