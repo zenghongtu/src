@@ -786,6 +786,12 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 - [Proton 烟花](http://a-jie.github.io/Proton/#example)
 
+####23. 表单验证
+
+- [Validform](https://github.com/haiercdboy/Validform/blob/master/README.md)
+- [formvalidator](http://formvalidator.net/)
+- [jQuery formValidator](http://www.cnblogs.com/wzmaodong/archive/2012/10/15/2724005.html)
+
 ###九. Nodejs
 
 - [nodejs 篇幅比较巨大](http://liuqing.pw/)
@@ -948,19 +954,24 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 - [pazguille](http://pazguille.me/)
 
-###十三. 简历模板
+###十三. 简历
 
-- [不错的个人简历](http://learnshare.github.io/about/index.html)
-- [简历](http://hcy2367.github.io/resume/)
-- [张伦](http://ncuey.sinaapp.com/CrispElite/ )
-- [简历](https://github.com/hacke2/ResumeSample)
-- [翁天信](http://blog.dandyweng.com/2013/07/how-my-website-was-created/)
-- [动画方式的简历](http://www.webhek.com/misc/interactive-resume/)
-- [组件丰富简历](http://www.linqing07.com/resume.html)
-- [简历池](http://www.mojianli.com/resume/view)
-- [haorooms博客](http://www.haorooms.com/about)
-- [Justin Young](http://cv.youngdze.com/)
-- []()
+    1. 生成
+    - [MarkDown在线简历工具](https://github.com/geekcompany/DeerResume)
+    - [MarkDown在线简历工具](http://www.deercv.com/)
+
+    1. 模板
+    - [不错的个人简历](http://learnshare.github.io/about/index.html)
+    - [简历](http://hcy2367.github.io/resume/)
+    - [张伦](http://ncuey.sinaapp.com/CrispElite/ )
+    - [简历](https://github.com/hacke2/ResumeSample)
+    - [翁天信](http://blog.dandyweng.com/2013/07/how-my-website-was-created/)
+    - [动画方式的简历](http://www.webhek.com/misc/interactive-resume/)
+    - [组件丰富简历](http://www.linqing07.com/resume.html)
+    - [简历池](http://www.mojianli.com/resume/view)
+    - [haorooms博客](http://www.haorooms.com/about)
+    - [Justin Young](http://cv.youngdze.com/)
+    - [各个程序员简历模板](https://github.com/geekcompany/ResumeSample)
 
 ###十四. 面试题
 
