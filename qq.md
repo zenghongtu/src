@@ -1088,6 +1088,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
         - [远程console](http://jsconsole.com/)
         - [微信调试工具](http://blog.qqbrowser.cc/)
         - [各种真机远程调试方法汇总](https://github.com/jieyou/remote_inspect_web_on_real_device)
+        - [手机测试自己写的web页面](http://www.zhihu.com/question/37361845)
     
     5. iOS Simulator
         - [Simulator](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/iOS_Simulator_Guide/Introduction/Introduction.html)
