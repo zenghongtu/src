@@ -1129,6 +1129,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [前端资源导航](https://github.com/jnoodle/f2e-collect)
 - [F2E 前端导航](http://f2e.im/static/pages/nav/index.html)
 - [前端收藏夹](http://w3ctrain.github.io)
+- [pFan 前端开发导航平台](http://doc.pfan123.com/)
 
 ###十八. 常用CDN
 
