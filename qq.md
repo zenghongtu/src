@@ -276,6 +276,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [angular学习笔记](http://www.zouyesheng.com/angular.html)
 
 ####8. React
+- [react海量资源](https://github.com/enaqx/awesome-react)
 - [react.js 中文论坛](http://www.react-china.org/)
 - [react.js 官方网址](https://facebook.github.io/react/index.html)
 - [react.js 官方文档](https://facebook.github.io/react/docs/getting-started.html)
