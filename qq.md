@@ -537,6 +537,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 ####3. Html5
 - [HTML5 有哪些让你惊艳的 demo？](http://www.zhihu.com/question/24398907)
+- [html5 Canvas画图系列教程目录](http://jo2.org/html5-canvas-tutorial-list/)
 
 ####4. CSS
 - [browserhacks](http://browserhacks.com/)
