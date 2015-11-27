@@ -292,6 +292,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [React原创实战视频教程](http://www.piliyu.com/)
 - [React 入门教程](https://hulufei.gitbooks.io/react-tutorial/content/index.html)
 - [react-webpack-starter](https://github.com/zjzhome/react-webpack-starter)
+- [基于react组件化开发](https://github.com/ant-design/ant-design)
 
 ####9. 移动端API
 
