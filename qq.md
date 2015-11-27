@@ -250,6 +250,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 - [Angular.js 的一些学习资源](https://github.com/dolymood/AngularLearning)
 - [angularjs中文社区](http://angularjs.cn/)
+- [Angular Style Guide](https://github.com/johnpapa/angular-styleguide)
 - [Angularjs源码学习](http://www.cnblogs.com/xuwenmin888/p/3739096.html)
 - [Angularjs源码学习](http://www.ifeenan.com/?c=AngularJS)
 - [angular对bootstrap的封装](http://angular-ui.github.io/bootstrap/)
@@ -275,6 +276,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [AngularJS在线教程](http://each.sinaapp.com/angular/)
 - [angular学习笔记](http://www.zouyesheng.com/angular.html)
 
+
 ####8. React
 - [react海量资源](https://github.com/enaqx/awesome-react)
 - [react.js 中文论坛](http://www.react-china.org/)
@@ -288,6 +290,8 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [Webpack 和 React 小书 - 前端乱炖](http://www.html-js.com/article/Fakefish%203053)
 - [Webpack 和 React 小书 - gitbook](https://fakefish.github.io/react-webpack-cookbook/)
 - [React原创实战视频教程](http://www.piliyu.com/)
+- [React 入门教程](https://hulufei.gitbooks.io/react-tutorial/content/index.html)
+- [react-webpack-starter](https://github.com/zjzhome/react-webpack-starter)
 
 ####9. 移动端API
 
@@ -1166,6 +1170,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [动画方式练习git](http://onlywei.github.io/explain-git-with-d3/)
     - [版本管理工具介绍—Git篇](http://www.imooc.com/learn/208)
     - [版本控制入门 – 搬进 Github](http://www.imooc.com/learn/390)
+    - [Git动画演示](http://pcottle.github.io/learnGitBranching/?demo)
 
 2. SVN
 
