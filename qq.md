@@ -1,9 +1,10 @@
 # QQ群交流(492107297)群规
-[在线地址](http://t.cn/RL2NtqX) `http://t.cn/RL2NtqX`
+[GITHUB在线地址](http://t.cn/RL2NtqX) `http://t.cn/RL2NtqX`
+[看云在线地址](http://t.cn/RUdaGHn) `http://t.cn/RUdaGHn`
 
 这本来是我QQ群内部的一份公共约定的日常交流规则，后来得到大伙的一致认可，并用实际行动来捍卫它，使我倍受感动。
 后来想：传播使爱更有力量，阅读使内心更为坚强，沉淀使生活更为醇香，分享使人更为谦卑或快乐。因为快乐，所以分享。
-知识资源来源于互联网，应该返回给互联网，使看到的每一个人受益，也可以供其它各个行业的群主引用。
+知识资源来源于互联网，应该返回给互联网，使看到的每一个人受益，也可以供其它各个行业的群主参考。
 规则会不断的修改调整，你不在是一个受益者，更是一个项目参与者内容规则的创造者，再造福别人，欢迎fork之后push。
 
 以下个人网址有的未经征得本人同意，如有不便之处请联系我，或fork之后删除再push，我们的心愿是在技术层面进行交流或学习，同时释放自己的激情或梦想。
@@ -21,10 +22,8 @@
 1. 宗旨：高效，高质量的交流，禁止无意义的闲扯，话题内容尽量保持在前端技术与职业相关范围内。原则上：白天上班时间禁止闲聊，业余时间话题可以稍为宽松。
 2. 随着群人数越来越多，为了使群的价值能够保持技术的高质量输送或新鲜度，也为了使新人能够快速地融入这个团队，特编写此约定，希望大伙能够积极遵守或推进，谢谢各位的支持或厚爱。
 3. 我们的目的侧重于引导，T人不是最终目的，我们最大的愿望是自此群规出台之后不要有任何一个人因为违反群规而被T出去。
-4. 此群规也是引导大于惩罚，我们是前端相关从业人士，注重用户感知或行为约定，所以引导为辅，自觉为主。另外氛围还是需要大伙共同参与维护，我们鄙视每一个不尊重时间或浪费青春的人，我们希望在激情岁月里边能够留下成长的痕迹，我们希望这份共同的回忆能够N年后还能念念不忘或值得回忆。今天因为你在此群与各高手交流而感到自豪，明天此群因为曾经有你的存在而感到骄傲，后天因为我们回忆中有你的身影而感到怀念。
+4. 此群规也是引导大于惩罚，我们是前端类相关从业人士，注重用户心理，行为感知或契约精神，阅读完之后继续留在此群着，默认遵守此约定，如果不太习惯，建议退出，以免后期管理引导中出现不必要的冲突或对别人造成伤害，互联网因为开放或自由才有今天的成就，不同意可以退出，但不要进行伤害。另外主要还是引导为辅，自觉为主，氛围还是需要大伙共同参与维护，我们鄙视每一个不尊重时间或浪费青春的人，我们希望在激情岁月里边能够留下成长的痕迹，我们希望这份共同的回忆能够N年后还能念念不忘或值得回忆。今天因为你在此群与各高手交流而感到自豪，明天此群因为曾经有你的存在而感到欣慰，后天因为我们回忆中有你的身影而感到怀念。
 5. 人的存在是为了创造价值，群的存在是为了解决问题，你的存在是为了问题快速解决。
-6. 如果你暂时没有问题，可直接进入我群的代码比赛环节：
-https://github.com/jsfront/qa/tree/master/2015/07/03
 
 ###一. 如何提问:
 1. 请提供能重现问题的url或资源demo文件包。(url：是以www开头的一级域名或二级域名，demo文件是未上线的html静态页面，带图片的请上传至群共享。提供的资源文件，必须是换个环境之后完整的能重现所说的bug，而不是只有html没有关键css,图片等一个单独文件，如果你所属团队对前端代码有特殊的保密要求，请自行找其它解决办法)。
@@ -318,7 +317,6 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [avalonjs](http://avalonjs.github.io/)
 - [Avalon新一代UI库： OniUI](http://ued.qunar.com/oniui/index.html)
 - [avalon.oniui-基于avalon的组件库](https://github.com/RubyLouvre/avalon.oniui)
-- []()
 
 ####11. Requriejs
 
@@ -431,7 +429,6 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [Vue 论坛](http://forum.vuejs.org/)
 - [Vue 入门指南](http://www.cnblogs.com/aaronjs/p/3660102.html)
 - [Vue 的一些资源索引](http://segmentfault.com/a/1190000000411057)
-- []()
 
 ####21. 正则
 
@@ -442,7 +439,6 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [小胡子哥 - 进阶正则表达式](http://div.io/topic/764?page=1)
 - [is.js](https://github.com/Cedriking/is.js/blob/master/is.js)
 - [正则在线测试](http://regexper.com/)
-- []()
 
 ####22. ionic
 
@@ -528,7 +524,6 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [常见排序算法-js版本](https://github.com/hechangmin/jssort)
     - [JavaScript 算法与数据结构 精华集](https://github.com/lightningtgc/JavaScript-Algorithms)
     - [面试常考算法题精讲](http://www.nowcoder.com/live/courses)
-    - []()
 
 3. 移动端
     
@@ -546,7 +541,6 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 ####4. CSS
 - [browserhacks](http://browserhacks.com/)
-- []()
 
 ####5. jQuery
 
@@ -564,8 +558,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [extjs](https://www.sencha.com/products/extjs/)
     - [ext4英文api](http://docs.sencha.com/extjs/4.0.7/)
     - [ext4中文api](http://extjs-doc-cn.github.io/ext4api/)
-    - []()
-    
+
 2. EasyUI
 
     - [jquery easyui 未压缩源代码](http://jquery-easyui.googlecode.com/svn/trunk/src/)
@@ -735,7 +728,6 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [图片裁剪](http://elemefe.github.io/image-cropper/)
 - [图片裁剪-shearphoto](http://www.shearphoto.com/)
 - [jQuery图片处理](http://www.oschina.net/project/tag/284/jquery-image-tools?lang=0&os=0&sort=view&p=2)
-- []()
 
 ####14. 模拟select
 
@@ -743,7 +735,6 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [flexselect](https://github.com/rmm5t/jquery-flexselect)
 - [双select](http://loudev.com/)
 - [select2](http://select2.github.io/)
-- []()
 
 ####15. 取色插件
 
@@ -751,12 +742,10 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [jquery color](https://github.com/jquery/jquery-color/)
 - [取色插件集合](http://www.oschina.net/project/tag/287/color-picker)
 - [farbtastic 圆环＋正方形](https://github.com/mattfarina/farbtastic)
-- []()
 
 ####16. 城市联动
 
 - [jquery.cityselect.js基于jQuery+JSON的省市或自定义联动效果](http://www.ijquery.cn/?p=360)
-- []()
 
 ####17. 剪贴板
 
@@ -876,7 +865,6 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [Why Website Speed is Important](http://sixrevisions.com/web-development/why-website-speed-is-important/)
     - [Need for Speed – How to Improve your Website Performance](http://www.devbridge.com/articles/need-for-speed-how-to-improve-your-website-performance/)
     - [阿里无线前端性能优化指南 (Pt.1 加载期优化) ](https://github.com/amfe/article/issues/1)
-    - []()
 
 2. 优化工具
 
@@ -899,8 +887,6 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [如何成为前端架构师](http://www.zhihu.com/question/24092572)
 - [关于前端架构-张克军](http://hikejun.com/sharing/2010webrebuild/?file=fe-infrastructure.html)
 - [百度腾讯offer比较（腾讯游戏VS百度基础架构）](http://www.zhihu.com/question/25583350)
-- []()
-
 
 ###十二. 个人作品
 
@@ -1041,8 +1027,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
         - [Fiddler调式使用知多少(一)深入研究](http://www.cnblogs.com/tugenhua0707/p/4623317.html)
         - [微信fiddle](http://www.cnblogs.com/strick/p/4570006.html)
         - [微信fiddle](http://gaoboy.com/article/26.html)
-        - []()
-    
+
     2. Chrome
         - [Google Chrome 官方](https://developer.chrome.com/devtools)
         - [Chrome - 基础](http://www.cnblogs.com/constantince/p/4565261.html)
@@ -1085,6 +1070,10 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
         - []()
     
     4. 移动,微信调试
+        - [微信调试的那些事](http://liyaodong.com/2015/07/06/%E5%BE%AE%E4%BF%A1%E8%B0%83%E8%AF%95%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
+        - [微信调试官网](http://blog.qqbrowser.cc/)
+        - [微信公众号本地调试](http://blog.qqbrowser.cc/wei-xin-gong-zhong-hao-ben-di-diao-shi/)
+        - [微信、手Q、Qzone之x5内核inspect调试解决方案](http://bbs.mb.qq.com/thread-243399-1-1.html)
         - [浏览器端调试安卓](https://openstf.github.io/)
         - [移动端前端开发调试](http://yujiangshui.com/multidevice-frontend-debug/)
         - [使用 Chrome 远程调试 Android 设备](https://github.com/yujiangshui/CN-Chrome-DevTools/blob/remote-debugging/md/Use-Tools/remote-debugging.md)
@@ -1093,7 +1082,6 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
         - [无线调试攻略](http://thx.github.io/mobile/debugging-in-mobile/)
         - [无线调试攻略](http://yanhaijing.com/mobile/2014/12/17/web-debug-for-mobile/)
         - [屌爆了,完美调试 微信webview(x5)](http://www.jianshu.com/p/ccf124f1f74b)
-        - [微信调试的那些事](http://liyaodong.com/2015/07/06/%E5%BE%AE%E4%BF%A1%E8%B0%83%E8%AF%95%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
         - [远程console](http://jsconsole.com/)
         - [微信调试工具](http://blog.qqbrowser.cc/)
         - [各种真机远程调试方法汇总](https://github.com/jieyou/remote_inspect_web_on_real_device)
@@ -1175,3 +1163,4 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
 2. SVN
 
+    - [版本管理工具介绍---SVN篇](http://www.imooc.com/learn/109)
