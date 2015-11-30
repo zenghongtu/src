@@ -751,7 +751,6 @@
 
 - [剪贴板](https://github.com/zeroclipboard/zeroclipboard)
 - [clipboard 最新的剪切方案](http://zenorocha.github.io/clipboard.js/)
-- [不是Flash的剪贴板](https://github.com/zenorocha/clipboard.js)
 
 ####18. 简繁转换
 
