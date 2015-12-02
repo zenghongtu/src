@@ -951,12 +951,13 @@
 - [pazguille](http://pazguille.me/)
 
 ###十三. 简历
+1. 生成
 
-    1. 生成
     - [MarkDown在线简历工具](https://github.com/geekcompany/DeerResume)
     - [MarkDown在线简历工具](http://www.deercv.com/)
 
-    1. 模板
+2. 模板
+
     - [不错的个人简历](http://learnshare.github.io/about/index.html)
     - [简历](http://hcy2367.github.io/resume/)
     - [张伦](http://ncuey.sinaapp.com/CrispElite/ )
