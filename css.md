@@ -174,6 +174,10 @@ textarea{resize:none}
 ```css
 a{-webkit-tap-highlight-color:rgba(0,0,0,0);}
 ```
+- 取消input,button焦点或点击时蓝色边框
+```css
+input{outline:none;}
+```
 - webkit 水平居中
 ```css
 display:-webkit-box;-webkit-box-pack:center; -webkit-box-align: center;
@@ -348,4 +352,23 @@ window.addEventListener("onorientationchange" in window ? "orientationchange" : 
     - [【原创】移动端高清、多屏适配方案](http://www.html-js.com/article/3041)
     - [6个html5页面适配iphone6的技巧](http://qietuwang.baijia.baidu.com/article/73861)
     - [关于移动端 rem 布局的一些总结](http://segmentfault.com/a/1190000003690140)
-
+    - [从网易与淘宝的font-size思考前端设计稿与工作流](http://www.cnblogs.com/lyzg/p/4877277.html)
+    - [移动端自适应方案](http://f2e.souche.com/blog/yi-dong-duan-zi-gua-ying-fang-an/)
+    - [MobileWeb 适配总结](http://www.w3ctech.com/topic/979)
+    - [移动端web app自适应布局探索与总结](http://www.html-js.com/article/JavaScript-learning-notes%203234)
+    - 公式
+        
+        ```javascript
+        var PAGE_MAX_WIDTH = 1280,
+            BASE_FONT_SIZE = 50;
+        (function() {
+            function n() {
+                e.fontSize = Math.min(window.innerWidth / PAGE_MAX_WIDTH * BASE_FONT_SIZE, BASE_FONT_SIZE) + "px"
+            }
+            var e = document.documentElement.style;
+            window.addEventListener("load", n),
+            window.addEventListener("resize", n),
+            n();
+        }());
+        ```
+    

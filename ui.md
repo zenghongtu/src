@@ -1,70 +1,18 @@
-# QQ群交流(492107297)群规
-[GITHUB在线地址](http://t.cn/RL2NtqX) `http://t.cn/RL2NtqX`
-[看云在线地址](http://t.cn/RUdaGHn) `http://t.cn/RUdaGHn`
+# UI交流群规
+[在线地址](http://t.cn/RL2NtqX) `http://t.cn/RL2NtqX`
 
-这本来是我QQ群内部的一份公共约定的日常交流规则，后来得到大伙的一致认可，并用实际行动来捍卫它，使我倍受感动。
-后来想：传播使爱更有力量，阅读使内心更为坚强，沉淀使生活更为醇香，分享使人更为谦卑或快乐。因为快乐，所以分享。
-知识资源来源于互联网，应该返回给互联网，使看到的每一个人受益，也可以供其它各个行业的群主参考。
-规则会不断的修改调整，你不在是一个受益者，更是一个项目参与者内容规则的创造者，再造福别人，欢迎fork之后push。
-
-以下个人网址有的未经征得本人同意，如有不便之处请联系我，或fork之后删除再push，我们的心愿是在技术层面进行交流或学习，同时释放自己的激情或梦想。
+UI设计交流◑﹏◐1群 92588284
+群介绍：
+此群藏龙卧虎，国内一线资深设计师都藏匿于此。
+此群高手甚多，全球顶尖理念传道大道尽汇于此。
+群背景：此群是有丰富移动UI-APP设计经验的群主[静]建立的供大家学习交流的一个平台，我们的目的是资源能够共享，使思维能够碰撞，使传播能够长远，使分享更加的容易。
+由于我群是以UI为交集使大伙聚在一起，所以要让我们共同的价值观更加的融会爆发，不建议探讨非UI之外的话题，尤其是代码或后台开发相关的。
 
 ---
 
-###如何优雅地使用群规
-1. 先完整的浏览一遍此群规，了解大纲目录，知道群规有什么内容，以后方便回来查找。
-2. 发出一个问题之后，不要暂时的离开电脑，如果没有把握先不要提问。
-3. 珍惜每一次提问，感恩每一次反馈，每个人工作还是业余之外抽出的时间有限，充分准备好应有的资源之后再发问，有利于问题能够高效质量地得到解决。尤其是具备解决问题能力的人，通常时间都很宝贵。
-4. 先搜索，再思考，最后再提问，很多人把这个顺序搞反了。
-以上部分观点出自此文 [如何优雅地使用 Stack Overflow](http://www.zhihu.com/question/20824615)
-
-###前言
-1. 宗旨：高效，高质量的交流，禁止无意义的闲扯，话题内容尽量保持在前端技术与职业相关范围内。原则上：白天上班时间禁止闲聊，业余时间话题可以稍为宽松。
-2. 随着群人数越来越多，为了使群的价值能够保持技术的高质量输送或新鲜度，也为了使新人能够快速地融入这个团队，特编写此约定，希望大伙能够积极遵守或推进，谢谢各位的支持或厚爱。
-3. 我们的目的侧重于引导，T人不是最终目的，我们最大的愿望是自此群规出台之后不要有任何一个人因为违反群规而被T出去。
-4. 此群规也是引导大于惩罚，我们是前端类相关从业人士，注重用户心理，行为感知或契约精神，阅读完之后继续留在此群着，默认遵守此约定，如果不太习惯，建议退出，以免后期管理引导中出现不必要的冲突或对别人造成伤害，互联网因为开放或自由才有今天的成就，不同意可以退出，但不要进行伤害。另外主要还是引导为辅，自觉为主，氛围还是需要大伙共同参与维护，我们鄙视每一个不尊重时间或浪费青春的人，我们希望在激情岁月里边能够留下成长的痕迹，我们希望这份共同的回忆能够N年后还能念念不忘或值得回忆。今天因为你在此群与各高手交流而感到自豪，明天此群因为曾经有你的存在而感到欣慰，后天因为我们回忆中有你的身影而感到怀念。
-5. 人的存在是为了创造价值，群的存在是为了解决问题，你的存在是为了问题快速解决。
-
 ###一. 如何提问:
-1. 请提供能重现问题的url或资源demo文件包。(url：是以www开头的一级域名或二级域名，demo文件是未上线的html静态页面，带图片的请上传至群共享。提供的资源文件，必须是换个环境之后完整的能重现所说的bug，而不是只有html没有关键css,图片等一个单独文件，如果你所属团队对前端代码有特殊的保密要求，请自行找其它解决办法)。
+1. 请组织好相关文字，用专业的语言描述错误发生的场景。比如：在此操作中，用了选择工具不能移动图层。等等。
 2. 文字描述不清的bug，用截图示意，且要说明两种状态：现状或期望的状态。
-3. 没有图片的代码建议发：
-
-    - [http://www.jsbin.com](http://www.jsbin.com)
-    [http://w3cshare.com/jsbin-editor/](http://w3cshare.com/jsbin-editor/) jsbin的用法
-    优点：不需要登录，即发即预览
-    缺点：速度不靠谱
-    - [http://runjs.cn/](http://runjs.cn/)
-    优点：国内访问速度快，可以上传图片(左下角)
-    缺点：需要登录，用户名
-    - [http://www.jsfiddle.net](http://www.jsfiddle.net)
-    优点：功能强大，历史记录给力，缺点：访问速度慢  
-
-4. 有图片的代码发群共享或申请免费的测试空间
-
-    - [Sina云](http://sae.sina.com.cn/)
-
-    优点：不需要手工发布，只需三级域名就可以访问，支持语言：php,python,java，
-    缺点：需要身份证验证获取免费云豆
-    版本控制工具：svn
-
-    - [京东云](http://jae.jd.com/)
-
-    优点：支持：java,php,nodejs,python,ruby
-    缺点：需要实名认证200元/人，需要在控制台手动发布才能在线上预览
-    版本控制工具：git
-
-    - [github](http://github.com)
-
-    优点：注册即有，方便
-    缺点：只支持静态
-    版本控制工具：git
-
-    - [coding](http://coding.net)
-
-    优点：免费，可以为每个项目开启预览，类似于Github Pages功能，但是支持Node.js,PHP,Phthon,Ruby,Scala,Play,Go这些语言。最近刚出的WebIDE可以直接在浏览器中写代码了，强烈推荐！
-    缺点：提交新版本后，预览demo需要去后台手动部署（不过也就是点一个按钮的事情）
-    版本控制工具：git
 
 参考：
 
@@ -92,7 +40,7 @@
 
 ###三. 禁发:
 
-- 广告，招聘，找工作，找实习，找私活者，接私活，推广(如极客邀请加入)，明星八卦，政治社会话题，禁群内签到，假红包，禁群内语音，禁群内打开视频，分享视频等与前端技术或职业探讨主题无关的内容或行为，禁发超过一屏的长代码，不太习惯自己退，违者踢。
+- 广告，招聘，找工作，找实习，找私活者，接私活，推广(如极客邀请加入)，明星八卦，禁群内签到，假红包，禁语音，禁打开视频，等与前端技术或职业探讨主题无关的内容或行为，禁发超过一屏的长代码，不太习惯自己退，违者踢。
 - 禁发无意义的大图片，建议发qq提供的默认的等于行距表情，约束这个目的在于：
     1. 人脑对图片的接受速度明显快于文字，过多的无意义图片会分散讨论的主题。
     2. 不方便回查，或聊天记录中寻找有价值的消息。
@@ -114,34 +62,10 @@
 1. 综合类
 
     - [前端知识体系](http://www.cnblogs.com/sb19871023/p/3894452.html)
-    - [前端知识结构](https://github.com/JacksonTian/fks)
-    - [Web前端开发大系概览](https://github.com/unruledboy/WebFrontEndStack)
-    - [Web前端开发大系概览-中文版](http://www.cnblogs.com/unruledboy/p/WebFrontEndStack.html)
-    - [Web Front-end Stack v2.2](https://raw.githubusercontent.com/unruledboy/WebFrontEndStack/master/Web%20Front%20End%20Stack.png)
-    - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
-    - [前端书籍](https://github.com/dypsilon/frontend-dev-bookmarks)
-    - [前端免费书籍大全](https://github.com/vhf/free-programming-books)
-    - [前端知识体系](http://www.cnblogs.com/sb19871023/p/3894452.html)
-    - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
-    - [智能社 - 精通JavaScript开发](http://study.163.com/course/introduction/224014.htm)
-    - [重新介绍 JavaScript（JS 教程）](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
-    - [麻省理工学院公开课：计算机科学及编程导论](http://v.163.com/special/opencourse/bianchengdaolun.html)
-    - [JavaScript中的this陷阱的最全收集--没有之一](http://segmentfault.com/a/1190000002640298)
-    - [JS函数式编程指南](http://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch1.html)
-    - [JavaScript Promise迷你书（中文版）](http://liubin.github.io/promises-book/)
-    - [腾讯移动Web前端知识库](https://github.com/AlloyTeam/Mars)
-    - [Front-End-Develop-Guide 前端开发指南](https://github.com/w3crange/Front-End-Develop-Guide)
-    - [前端开发笔记本](https://li-xinyang.gitbooks.io/frontend-notebook/content/)
-    - [大前端工具集 - 聂微东](https://github.com/nieweidong/fetool)
-    - [前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content/)
 
 2. 入门类
 
     - [前端入门教程](http://www.cnblogs.com/jikey/p/3613082.html)
-    - [瘳雪峰的Javascript教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
-    - [jQuery基础教程](http://www.imooc.com/view/11)
-    - [前端工程师必备的PS技能——切图篇](http://www.imooc.com/view/506)
-    - [结合个人经历总结的前端入门方法](https://github.com/qiu-deqing/FE-learning)
 
 3. 效果类
 
@@ -161,337 +85,31 @@
     - [艾伦 - 慕课系列](http://www.imooc.com/space/teacher/id/290139)
     - [碧仔 - Hello，移动WEB](http://www.imooc.com/view/494)
 
-6. 周刊类
+###六. 作品展示:
 
-    - [百度FEX技术周刊](http://fex.baidu.com/weekly/)
-    - [平安科技移动开发二队技术周报](https://github.com/PaicHyperionDev/MobileDevWeekly)
-    - [360奇舞周刊](http://www.75team.com/weekly/)
+###七. 设计门户网站
 
-###六. API:
+1. 集合网站
+    - [设计师导航网站](http://hao.uisdc.com/)
+    - [uehtml网络收藏](http://so.uehtml.com/)
 
-####1. 总目录
+2. 门户网站
 
-1. 开发中心
-
-    - [mozilla js参考](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
-    - [chrome开发中心（chrome的内核已转向blink）](http://developer.chrome.com/extensions/api_index.html)
-    - [safari开发中心](https://developer.apple.com/library/safari/navigation)
-    - [microsoft js参考](http://msdn.microsoft.com/zh-cn/library/d1et7k7c(v=vs.94).aspx)
-    - [js秘密花园](http://sanshi.me/articles/JavaScript-Garden-CN/html/index.html)
-    - [js秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
-    - [w3help](http://www.w3help.org/) 综合Bug集合网站
-
-2. 综合搜索
-
-    - [javascripting](http://www.javascripting.com/)
-    - [各种流行库搜索](http://microjs.com/)
-
-3. 综合API
-    
-    - [runoob.com-包含各种API集合](http://www.runoob.com/)
-    - [开源中国在线API文档合集](http://tool.oschina.net/apidocs)
-    - [devdocs](http://devdocs.io/) 英文综合API网站
-
-####2. jQuery
-
-* [jQuery API 中文文档](http://jquery.bootcss.com/)
-* [hemin 在线版](http://hemin.cn/jq/)
-* [css88 jq api](http://www.css88.com/jqapi-1.9/on/)
-* [css88 jqui api](http://www.css88.com/jquery-ui-api/)
-* [学习jquery](http://learn.jquery.com/)
-* [jquery 源码查找](http://james.padolsey.com/jquery/)
-
-####3. Ecmascript
-
-- [Understanding ECMAScript 6 - Nicholas C. Zakas](https://leanpub.com/understandinges6/read)
-- [exploring-es6](https://leanpub.com/exploring-es6/read)
-- [exploring-es6翻译](https://github.com/es6-org/exploring-es6)
-- [exploring-es6翻译后预览](http://es6-org.github.io/exploring-es6/)
-- [阮一峰 es6](http://es6.ruanyifeng.com/)
-- [阮一峰 Javascript](http://javascript.ruanyifeng.com/)
-- [ECMA-262，第 5 版](http://yanhaijing.com/es5/)
-- [es5](http://es5.github.io/)
-
-####4. Js template
-
-- [template-chooser](http://garann.github.io/template-chooser/)
-- [artTemplate](https://github.com/aui/artTemplate)
-- [tomdjs](https://github.com/aui/tmodjs/blob/master/README.md)
-- [淘宝模板juicer模板](http://juicer.name/docs/docs_zh_cn.html)
-- [Fxtpl v1.0 繁星前端模板引擎](http://koen301.github.io/fxtpl/)
-- [laytpl](http://sentsin.com/layui/laytpl/)
-- [mozilla - nunjucks](https://github.com/mozilla/nunjucks)
-- [Juicer](https://github.com/PaulGuo/Juicer)
-- [dustjs](http://akdubya.github.io/dustjs/)
-- [etpl](http://ecomfe.github.io/etpl/)
-- [twitter-tpl](http://twitter.github.io/hogan.js/)
-
-####5. 弹出层
-
-- [artDialog 最新版](https://github.com/aui/artDialog)
-- [artDialog 文档](http://aui.github.io/artDialog/doc/index.html)
-- [google code 下载地址](https://code.google.com/p/artdialog/downloads/list)
-- [贤心弹出层](http://sentsin.com/jquery/layer/)
-- [响应式用户交互组件库](https://github.com/bh-lay/UI)
-- [sweetalert-有css3动画弹出层](http://t4t5.github.io/sweetalert/)
-
-####6. CSS
-
-- [CSS 语法参考](http://tympanus.net/codrops/css_reference/)
-- [CSS3动画手册](http://isux.tencent.com/css3/index.html)
-- [腾讯css3动画制作工具](http://isux.tencent.com/css3/tools.html)
-- [志爷css小工具集合](http://linxz.github.io/tianyizone/)
-- [css3 js 移动大杂烩](http://www.note12.com/category/blog/2014-6-5/538fe0a9f786f1b7019a4dfb)
-- [bouncejs 触摸库](http://bouncejs.com/)
-- [css3 按钮动画](http://fian.my.id/Waves/)
-- [animate.css](http://daneden.github.io/animate.css/)
-- [全局CSS的终结(狗带) [译]](http://www.alloyteam.com/2015/10/8536/)
-
-####7. Angularjs
-
-- [Angular.js 的一些学习资源](https://github.com/dolymood/AngularLearning)
-- [angularjs中文社区](http://angularjs.cn/)
-- [Angular Style Guide](https://github.com/johnpapa/angular-styleguide)
-- [Angularjs源码学习](http://www.cnblogs.com/xuwenmin888/p/3739096.html)
-- [Angularjs源码学习](http://www.ifeenan.com/?c=AngularJS)
-- [angular对bootstrap的封装](http://angular-ui.github.io/bootstrap/)
-- [angularjs + nodejs](http://cnodejs.org/topic/51404e0f069911196d2e3923)
-- [吕大豹 Angularjs](http://www.cnblogs.com/lvdabao/tag/AngularJs/)
-- [AngularJS 最佳实践](http://www.infoq.com/cn/news/2013/02/angular-web-app)
-- [Angular的一些扩展指令](http://www.lovelucy.info/angularjs-best-practices.html)
-- [Angular数据绑定原理](https://github.com/Pasvaz/bindonce)
-- [一些扩展Angular UI组件](https://github.com/angular-ui/)
-- [Ember和AngularJS的性能测试](http://voidcanvas.com/emberjs-vs-angularjs-performance-testing/)
-- [带你走近AngularJS - 基本功能介绍](http://www.cnblogs.com/powertoolsteam/p/angularjs-introdection.html)
-- [Angularjs开发指南](http://angular.duapp.com/docs/guide)
-- [Angularjs学习](http://www.cnblogs.com/amosli/p/3710648.html)
-- [不要带着jQuery的思维去学习AngularJS](http://www.rainweb.cn/article/angularjs-jquery.html)
-- [angularjs 学习笔记](http://wangjiatao.diandian.com/?tag=angularjs)
-- [angularjs 开发指南](http://www.angularjs.cn/T008)
-- [angularjs 英文资料](https://github.com/jmcunningham/AngularJS-Learning)
-- [angular bootstrap](http://angular-ui.github.io/bootstrap/)
-- [angular jq mobile](https://github.com/opitzconsulting/jquery-mobile-angular-adapter)
-- [angular ui](http://mgcrea.github.io/angular-strap/)
-- [整合jQuery Mobile+AngularJS经验谈](http://www.tuicool.com/articles/7ZZVr2)
-- [有jQuery背景，该如何用AngularJS编程思想](http://blog.jobbole.com/46589/ )
-- [AngularJS在线教程](http://each.sinaapp.com/angular/)
-- [angular学习笔记](http://www.zouyesheng.com/angular.html)
-
-
-####8. React
-- [react海量资源](https://github.com/enaqx/awesome-react)
-- [react.js 中文论坛](http://www.react-china.org/)
-- [react.js 官方网址](https://facebook.github.io/react/index.html)
-- [react.js 官方文档](https://facebook.github.io/react/docs/getting-started.html)
-- [react.js material UI](http://material-ui.com/#/)
-- [react.js TouchstoneJS UI](http://touchstonejs.io/)
-- [react.js amazeui UI](http://amazeui.org/react/)
-- [React 入门实例教程 - 阮一峰](http://www.ruanyifeng.com/blog/2015/03/react.html)
-- [React Native 中文版](http://wiki.jikexueyuan.com/project/react-native/)
-- [Webpack 和 React 小书 - 前端乱炖](http://www.html-js.com/article/Fakefish%203053)
-- [Webpack 和 React 小书 - gitbook](https://fakefish.github.io/react-webpack-cookbook/)
-- [React原创实战视频教程](http://www.piliyu.com/)
-- [React 入门教程](https://hulufei.gitbooks.io/react-tutorial/content/index.html)
-- [react-webpack-starter](https://github.com/zjzhome/react-webpack-starter)
-- [基于react组件化开发](https://github.com/ant-design/ant-design)
-
-####9. 移动端API
-
-1. API    
-    - [99移动端知识集合](https://github.com/jtyjty99999/mobileTech)
-    - [移动端前端开发知识库](https://github.com/AlloyTeam/Mars)
-    - [移动前端的一些坑和解决方法（外观表现）](http://caibaojian.com/mobile-web-bug.html)
-    - [【原】移动web资源整理](http://www.cnblogs.com/PeunZhang/p/3407453.html)
-    - [zepto 1.0 中文手册](http://mweb.baidu.com/zeptoapi/)
-    - [zepto 1.0 中文手册](http://www.html-5.cn/Manual/Zepto/)
-    - [zepto 1.1.2](http://www.css88.com/doc/zeptojs_api/)
-    - [zepto 中文注释](http://www.cnblogs.com/sky000/archive/2013/03/29/2988952.html)
-    - [jqmobile 手册](http://app-framework-software.intel.com/api.php)
-    - [移动浏览器开发集合](https://github.com/maxzhang/maxzhang.github.com/issues)
-    - [移动开发大杂烩](https://github.com/hoosin/mobile-web-favorites)
-    - [微信webview中的一些问题](http://lin-chao.github.io/2014/11/14/%E5%BE%AE%E4%BF%A1webview%E4%B8%AD%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98/)
-2. 框架    
-    - [特色的HTML框架可以创建精美的iOS应用](http://framework7.taobao.org/)
-    - [淘宝SUI](http://m.sui.taobao.org/)
-
-####10. avalon
-
-- [avalonjs](http://avalonjs.github.io/)
-- [Avalon新一代UI库： OniUI](http://ued.qunar.com/oniui/index.html)
-- [avalon.oniui-基于avalon的组件库](https://github.com/RubyLouvre/avalon.oniui)
-
-####11. Requriejs
-
-- [Javascript模块化编程（一）：模块的写法 ](http://www.ruanyifeng.com/blog/2012/10/javascript_module.html)
-- [Javascript模块化编程（二）：AMD规范](http://www.ruanyifeng.com/blog/2012/10/asynchronous_module_definition.html)
-- [Javascript模块化编程（三）：require.js的用法](http://www.ruanyifeng.com/blog/2012/11/require_js.html)
-- [RequireJS入门（一）](http://www.cnblogs.com/snandy/archive/2012/05/22/2513652.html)
-- [RequireJS入门（二）](http://www.cnblogs.com/snandy/archive/2012/05/23/2513712.html)
-- [RequireJS进阶（三）](http://www.cnblogs.com/snandy/archive/2012/06/08/2538001.html)
-- [requrie源码学习](http://www.cnblogs.com/yexiaochai/p/3632580.html )
-- [requrie 入门指南](http://www.oschina.net/translate/getting-started-with-the-requirejs-library )
-- [requrieJS 学习笔记](http://www.cnblogs.com/yexiaochai/p/3214926.html )
-- [requriejs 其一 ](http://cyj.me/why-seajs/requirejs/ )
-- [require backbone结合](http://www.cnblogs.com/yexiaochai/p/3221081.html )
-
-####12. Seajs
-
-- [seajs](http://seajs.org/)
-- [seajs 中文手册](http://cyj.me/why-seajs/zh/)
-
-####13. Less,sass
-
-- [sass](http://www.w3cplus.com/sassguide/)
-- [sass教程-sass中国](http://www.sass.hk/)
-- [Sass 中文文档](http://sass.bootcss.com/)
-- [less](http://less.bootcss.com/)
-
-####14. Markdown
+    - [最流行的PHP 代码规范](http://www.zcool.com.cn/)
+    - [最流行的PHP 代码规范](http://www.ui.cn/)
         
-- [Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown/)
-- [markdown入门参考](https://github.com/LearnShare/Learning-Markdown/blob/master/README.md)
-- [gitbook](https://www.gitbook.com/) 国外的在线markdown可编辑成书
-- [mdeditor](https://www.zybuluo.com/mdeditor)  一款国内的在线markdown编辑器
-- [stackedit](https://stackedit.io) 国外的在线markdown编辑器，功能强大，同步云盘
-- [mditor](http://bh-lay.github.io/mditor/) 一款轻量级的markdown编辑器
-- [lepture-editor](https://github.com/lepture/editor)
-- [markdown-editor](https://github.com/jbt/markdown-editor)
-
-####15. D3
-
-- [d3 Tutorials](https://github.com/mbostock/d3/wiki/Tutorials)
-- [Gallery](https://github.com/mbostock/d3/wiki/Gallery)
-- [lofter](http://datavisual.lofter.com/post/40cf3a_188e535)
-- [iteye](http://alanland.iteye.com/blog/1878595)
-- [ruanyifeng](http://javascript.ruanyifeng.com/library/d3.html)
-
-####16. 兼容性
-
-- [esma 兼容列表](http://kangax.github.io/compat-table/es6/)
-- [W3C CSS验证服务](http://jigsaw.w3.org/css-validator/validator.html.zh-cn)
-- [caniuse](http://caniuse.com/#index )
-- [csscreator](http://csscreator.com/properties)
-- [microsoft](http://msdn.microsoft.com/zh-cn/library/cc351024(v=vs.85).aspx)
-- [在线测兼容-移动端](http://www.responsinator.com/)
-- [emulators](https://www.manymo.com/emulators)
-
-####17. UI相关
-
-- [bootcss](http://v3.bootcss.com/)
-- [MetroUICSS](http://www.w3cplus.com/MetroUICSS/)
-- [semantic](http://semantic-ui.com/)
-- [Buttons](http://alexwolfe.github.io/Buttons/)
-- [kitecss](http://hiloki.github.io/kitecss/)
-- [pintuer](http://www.pintuer.com/)
-- [amazeui](http://amazeui.org/)
-- [worldhello](http://www.worldhello.net/gotgithub/index.html)
-- [linuxtoy](http://igit.linuxtoy.org/contents.html)
-- [gitmagic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
-- [rogerdudler](http://rogerdudler.github.io/git-guide/index.zh.html)
-- [gitref](http://gitref.justjavac.com/)
-- [book](http://git-scm.com/book/zh)
-- [gogojimmy](http://gogojimmy.net/2012/01/17/how-to-use-git-1-git-basic/)
-
-####18. HTTP
-
-- [HTTP API 设计指南](http://segmentfault.com/bookmark/1230000002521721)
-
-####19. 其它API
-
-- [javascript流行库汇总](javascriptoo)
-- [验证api](http://niceue.com/validator/demo/index.php)
-- [underscore 中文手册](http://www.css88.com/doc/underscore/)
-- [underscore源码分析](http://www.html-js.com/article/Underscorejs-source-code-analysis-of-underscorejs-source-code-analysis%203031)
-- [underscore源码分析-亚里士朱德的博客](http://yalishizhude.github.io/tags/underscore/)
-- [underscrejs en api](http://underscorejs.org/)
-- [lodash - underscore的代替品](https://lodash.com/)
-- [ext4api](http://extjs-doc-cn.github.io/ext4api/)
-- [backbone 中文手册](http://www.csser.com/tools/backbone/backbone.js.html)
-- [qwrap手册](http://dev.qwrap.com/resource/js/_docs/_youa/#/qw/base/loadJs_.htm)
-- [缓动函数](http://easings.net/zh-cn)
-- [svg 中文参考](http://www.w3school.com.cn/svg/svg_reference.asp)
-- [svg mdn参考](https://developer.mozilla.org/en-US/docs/Web/SVG)
-- [svg 导出 canvas](https://github.com/gabelerner/canvg)
-- [svg 导出 png](https://github.com/exupero/saveSvgAsPng)
-- [ai-to-svg](http://www.zamzar.com/convert/ai-to-svg/)
-- [localStorage 库](https://github.com/machao/localStorage)
-
-####20. 图表类
-
-- [Highcharts 中文API](http://www.hcharts.cn/api/index.php)
-- [Highcharts 英文API](http://api.highcharts.com/highcharts)
-- [ECharts 百度的图表软件](http://echarts.baidu.com/ )
-- [高德地图](http://lbs.amap.com/api/)
-- [开源的矢量图脚本框架](http://paperjs.org/)
-- [svg 地图](http://jvectormap.com/)
-
-####21. vue
-
-- [Vue](http://cn.vuejs.org/)
-- [Vue 论坛](http://forum.vuejs.org/)
-- [Vue 入门指南](http://www.cnblogs.com/aaronjs/p/3660102.html)
-- [Vue 的一些资源索引](http://segmentfault.com/a/1190000000411057)
-
-####21. 正则
-
-- [JS正则表达式元字符](http://segmentfault.com/a/1190000002471140)
-- [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
-- [MDN-正则表达式](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Regular_Expressions)
-- [ruanyifeng - RegExp对象](http://javascript.ruanyifeng.com/stdlib/regexp.html)
-- [小胡子哥 - 进阶正则表达式](http://div.io/topic/764?page=1)
-- [is.js](https://github.com/Cedriking/is.js/blob/master/is.js)
-- [正则在线测试](http://regexper.com/)
-
-####22. ionic
-
-- [ionic](https://github.com/ychow/ionic-guide)
-
-####23. 其它
-
-- [Mock.js 是一款模拟数据生成器](http://mockjs.com/)
-
-###七. 开发规范
-
-1. 前端
-    - [通过分析github代码库总结出来的工程师代码书写习惯](http://alloyteam.github.io/CodeGuide)
-    - [HTML&CSS编码规范 by @mdo](http://codeguide.bootcss.com/)
-    - [团队合作的css命名规范-腾讯AlloyTeam前端团队](http://www.alloyteam.com/2011/10/107/)
-    - [前端编码规范之js - by yuwenhui](http://yuwenhui.github.io/)
-    - [前端编码规范之js - by 李靖](http://www.cnblogs.com/hustskyking/p/javascript-spec.html)
-    - [前端开发规范手册](http://zhibimo.com/read/Ashu/front-end-style-guide/)
-    - [Airbnb JavaScript 编码规范（简体中文版）](https://github.com/yuche/javascript#table-of-contents)
-    - [AMD与CMD规范的区别](http://www.zhihu.com/question/20351507)
-    - [AMD与CMD规范的区别](http://www.cnblogs.com/tugenhua0707/p/3507957.html)
-    - [KISSY 源码规范](http://docs.kissyui.com/1.4/docs/html/tutorials/style-guide/kissy-source-style.html)
-    - [bt编码规范](http://codeguide.bootcss.com/)
-    - [规范加强版](https://github.com/Suxiaogang/Code_Guide)
-    - [前端代码规范 及 最佳实践](http://blog.jobbole.com/79075/)
-    - [百度前端规范](http://coderlmn.github.io/code-standards/)
-    - [百度前端规范](http://isobar-idev.github.io/code-standards/)
-    - [百度前端规范](http://zhuanlan.zhihu.com/fuyun/19884834)
-    - [ECMAScript6 编码规范--广发证券前端团队](https://github.com/gf-web/es6-coding-style/)
-    - [JavaScript 风格指南/编码规范（Airbnb公司版）](http://blog.jobbole.com/79484/)
-    - [网易前端开发规范](http://nec.netease.com/standard)
-    - [css模块](http://www.75team.com/archives/1049)
-    - [前端规范资源列表](https://github.com/ecomfe/spec)
-
-2. Nodejs
-
-    - [Node.js 风格指南](https://github.com/wwsun/node-style-guide)
-    
-3. PHP
-
-    - [最流行的PHP 代码规范](http://segmentfault.com/a/1190000000443795)
-    - [最流行的PHP 代码规范](https://github.com/hfcorriez/fig-standards/blob/zh_CN/%E6%8E%A5%E5%8F%97/PSR-2-coding-style-guide.md)
-        
-4. Android
+3. 英文设计网站
 
     - [【敏捷开发】Android团队开发规范](http://www.cnblogs.com/lcw/p/3619181.html)
     - [Android 开发规范与应用](http://www.jianshu.com/p/4390f4fe19b3)
 
-###八. 其它收集
+4. 其它网站
 
-####1. 各大公司开源项目
+    - [涂鸦网站](http://www.poocg.com/)
+
+###八. 素材网站
+
+####1. ICON搜索
 
 - [Facebook Projects](https://code.facebook.com/projects/web/)
 - [百度web前端研发部](http://fex.baidu.com/)
@@ -509,7 +127,7 @@
 - [奇舞团开源项目](http://75team.github.io/)
 - [Qunar UED](http://ued.qunar.com/)
 
-####2. Javascript
+####2. PSD其它搜索
 
 1. 常用    
 
@@ -526,6 +144,7 @@
     - [常见排序算法-js版本](https://github.com/hechangmin/jssort)
     - [JavaScript 算法与数据结构 精华集](https://github.com/lightningtgc/JavaScript-Algorithms)
     - [面试常考算法题精讲](http://www.nowcoder.com/live/courses)
+    - []()
 
 3. 移动端
     
@@ -539,10 +158,10 @@
 
 ####3. Html5
 - [HTML5 有哪些让你惊艳的 demo？](http://www.zhihu.com/question/24398907)
-- [html5 Canvas画图系列教程目录](http://jo2.org/html5-canvas-tutorial-list/)
 
 ####4. CSS
 - [browserhacks](http://browserhacks.com/)
+- []()
 
 ####5. jQuery
 
@@ -560,7 +179,8 @@
     - [extjs](https://www.sencha.com/products/extjs/)
     - [ext4英文api](http://docs.sencha.com/extjs/4.0.7/)
     - [ext4中文api](http://extjs-doc-cn.github.io/ext4api/)
-
+    - []()
+    
 2. EasyUI
 
     - [jquery easyui 未压缩源代码](http://jquery-easyui.googlecode.com/svn/trunk/src/)
@@ -600,8 +220,7 @@
 - [summernote 编辑器](https://github.com/summernote/summernote)
 - [html5编辑器](http://neilj.github.io/Squire/)
 - [XEditor](http://lab.hustlzp.com/XEditor/)
-- [wangEditor](https://github.com/wangfupeng1988/wangEditor)
-- [Trumbowyg - 轻量编辑器](http://alex-d.github.io/Trumbowyg/)
+- [wangEditor](https://github.com/wangfupeng1988/wangEditor )
 
 ####9. 日历
 
@@ -678,15 +297,6 @@
     - [fis 官网](http://fex-team.github.io/fis-site/index.html)
     - [fis](http://fis.baidu.com/)
 
-5. webpack
-
-    - [webpack](https://github.com/webpack/webpack)
-    - [Webpack，101入门体验](http://html-js.com/article/3009)
-    - [webpack入门教程](http://html-js.com/article/3113)
-    - [基于webpack搭建前端工程解决方案探索](http://segmentfault.com/a/1190000003499526)
-    - [Webpack傻瓜式指南（一）](http://zhuanlan.zhihu.com/FrontendMagazine/20367175)
-    - [Webpack指南](https://github.com/TJZC/Banyan/wiki/Webpack%E6%8C%87%E5%8D%97)
-
 ####12. 轮播图
 
 1. pc图轮
@@ -730,6 +340,7 @@
 - [图片裁剪](http://elemefe.github.io/image-cropper/)
 - [图片裁剪-shearphoto](http://www.shearphoto.com/)
 - [jQuery图片处理](http://www.oschina.net/project/tag/284/jquery-image-tools?lang=0&os=0&sort=view&p=2)
+- []()
 
 ####14. 模拟select
 
@@ -737,6 +348,7 @@
 - [flexselect](https://github.com/rmm5t/jquery-flexselect)
 - [双select](http://loudev.com/)
 - [select2](http://select2.github.io/)
+- []()
 
 ####15. 取色插件
 
@@ -744,15 +356,18 @@
 - [jquery color](https://github.com/jquery/jquery-color/)
 - [取色插件集合](http://www.oschina.net/project/tag/287/color-picker)
 - [farbtastic 圆环＋正方形](https://github.com/mattfarina/farbtastic)
+- []()
 
 ####16. 城市联动
 
 - [jquery.cityselect.js基于jQuery+JSON的省市或自定义联动效果](http://www.ijquery.cn/?p=360)
+- []()
 
 ####17. 剪贴板
 
 - [剪贴板](https://github.com/zeroclipboard/zeroclipboard)
 - [clipboard 最新的剪切方案](http://zenorocha.github.io/clipboard.js/)
+- [不是Flash的剪贴板](https://github.com/zenorocha/clipboard.js)
 
 ####18. 简繁转换
 
@@ -771,7 +386,7 @@
 - [js 在线编辑 - jsbin](http://jsbin.com/)
 - [js 在线编辑 - codepen](http://codepen.io/)
 - [js 在线编辑 - jsfiddle](http://jsfiddle.net/)
-- [java 在线编辑 - ideone](http://ideone.com/)
+- [java 在线编辑 - runjs](http://ideone.com/)
 - [js 在线编辑 - hcharts](http://code.hcharts.cn/)
 - [js 在线编辑 - jsdm](http://jsdm.com/)
 - [sql 在线编辑 - sqlfiddle](http://sqlfiddle.com/)
@@ -784,12 +399,6 @@
 ####22. 粒子动画
 
 - [Proton 烟花](http://a-jie.github.io/Proton/#example)
-
-####23. 表单验证
-
-- [Validform](https://github.com/haiercdboy/Validform/blob/master/README.md)
-- [formvalidator](http://formvalidator.net/)
-- [jQuery formValidator](http://www.cnblogs.com/wzmaodong/archive/2012/10/15/2724005.html)
 
 ###九. Nodejs
 
@@ -813,7 +422,7 @@
 - [Node初学者入门，一本全面的NodeJS教程](http://ourjs.com/detail/529ca5950cb6498814000005)
 - [NodeJS的代码调试和性能调优](http://www.barretlee.com/blog/2015/10/07/debug-nodejs-in-command-line/)
 
-###十. 性能优化
+###十. 工具网站
 
 1. 常规优化
 
@@ -866,6 +475,7 @@
     - [Why Website Speed is Important](http://sixrevisions.com/web-development/why-website-speed-is-important/)
     - [Need for Speed – How to Improve your Website Performance](http://www.devbridge.com/articles/need-for-speed-how-to-improve-your-website-performance/)
     - [阿里无线前端性能优化指南 (Pt.1 加载期优化) ](https://github.com/amfe/article/issues/1)
+    - []()
 
 2. 优化工具
 
@@ -879,17 +489,19 @@
     - [阿里-免费测试服务](http://itest.aliyun.com/)
     - [阿里-F2etest多浏览器兼容性测试解决方案](https://github.com/alibaba/f2etest)
     - [js性能测试](http://jsperf.com/)
-    - [轻松玩转PDF](http://smallpdf.com/cn)
+    - []()
     
-###十一. 前端架构
+###十一. 个人优秀设计网站
 
 - [技术架构](http://www.zhihu.com/topic/19612641)
 - [前端架构](http://saito.im/note/The-Architecture-of-F2E/)
 - [如何成为前端架构师](http://www.zhihu.com/question/24092572)
 - [关于前端架构-张克军](http://hikejun.com/sharing/2010webrebuild/?file=fe-infrastructure.html)
 - [百度腾讯offer比较（腾讯游戏VS百度基础架构）](http://www.zhihu.com/question/25583350)
+- []()
 
-###十二. 个人作品
+
+###十二. 代码分享
 
 ####1. 推荐作品
 
@@ -899,6 +511,7 @@
 - [当耐特demo集合](http://kmdjs.github.io/)
 - [米空格 js作品](http://www.laoshu133.com/Lab/)
 - [myFocus](http://koen301.github.io/)
+- [jssdk flash开发组件　抽奖转盘](http://jssdk.sinaapp.com/)
 - [SeaJS组件库](http://panxuepeng.github.io/seajslib/)
 - [颜海镜作品](http://yanhaijing.com/myProject/)
 - [脚儿网作品](http://jo2.org/category/myworks/)
@@ -950,31 +563,24 @@
 
 - [pazguille](http://pazguille.me/)
 
-###十三. 简历
-1. 生成
+###十三. 简历模板
 
-    - [MarkDown在线简历工具](https://github.com/geekcompany/DeerResume)
-    - [MarkDown在线简历工具](http://www.deercv.com/)
-
-2. 模板
-
-    - [不错的个人简历](http://learnshare.github.io/about/index.html)
-    - [简历](http://hcy2367.github.io/resume/)
-    - [张伦](http://ncuey.sinaapp.com/CrispElite/ )
-    - [简历](https://github.com/hacke2/ResumeSample)
-    - [翁天信](http://blog.dandyweng.com/2013/07/how-my-website-was-created/)
-    - [动画方式的简历](http://www.webhek.com/misc/interactive-resume/)
-    - [组件丰富简历](http://www.linqing07.com/resume.html)
-    - [简历池](http://www.mojianli.com/resume/view)
-    - [haorooms博客](http://www.haorooms.com/about)
-    - [Justin Young](http://cv.youngdze.com/)
-    - [各个程序员简历模板](https://github.com/geekcompany/ResumeSample)
+- [不错的个人简历](http://learnshare.github.io/about/index.html)
+- [简历](http://hcy2367.github.io/resume/)
+- [张伦](http://ncuey.sinaapp.com/CrispElite/ )
+- [简历](https://github.com/hacke2/ResumeSample)
+- [翁天信](http://blog.dandyweng.com/2013/07/how-my-website-was-created/)
+- [动画方式的简历](http://www.webhek.com/misc/interactive-resume/)
+- [组件丰富简历](http://www.linqing07.com/resume.html)
+- [简历池](http://www.mojianli.com/resume/view)
+- [haorooms博客](http://www.haorooms.com/about)
+- [Justin Young](http://cv.youngdze.com/)
+- []()
 
 ###十四. 面试题
 
 - [那几个月在找工作（百度，网易游戏）](http://www.nowcoder.com/discuss/3196)
 - [2014最新面试题](http://www.html-js.com/article/1743)
-- [名企笔试大全](http://group.jobbole.com/category/tech/interview-test/)
 - [阿里前端面试题](http://www.w3cfuns.com/thread-5598563-2-1.html)
 - [2016校招内推 -- 阿里巴巴前端 -- 三面面试经历 ](http://www.cnblogs.com/imwtr/p/4685546.html)
 - [腾讯面试题](http://www.w3cfuns.com/article-5599657-1-1.html)
@@ -1004,14 +610,6 @@
 
 ###十五. iconfont
 
-- [中文字体](http://www.zhihu.com/question/21253343)
-- [淘宝字库](http://iconfont.cn)
-- [字体](http://ux.etao.com/fonts)
-- [制作教程](http://iconfont.cn/help/platform.html)
-- [zhangxinxu-icommon](http://www.zhangxinxu.com/wordpress/?s=icomoon)
-- [icommon](http://icomoon.io/app/)
-- [用字体在网页中画ICON图标(推荐教程)](http://imooc.com/learn/243)
-- [字体压缩工具](http://font-spider.org/) 感谢初级群　[深圳-小鱼] 的推荐
 
 ###十六. 开发工具类
 
@@ -1029,7 +627,8 @@
         - [Fiddler调式使用知多少(一)深入研究](http://www.cnblogs.com/tugenhua0707/p/4623317.html)
         - [微信fiddle](http://www.cnblogs.com/strick/p/4570006.html)
         - [微信fiddle](http://gaoboy.com/article/26.html)
-
+        - []()
+    
     2. Chrome
         - [Google Chrome 官方](https://developer.chrome.com/devtools)
         - [Chrome - 基础](http://www.cnblogs.com/constantince/p/4565261.html)
@@ -1072,10 +671,6 @@
         - []()
     
     4. 移动,微信调试
-        - [微信调试的那些事](http://liyaodong.com/2015/07/06/%E5%BE%AE%E4%BF%A1%E8%B0%83%E8%AF%95%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
-        - [微信调试官网](http://blog.qqbrowser.cc/)
-        - [微信公众号本地调试](http://blog.qqbrowser.cc/wei-xin-gong-zhong-hao-ben-di-diao-shi/)
-        - [微信、手Q、Qzone之x5内核inspect调试解决方案](http://bbs.mb.qq.com/thread-243399-1-1.html)
         - [浏览器端调试安卓](https://openstf.github.io/)
         - [移动端前端开发调试](http://yujiangshui.com/multidevice-frontend-debug/)
         - [使用 Chrome 远程调试 Android 设备](https://github.com/yujiangshui/CN-Chrome-DevTools/blob/remote-debugging/md/Use-Tools/remote-debugging.md)
@@ -1084,10 +679,10 @@
         - [无线调试攻略](http://thx.github.io/mobile/debugging-in-mobile/)
         - [无线调试攻略](http://yanhaijing.com/mobile/2014/12/17/web-debug-for-mobile/)
         - [屌爆了,完美调试 微信webview(x5)](http://www.jianshu.com/p/ccf124f1f74b)
+        - [微信调试的那些事](http://liyaodong.com/2015/07/06/%E5%BE%AE%E4%BF%A1%E8%B0%83%E8%AF%95%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
         - [远程console](http://jsconsole.com/)
         - [微信调试工具](http://blog.qqbrowser.cc/)
         - [各种真机远程调试方法汇总](https://github.com/jieyou/remote_inspect_web_on_real_device)
-        - [手机测试自己写的web页面](http://www.zhihu.com/question/37361845)
     
     5. iOS Simulator
         - [Simulator](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/iOS_Simulator_Guide/Introduction/Introduction.html)
@@ -1110,59 +705,16 @@
     - [File Watchers](http://geek100.com/2608/)
 
 6. 在线PPT制作
-    - [nodePPT](http://js8.in/2013/11/16/%E6%8E%A8%E8%8D%90nodeppt%EF%BC%9A%E4%BD%BF%E7%94%A8markdown%E8%AF%AD%E6%B3%95%E6%9D%A5%E5%86%99%E7%BD%91%E9%A1%B5ppt/)
     - [PPT](https://github.com/ksky521/nodePPT)
     - [reveal](https://github.com/hakimel/reveal.js/)
     - [slippy](https://github.com/Seldaek/slippy)
-
+            
 ###十七. 前端导航网站
 
-- [界面清爽的前端导航](http://uxbees.com/index.html)
-- [前端导航](http://whycss.com/)
-- [前端网址导航](http://www.daqianduan.com/nav)
-- [前端名录](http://sentsin.com/daohang/)
-- [前端导航](http://123.jser.us/)
-- [前端开发资源](http://www.css88.com/nav/)
-- [网址导航](http://www.haourl.cn/)
-- [前端开发仓库 - 众多效果的收集地](http://code.ciaoca.com/) 
-- [前端资源导航](https://github.com/jnoodle/f2e-collect)
-- [F2E 前端导航](http://f2e.im/static/pages/nav/index.html)
-- [前端收藏夹](http://w3ctrain.github.io)
-- [pFan 前端开发导航平台](http://doc.pfan123.com/)
 
 ###十八. 常用CDN
 
-- [新浪CDN](http://lib.sinaapp.com/)
-- [百度静态资源公共库](http://cdn.code.baidu.com/)
-- [360网站卫士常用前端公共库CDN服务](http://libs.useso.com/)
-- [Bootstrap中文网开源项目免费 CDN 服务](http://www.bootcdn.cn/)
-- [开放静态文件 CDN - 七牛](http://staticfile.org/)
-- [CDN加速 - jq22](http://www.jq22.com/cdn)
-- [jQuery CDN](http://code.jquery.com/)
-- [Google jQuery CDN](http://www.google-jquery-cdn.com/)
-- [微软CDN](http://www.asp.net/ajax/cdn)
 
 ###十九. Git,SVN,Github
 
-1. Git
 
-    - [git-scm](http://git-scm.com/)
-    - [廖雪峰-Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
-    - [git-for-windows](https://git-for-windows.github.io/)
-    - [GitHub 添加 SSH keys](http://daemon369.github.io/git/2015/03/10/add-ssh-keys-for-github/)
-    - [gogithub](http://www.worldhello.net/gotgithub/index.html)
-    - [git常规命令练习](http://pcottle.github.io/learnGitBranching/)
-    - [git的资料整理](https://github.com/xirong/my-git)
-    - [我所记录的git命令（非常实用）](http://www.cnblogs.com/fanfan259/p/4810517.html)
-    - [企业开发git工作流模式探索部分休整](https://github.com/xirong/my-git/blob/master/git-workflow-tutorial.md)
-    - [GitHub 漫游指南](https://github.com/phodal/github-roam)
-    - [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
-    - [使用git和github进行协同开发流程](http://livoras.com/post/28)
-    - [动画方式练习git](http://onlywei.github.io/explain-git-with-d3/)
-    - [版本管理工具介绍—Git篇](http://www.imooc.com/learn/208)
-    - [版本控制入门 – 搬进 Github](http://www.imooc.com/learn/390)
-    - [Git动画演示](http://pcottle.github.io/learnGitBranching/?demo)
-
-2. SVN
-
-    - [版本管理工具介绍---SVN篇](http://www.imooc.com/learn/109)
