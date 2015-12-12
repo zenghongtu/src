@@ -1122,18 +1122,15 @@
 
 ###十七. 前端导航网站
 
-- [界面清爽的前端导航](http://uxbees.com/index.html)
 - [前端导航](http://whycss.com/)
 - [前端网址导航](http://www.daqianduan.com/nav)
 - [前端名录](http://sentsin.com/daohang/)
 - [前端导航](http://123.jser.us/)
 - [前端开发资源](http://www.css88.com/nav/)
-- [网址导航](http://www.haourl.cn/)
-- [前端开发仓库 - 众多效果的收集地](http://code.ciaoca.com/) 
+- [前端开发仓库 - 众多效果的收集地](http://code.ciaoca.com/)
 - [前端资源导航](https://github.com/jnoodle/f2e-collect)
 - [F2E 前端导航](http://f2e.im/static/pages/nav/index.html)
 - [前端收藏夹](http://w3ctrain.github.io)
-- [pFan 前端开发导航平台](http://doc.pfan123.com/)
 - [前端导航](http://fenav.com/)
 - [前端工具箱](http://www.awesomes.cn/)
 - [前端人俱乐部-灵感_Idea](http://f2er.club/)
