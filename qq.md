@@ -627,6 +627,10 @@
     - [一个风格多样的日历](https://github.com/glad/glDatePicker)
     - [弹出层式的全日历](http://amsul.ca/pickadate.js/date/)
     - [jquery双日历](http://www.daterangepicker.com/)
+    - [bootstrap-datetimepicker/](http://www.bootcss.com/p/bootstrap-datetimepicker/)
+    - [贤心-laydate](http://laydate.layui.com/)
+    - [Pikaday-微型日历](http://dbushell.github.io/Pikaday/)
+    - [AngularJS datepicker directives](https://github.com/g00fy-/angular-datepicker)
 
 2. 移动
 
@@ -1130,6 +1134,9 @@
 - [F2E 前端导航](http://f2e.im/static/pages/nav/index.html)
 - [前端收藏夹](http://w3ctrain.github.io)
 - [pFan 前端开发导航平台](http://doc.pfan123.com/)
+- [前端导航](http://fenav.com/)
+- [前端工具箱](http://www.awesomes.cn/)
+- [前端人俱乐部-灵感_Idea](http://f2er.club/)
 
 ###十八. 常用CDN
 
