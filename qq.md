@@ -602,6 +602,7 @@
 - [html5编辑器](http://neilj.github.io/Squire/)
 - [XEditor](http://lab.hustlzp.com/XEditor/)
 - [wangEditor](https://github.com/wangfupeng1988/wangEditor)
+- [wangEditor-mobile--移动端编辑器](https://github.com/wangfupeng1988/wangEditor-mobile)
 - [Trumbowyg - 轻量编辑器](http://alex-d.github.io/Trumbowyg/)
 
 ####9. 日历
