@@ -798,6 +798,10 @@
 - [formvalidator](http://formvalidator.net/)
 - [jQuery formValidator](http://www.cnblogs.com/wzmaodong/archive/2012/10/15/2724005.html)
 
+####24. 表单美化
+
+- [美化checkbox](http://icheck.fronteed.com/)
+
 ###九. Nodejs
 
 - [nodejs 篇幅比较巨大](http://liuqing.pw/)
