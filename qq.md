@@ -919,7 +919,6 @@
 - [云五笔，灰度产生生成工具](https://github.com/TooBug/works)
 - [项目主页](http://koen301.github.io/)
 - [个性的作品主页](http://zaole.net/)
-- [播放器](http://static.tingall.com/v2/player/)
 - [ucren js demos 集](http://ucren.com/blog/demos)
 - [智能社](http://www.zhinengshe.com/works_list.html)
 - [实例陈列架](http://demos.shizuwu.cn/)
