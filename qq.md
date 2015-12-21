@@ -1032,6 +1032,7 @@
     - [Webstorm,InterllIdea,Phpstorm](http://t.cn/8kZZ1Uy)
     - [SublimeText](https://github.com/jikeytang/sublime-text)
     - [Atom](https://atom.io/)
+    - [Atom飞行手册（中文版）](https://www.gitbook.com/book/wizardforcel/atom-flight-manual-zh-cn/details)
     - [visual studio code](https://code.visualstudio.com/)
 
 2. Chrome, Firebug, Filddle 调试
