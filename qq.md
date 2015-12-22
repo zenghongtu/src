@@ -135,6 +135,7 @@
     - [大前端工具集 - 聂微东](https://github.com/nieweidong/fetool)
     - [前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content/)
     - [前端开发者手册](http://www.kancloud.cn/kancloud/front-end-dev-handbook/75919)
+    - [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)
 
 2. 入门类
 
