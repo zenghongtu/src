@@ -1033,6 +1033,7 @@
     - [SublimeText](https://github.com/jikeytang/sublime-text)
     - [Atom](https://atom.io/)
     - [Atom飞行手册（中文版）](https://www.gitbook.com/book/wizardforcel/atom-flight-manual-zh-cn/details)
+    - [Atom-vue代码高亮](https://github.com/CYBAI/language-vue-component)
     - [visual studio code](https://code.visualstudio.com/)
 
 2. Chrome, Firebug, Filddle 调试
