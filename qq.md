@@ -296,6 +296,7 @@
 - [React 入门教程](https://hulufei.gitbooks.io/react-tutorial/content/index.html)
 - [react-webpack-starter](https://github.com/zjzhome/react-webpack-starter)
 - [基于react组件化开发](https://github.com/ant-design/ant-design)
+- [React 编程规范(by Airbnb)](https://github.com/dwqs/react-style-guide)
 
 ####9. 移动端API
 
