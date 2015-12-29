@@ -299,6 +299,7 @@
 - [react-webpack-starter](https://github.com/zjzhome/react-webpack-starter)
 - [基于react组件化开发](https://github.com/ant-design/ant-design)
 - [React 编程规范(by Airbnb)](https://github.com/dwqs/react-style-guide)
+- [React Webpack小说](https://fakefish.github.io/react-webpack-cookbook/index.html)
 
 ####9. 移动端API
 
