@@ -397,6 +397,17 @@ window.onerror = function (errMsg, scriptURI, lineNumber, columnNumber, errorObj
 };
 ```
 
+- [如何通过 js 修改微信浏览器的title?](https://www.zhihu.com/question/26228251/answer/32405529)
+```javascript
+var $body = $('body');
+document.title = 'title'; // hack在微信等webview中无法修改document.title的情况    
+var $iframe = $('<iframe src="/favicon.ico"></iframe>').on('load', function(){ 
+    setTimeout(function(){ 
+        $iframe.off('load').remove() 
+    }, 0) 
+}).appendTo($body)
+```
+
 #### 1. 常用方法 - js
 - 字符串长度截取
 ```js
