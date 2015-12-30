@@ -692,6 +692,7 @@
 5. webpack
 
     - [webpack](https://github.com/webpack/webpack)
+    - [Webpack 中文指南](https://zhaoda.gitbooks.io/webpack/content/index.html)
     - [Webpack，101入门体验](http://html-js.com/article/3009)
     - [webpack入门教程](http://html-js.com/article/3113)
     - [基于webpack搭建前端工程解决方案探索](http://segmentfault.com/a/1190000003499526)
