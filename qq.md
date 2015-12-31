@@ -280,6 +280,8 @@
 - [有jQuery背景，该如何用AngularJS编程思想](http://blog.jobbole.com/46589/ )
 - [AngularJS在线教程](http://each.sinaapp.com/angular/)
 - [angular学习笔记](http://www.zouyesheng.com/angular.html)
+- [UI Bootstrap - AngularJS directives specific to Bootstrap](https://github.com/angular-ui/bootstrap)
+- [NG Bootstrap - Angular 2 directives specific to Bootstrap 4](https://github.com/ng-bootstrap/core)
 
 
 ####8. React
@@ -1017,6 +1019,7 @@
 - [如何面试前端工程师](http://www.zhihu.com/question/19568008)
 - [前端开发面试题](https://github.com/markyun/My-blog/blob/master/Front-end-Developer-Questions/Questions-and-Answers/README.md)
 - [牛客网-笔试面经](http://www.nowcoder.com/discuss?type=2)
+- [40 个重要的 HTML5 面试问题及答案](http://www.codeceo.com/article/40-important-html5-interviews.html)
 
 ###十五. iconfont
 
