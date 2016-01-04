@@ -805,6 +805,7 @@
 - [Validform](https://github.com/haiercdboy/Validform/blob/master/README.md)
 - [formvalidator](http://formvalidator.net/)
 - [jQuery formValidator](http://www.cnblogs.com/wzmaodong/archive/2012/10/15/2724005.html)
+- [表单验证完美解决方案](http://validform.rjboy.cn/)
 
 ####24. 表单美化
 
