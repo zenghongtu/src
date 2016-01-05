@@ -432,6 +432,7 @@
 - [高德地图](http://lbs.amap.com/api/)
 - [开源的矢量图脚本框架](http://paperjs.org/)
 - [svg 地图](http://jvectormap.com/)
+- [jQuery Vector Map Library](http://jqvmap.com/)
 
 ####21. vue
 
