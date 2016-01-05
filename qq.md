@@ -1004,6 +1004,7 @@
 - [Web开发笔试面试题 大全](http://mianshiti.diandian.com/)
 - [前端开发面试题](http://segmentfault.com/a/1190000000465431)
 - [2014最新前端面试题](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions)
+- [前端开发面试题](https://github.com/markyun/My-blog/blob/master/Front-end-Developer-Questions/Questions-and-Answers/README.md)
 - [百度面试](https://github.com/fex-team/interview-questions)
 - [面试题](http://www.w3cfuns.com/forum.php?mod=forumdisplay&fid=51&filter=typeid&typeid=177)
 - [前端工作面试问题](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions/tree/master/Chinese)
@@ -1018,10 +1019,8 @@
 - [前端开发面试题大收集](https://github.com/paddingme/Front-end-Web-Development-Interview-Question)
 - [收集的前端面试题和答案](https://github.com/qiu-deqing/FE-interview)
 - [如何面试前端工程师](http://www.zhihu.com/question/19568008)
-- [前端开发面试题](https://github.com/markyun/My-blog/blob/master/Front-end-Developer-Questions/Questions-and-Answers/README.md)
 - [牛客网-笔试面经](http://www.nowcoder.com/discuss?type=2)
 - [40 个重要的 HTML5 面试问题及答案](http://www.codeceo.com/article/40-important-html5-interviews.html)
-- [前端开发面试题](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions/Questions-and-Answers)
 
 ###十五. iconfont
 
