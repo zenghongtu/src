@@ -364,6 +364,7 @@
 - [mditor](http://bh-lay.github.io/mditor/) 一款轻量级的markdown编辑器
 - [lepture-editor](https://github.com/lepture/editor)
 - [markdown-editor](https://github.com/jbt/markdown-editor)
+- [Markdown 在线编辑器](https://github.com/pandao/editor.md)
 
 ####15. D3
 
