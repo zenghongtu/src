@@ -1089,6 +1089,7 @@
         - [chrome 开发者工具的 15 个小技巧](http://frontenddev.org/link/15-tips-of-chrome-developer-tools.html)
         - [Chrome开发者工具不完全指南](http://1ke.co/course/361)
         - [Chrome 开发者工具使用技巧](http://segmentfault.com/a/1190000003882567)
+        - [Chrome渲染分析之Rendering工具使用(1)](http://www.ghugo.com/chrome-rendering-tools-1/)
 
     3. Firebug
         - [firebug视频教程](http://www.imooc.com/learn/137)
