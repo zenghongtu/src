@@ -243,6 +243,7 @@
 
 - [CSS 语法参考](http://tympanus.net/codrops/css_reference/)
 - [CSS3动画手册](http://isux.tencent.com/css3/index.html)
+- [alloyteam - CSS3 UI 库](http://css3lib.alloyteam.com/)
 - [腾讯css3动画制作工具](http://isux.tencent.com/css3/tools.html)
 - [志爷css小工具集合](http://linxz.github.io/tianyizone/)
 - [css3 js 移动大杂烩](http://www.note12.com/category/blog/2014-6-5/538fe0a9f786f1b7019a4dfb)
@@ -250,6 +251,7 @@
 - [css3 按钮动画](http://fian.my.id/Waves/)
 - [animate.css](http://daneden.github.io/animate.css/)
 - [全局CSS的终结(狗带) [译]](http://www.alloyteam.com/2015/10/8536/)
+- [ANIMATION - 大漠](http://www.w3cplus.com/blog/tags/29.html)
 
 ####7. Angularjs
 
@@ -598,6 +600,7 @@
 - [社会化分享组件](http://developer.baidu.com/soc/share) 移动端
 - [ShareSDK 轻松实现社会化功能](http://www.mob.com/#/index) 移动端
 - [友盟分享](http://dev.umeng.com/social/android/quick-integration) 移动端
+- [addthis](http://www.addthis.com/) 国外社交分享
 
 ####8. 富文本编辑器
 
