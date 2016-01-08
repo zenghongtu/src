@@ -1090,6 +1090,8 @@
         - [Chrome开发者工具不完全指南](http://1ke.co/course/361)
         - [Chrome 开发者工具使用技巧](http://segmentfault.com/a/1190000003882567)
         - [Chrome渲染分析之Rendering工具使用(1)](http://www.ghugo.com/chrome-rendering-tools-1/)
+        - [Chrome渲染分析之Rendering工具使用(2)](http://www.ghugo.com/chrome-rendering-tools-2/)
+        - [Chrome渲染分析之Rendering工具使用(3)](http://www.ghugo.com/chrome-rendering-tools-3/)
 
     3. Firebug
         - [firebug视频教程](http://www.imooc.com/learn/137)
