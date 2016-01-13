@@ -863,7 +863,7 @@
     - [Yahoo!团队实践分享：网站性能](http://www.360doc.com/content/10/0928/09/2588264_56971287.shtml)
     - [网站性能优化指南：什么使我们的网站变慢？](http://blog.jiasule.com/i/153)
     - [网站性能优化实践，减少加载时间，提高用户体验](http://www.powereasy.net/helpyou/knowledge/ecommerce/9593.html)
-    - [浅谈网站性能优化 前端篇](http://www.umtry.com/archives/747.html)
+    - [浅谈网站性能优化 前端篇](http://jaskey.github.io/blog/2014/10/17/performance/)
     - [前端重构实践之如何对网站性能优化？](http://www.adinnet.cn/blog/designview/2012-7-12/678.html)
     - [前端性能优化：使用媒体查询加载指定大小的背景图片](http://www.gbin1.com/technology/javascript/20130708-front-end-performance-optimization-9/)
     - [网站性能系列博文](http://www.mykuer.com/post/factors-that-affect-the-speed-of-web-site-open.html)
