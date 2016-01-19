@@ -750,6 +750,7 @@
 - [图片裁剪](http://elemefe.github.io/image-cropper/)
 - [图片裁剪-shearphoto](http://www.shearphoto.com/)
 - [jQuery图片处理](http://www.oschina.net/project/tag/284/jquery-image-tools?lang=0&os=0&sort=view&p=2)
+- [文件上传](http://fineuploader.com/)
 
 ####14. 模拟select
 
