@@ -705,6 +705,7 @@
     - [基于webpack搭建前端工程解决方案探索](http://segmentfault.com/a/1190000003499526)
     - [Webpack傻瓜式指南（一）](http://zhuanlan.zhihu.com/FrontendMagazine/20367175)
     - [Webpack指南](https://github.com/TJZC/Banyan/wiki/Webpack%E6%8C%87%E5%8D%97)
+    - [webpack指南](http://webpack.toobug.net/zh-cn/index.html)
 
 ####12. 轮播图
 
