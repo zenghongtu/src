@@ -19,7 +19,6 @@
 ###一. 资源教程
 
 1. 综合类
-
     - [vuejs 英文资料](https://github.com/vuejs/awesome-vue)
     - [Vue中文资料总汇](https://shimo.im/s/ab53739d-ca98-bd1e-aea0-fcc7378c6bb3)
     - [Vue.js 的一些资源索引](http://segmentfault.com/a/1190000000411057)
@@ -43,15 +42,18 @@
 #### 1. 官方组件
 
 1. Loader
-    
+    - [html loader module for webpack](https://github.com/vuejs/vue-html-loader)
 2. Router
     - [vue-spa-demo](https://github.com/lazyhero/vue-spa-demo)
 3. Vuex
     - [vuex](http://vuex.vuejs.org/zh-cn/intro.html)
 4. Ajax
-   - [vue + ajax](https://github.com/vuejs/vue-hackernews/blob/gh-pages/src/components/NewsView.vue#L61)
-   - [vue + ajax](https://github.com/vuejs/vue-resource)
-   - [vue-async-data](https://github.com/vuejs/vue-async-data)  
+    - [vue + ajax](https://github.com/vuejs/vue-hackernews/blob/gh-pages/src/components/NewsView.vue#L61)
+    - [vue + ajax](https://github.com/vuejs/vue-resource)
+    - [vue-async-data](https://github.com/vuejs/vue-async-data)  
+5. Vue-cli
+    - [Simple CLI for scaffolding Vue.js projects](https://github.com/vuejs/vue-cli)    
+   
      
 #### 2. 其它组件
 
