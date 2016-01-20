@@ -839,6 +839,7 @@
 - [nodejs cms](http://ourjs.com/detail/53e1f281c5910a9806000001)
 - [Node初学者入门，一本全面的NodeJS教程](http://ourjs.com/detail/529ca5950cb6498814000005)
 - [NodeJS的代码调试和性能调优](http://www.barretlee.com/blog/2015/10/07/debug-nodejs-in-command-line/)
+- [runs Node.js programs through Chromium DevTools](https://github.com/Jam3/devtool)
 
 ###十. 性能优化
 
@@ -1095,6 +1096,7 @@
         - [Chrome渲染分析之Rendering工具使用(2)](http://www.ghugo.com/chrome-rendering-tools-2/)
         - [Chrome渲染分析之Rendering工具使用(3)](http://www.ghugo.com/chrome-rendering-tools-3/)
         - [像 Sublime Text 一样使用 Chrome DevTools](http://chinagdg.org/2015/12/%E5%83%8F-sublime-text-%E4%B8%80%E6%A0%B7%E4%BD%BF%E7%94%A8-chrome-devtools/)
+        - [Chorme 35个开发者工具的小技巧](http://www.w3cplus.com/tools/dev-tips.html)
 
     3. Firebug
         - [firebug视频教程](http://www.imooc.com/learn/137)
