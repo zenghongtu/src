@@ -31,7 +31,7 @@
 1. router
     - [vue-router文档](http://router.vuejs.org/zh-cn/index.html)
 
-###二. 组件
+###三. 组件
 
 1. UI类
     - [VueStrap：使用 Vue.js 和纯 JavaScript 构建的 Bootstrap 组件](https://github.com/yuche/vue-strap)
@@ -60,7 +60,8 @@
     - [图片的lazyload](https://github.com/hilongjw/vue-lazyload)
 10. 表格
      - [ZEE大神作品 - vue-editable](https://github.com/jinzhe/vue-editable)
-###三. 示例
+     
+###四. 示例
 
 1. 综合示例
     - [Vue, vue-router, Webpack 和 vue-loader](https://github.com/vingojw/vue-vueRouter-webpack)    
@@ -77,13 +78,16 @@
 4. 其它
     - [Ant Design 的 Vue 实现](http://okoala.github.io/vue-antd/#!/docs/introduce)
 
-###四. 开发工具相关
+###五. 开发工具相关
     
 1. Atom
     - [如何发布一个Atom的package](http://www.jianshu.com/p/98f99c20493c)
-2. SublimeText
+2. Sublime-text
     - []()
-###五. 教程
+3. Webstorm
+    - [webstorm添加*.vue文件支持](http://www.lred.me/2016/01/07/webstorm%E6%B7%BB%E5%8A%A0-vue%E6%96%87%E4%BB%B6%E6%94%AF%E6%8C%81/)    
+    
+###六. 教程
     
 1. 中文教程
     - [Vue.js为什么不支持templateUrl模式](http://www.jianshu.com/p/7f7f050c9edf)
@@ -91,11 +95,11 @@
 2. 英文教程
     - [Learning Vue 1.0: Step By Step](https://laracasts.com/series/learning-vue-step-by-step/)
 
-###六. 源码学习
+###七. 源码学习
 
 - [Vue.js 源码学习笔记](http://jiongks.name/blog/vue-code-review)
 
-###六. 框架相关
+###八. 框架相关
 
  - [尤小右 - 4-1 Vue.js-数据驱动的组件化前端开...](http://www.imooc.com/video/6346)
  - [Evan You - Diving Deep into Vue.js](https://simplecast.fm/s/5e60d9be)
