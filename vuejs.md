@@ -42,8 +42,8 @@
 
 #### 1. 官方组件
 
-1. loader
-    - [【vue】vue组件化开发初体验-示例vue-loader-example学习记录](http://segmentfault.com/a/1190000004060034)
+1. Loader
+    
 2. Router
     - [vue-spa-demo](https://github.com/lazyhero/vue-spa-demo)
 3. Vuex
@@ -76,10 +76,11 @@
     - [vue 进度条](https://github.com/greyby/vue-spinner)
 8. 验证
     - [Validator component for VueJS](https://github.com/vuejs/vue-validator)
-9. lazyload    
+9. Lazyload    
     - [图片的lazyload](https://github.com/hilongjw/vue-lazyload)
-10. 
-     
+10. Loader 
+    - [【vue】vue组件化开发初体验-示例vue-loader-example学习记录](http://segmentfault.com/a/1190000004060034)
+    
 ###四. 示例
 
 1. 综合示例
@@ -100,6 +101,7 @@
     - [vue tab](http://yuche.github.io/vue-strap/#tabs)
 7. 其它
     - [Ant Design 的 Vue 实现](http://okoala.github.io/vue-antd/#!/docs/introduce)
+    - [基于vue.js重写Cnodejs.org社区的webapp](https://github.com/shinygang/Vue-cnodejs)
 
 ###五. 开发工具相关
     
