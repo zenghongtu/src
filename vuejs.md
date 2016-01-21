@@ -123,6 +123,7 @@
 1. Atom
     - [atom vue 代码高亮](https://github.com/CYBAI/language-vue-component)
     - [如何发布一个Atom的package](http://www.jianshu.com/p/98f99c20493c)
+    - [vue-format](https://atom.io/packages/vue-format)
 2. Sublime-text
     - [Vue Syntax Highlight](https://github.com/vuejs/vue-syntax-highlight)
 3. Webstorm
