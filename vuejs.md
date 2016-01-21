@@ -1,5 +1,6 @@
 # Vuejs-QQ群交流(492107297)
 ![联盟群](http://box.kancloud.cn/2016-01-21_56a04687e4225.jpg)
+
 阅读此群规之前先学习总群群规：[联盟群群规](http://www.kancloud.cn/jikeytang/qq/87646)，没有加入的可以私聊群主[豪情](http://jikey.cnblogs.com)加入。
 
 跟Vuejs群的区别：
