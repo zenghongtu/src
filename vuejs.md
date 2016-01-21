@@ -127,6 +127,7 @@
 ###七. 源码学习
 
 - [Vue.js 源码学习笔记](http://jiongks.name/blog/vue-code-review)
+- [VUE 源码分析](http://www.cnblogs.com/sskyy/p/3695003.html)
 
 ###八. 框架相关
 
