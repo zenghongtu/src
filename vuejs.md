@@ -1,9 +1,7 @@
-# Vuejs-QQ群交流(492107297) 资料
+# Vuejs-QQ群交流(492107297)
 
-[GITHUB在线地址](http://t.cn/RL2NtqX) `http://t.cn/RL2NtqX`
-
-[看云在线地址](http://t.cn/RUdaGHn) `http://t.cn/RUdaGHn`
-
+此群交流风格参考：[联盟群群规](https://github.com/jsfront/src/blob/master/qq.md)
+核心点：禁止闲聊，禁止技术无关的讨论，禁止技术无关大表情
 ---
 
 ###如何优雅地使用此文档
