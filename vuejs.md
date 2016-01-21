@@ -32,9 +32,9 @@
     
 ###二. 文档
 
-1. API
+- API
     - [Vue.js - API](http://cn-stage.vuejs.org/api/)
-2. router
+- router
     - [vue-router文档](http://router.vuejs.org/zh-cn/index.html)
 
 ###三. 组件
