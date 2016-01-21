@@ -75,6 +75,7 @@
 - 分页
     - [vue入门－实现一个分页组件(1.0.3版本)](http://segmentfault.com/a/1190000003931500)
     - [vue(1.0.3) 分页组件](https://github.com/cycgit/vue-pagination)
+    - [分页组件 -- 命令方式，支持多个，主要靠配置](https://www.npmjs.com/package/vue-pagination)
 - 移动
     - [Touch component for Vue.js](https://github.com/vuejs/vue-touch)
     - [vue的tap手势插件](https://github.com/MeCKodo/vue-tap)
