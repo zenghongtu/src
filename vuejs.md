@@ -1,6 +1,6 @@
 # Vuejs-QQ群交流(492107297)
 
-此群交流风格参考：[联盟群群规](https://github.com/jsfront/src/blob/master/qq.md)
+阅读此群规之前先学习总群群规：[联盟群群规](http://www.kancloud.cn/jikeytang/qq/87646)，没有加入的可以私聊我加入。跟Vuejs群的异：综合性话题，技术性，产品，市场等等。同：都是高质量技术交流群
 
 核心点：禁止闲聊，禁止技术无关的讨论，禁止技术无关的大表情
 ----
