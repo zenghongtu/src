@@ -59,6 +59,7 @@
 
 - UI类
     - [VueStrap：使用 Vue.js 和纯 JavaScript 构建的 Bootstrap 组件](https://github.com/yuche/vue-strap)
+    - [针对 Vue 框架移植的 We UI 框架的适配，让 mobile开发过程成为一种享受](https://github.com/aidenzou/vue-weui)
     - [vue bootstrap](http://yuche.github.io/vue-strap/)
     - [基于Vue、Bootstrap的一套MVVM组件，简单、易用、功能强大](https://github.com/bravf/VueUI)
 - 表格
