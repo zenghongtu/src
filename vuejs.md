@@ -88,23 +88,23 @@
      
 ###四. 示例
 
-1. 综合示例
+- 综合示例
     - [官方例子 - 包括Markdown编辑器，表格组件等](http://cn-stage.vuejs.org/examples/)    
     - [Vue, vue-router, Webpack 和 vue-loader](https://github.com/vingojw/vue-vueRouter-webpack)    
     - [简单的vuejs例子 - 群内高手X-Roy大作](https://github.com/KennyWho/vue-chestnut)    
-2. Ajax
+- Ajax
     - [A Vue.js component for creating simple AJAX forms.](https://github.com/james2doyle/vue-ajax-form-component)
-2. Webpack
+- Webpack
     - [Vue + webpack 项目实践](http://jiongks.name/blog/just-vue/)
     - [基于vue.js和webpack的Chat示例](http://segmentfault.com/a/1190000003630417)
     - [Vue.js 和 Webpack（一）](http://djyde.github.io/2015/08/29/vuejs-and-webpack-1/)
     - [Vue.js 和 Webpack（二）](http://djyde.github.io/2015/08/30/vuejs-and-webpack-2/)
     - [Vue.js 和 Webpack（三）](http://djyde.github.io/2015/08/31/vuejs-and-webpack-3/)
-3. Gulp
+- Gulp
     - [vue-gulp-webpack单页面组件开发](https://github.com/JsAaron/vue-gulp-webpack)
-4. Tab
+- Tab
     - [vue tab](http://yuche.github.io/vue-strap/#tabs)
-7. 其它
+- 其它
     - [Ant Design 的 Vue 实现](http://okoala.github.io/vue-antd/#!/docs/introduce)
     - [基于vue.js重写Cnodejs.org社区的webapp](https://github.com/shinygang/Vue-cnodejs)
 
