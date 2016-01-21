@@ -2,7 +2,7 @@
 [GITHUB在线地址](http://t.cn/RL2NtqX) `http://t.cn/RL2NtqX`
 [看云在线地址](http://t.cn/RUdaGHn) `http://t.cn/RUdaGHn`
 
-![联盟群](http://box.kancloud.cn/2016-01-21_56a04687e4225.jpg)
+![联盟群](http://box.kancloud.cn/2016-01-21_56a04aa7296c5.jpg)
 这是我们联盟群的组织结构，加入等级参考[JS高级前端开发群加群说明](http://www.cnblogs.com/jikey/p/4426105.html)。
 
 这本来是我QQ群内部的一份公共约定的日常交流规则，后来得到大伙的一致认可，并用实际行动来捍卫它，使我倍受感动。
