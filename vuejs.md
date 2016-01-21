@@ -41,17 +41,17 @@
 
 #### 1. 官方组件
 
-1. Loader
+- Loader
     - [html loader module for webpack](https://github.com/vuejs/vue-html-loader)
-2. Router
+- Router
     - [vue-spa-demo](https://github.com/lazyhero/vue-spa-demo)
-3. Vuex
+- Vuex
     - [vuex](http://vuex.vuejs.org/zh-cn/intro.html)
-4. Ajax
+- Ajax
     - [vue + ajax](https://github.com/vuejs/vue-hackernews/blob/gh-pages/src/components/NewsView.vue#L61)
     - [vue + ajax](https://github.com/vuejs/vue-resource)
     - [vue-async-data](https://github.com/vuejs/vue-async-data)  
-5. Vue-cli
+- Vue-cli
     - [Simple CLI for scaffolding Vue.js projects](https://github.com/vuejs/vue-cli)    
    
      
