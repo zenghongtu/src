@@ -57,32 +57,34 @@
      
 #### 2. 其它组件
 
-1. UI类
+- UI类
     - [VueStrap：使用 Vue.js 和纯 JavaScript 构建的 Bootstrap 组件](https://github.com/yuche/vue-strap)
     - [vue bootstrap](http://yuche.github.io/vue-strap/)
     - [基于Vue、Bootstrap的一套MVVM组件，简单、易用、功能强大](https://github.com/bravf/VueUI)
-2. 表格
+- 表格
     - [ZEE大神作品 - vue-editable](https://github.com/jinzhe/vue-editable)
-3. 分页
+- 分页
     - [vue入门－实现一个分页组件(1.0.3版本)](http://segmentfault.com/a/1190000003931500)
     - [vue(1.0.3) 分页组件](https://github.com/cycgit/vue-pagination)
-4. 移动
+- 移动
     - [Touch component for Vue.js](https://github.com/vuejs/vue-touch)
     - [vue的tap手势插件](https://github.com/MeCKodo/vue-tap)
-5. 微信
+- 微信
     - [为微信Web服务量身设计](http://aidenzou.github.io/vue-weui/)
-6. 日历
+- 日历
     - [ZEE大神作品 - vue-calendar](https://github.com/jinzhe/vue-calendar)
     - [Awe - 日历组件](https://github.com/hilongjw/vue-datepicker)
-7. 进度条
+- 进度条
     - [vue 进度条](https://github.com/greyby/vue-spinner)
-8. 验证
+- 验证
     - [Validator component for VueJS](https://github.com/vuejs/vue-validator)
-9. Lazyload    
+- Lazyload    
     - [图片的lazyload](https://github.com/hilongjw/vue-lazyload)
-10. Loader 
+- Loader 
     - [【vue】vue组件化开发初体验-示例vue-loader-example学习记录](http://segmentfault.com/a/1190000004060034)
-    
+- Uploader
+     - [vue-file-upload](https://www.npmjs.com/package/vue-file-upload)
+     - [vue-file-upload-component](https://www.npmjs.com/package/vue-file-upload-component)
 ###四. 示例
 
 1. 综合示例
