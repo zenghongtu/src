@@ -101,6 +101,7 @@
     - [官方例子 - 包括Markdown编辑器，表格组件等](http://cn-stage.vuejs.org/examples/)    
     - [Vue, vue-router, Webpack 和 vue-loader](https://github.com/vingojw/vue-vueRouter-webpack)    
     - [简单的vuejs例子 - 群内高手X-Roy大作](https://github.com/KennyWho/vue-chestnut)    
+    - [vue single page app example](https://github.com/toplan/vue-spa-example)    
 - Ajax
     - [A Vue.js component for creating simple AJAX forms.](https://github.com/james2doyle/vue-ajax-form-component)
 - Webpack
