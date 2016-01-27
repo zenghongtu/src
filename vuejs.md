@@ -134,6 +134,7 @@
 - [实现了vuejs组件之间的通讯问题](https://github.com/jrainlau/vuejs-demo)
 - [国内有哪些公司在用Vue.js，有什么心得](https://www.zhihu.com/question/38213423)
 - [vue 支持服务器端渲染吗](https://www.zhihu.com/question/39149401)
+- [Vue.js 和 Webpack](http://div.io/topic/1343)
         
 ###七. 源码学习
 
