@@ -53,7 +53,7 @@
     - [html loader module for webpack](https://github.com/vuejs/vue-html-loader)
 - Router
     - [vue-spa-demo](https://github.com/lazyhero/vue-spa-demo)
-- Vuex
+- Vuex：专门为 Vue.js 应用设计的状态管理架构
     - [vuex](http://vuex.vuejs.org/zh-cn/intro.html)
 - Ajax
     - [vue + ajax](https://github.com/vuejs/vue-hackernews/blob/gh-pages/src/components/NewsView.vue#L61)
