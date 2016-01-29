@@ -510,21 +510,39 @@
 
 ####1. 各大公司开源项目
 
-- [Facebook Projects](https://code.facebook.com/projects/web/)
-- [百度web前端研发部](http://fex.baidu.com/)
-- [百度EFE](http://efe.baidu.com/)
-- [百度github](https://github.com/fex-team/)
-- [alloyteam](http://www.alloyteam.com/)
-- [alloyteam-github](http://alloyteam.github.io/)
-- [alloyteam-AlloyGameEngine](https://github.com/AlloyTeam/AlloyGameEngine)
-- [AlloyDesigner](http://alloyteam.github.io/AlloyDesigner/) 即时修改，即时保存，设计稿较正，其它开发辅助工具
-- [H5交互页编辑器AEditor介绍](http://www.alloyteam.com/2015/06/h5-jiao-hu-ye-bian-ji-qi-aeditor-jie-shao/) H5动画交互页开发的工具介绍
-- [AEditor](http://aeditor.alloyteam.com/) H5动画交互页开发的工具
-- [maka](http://forum.maka.im/wordpress/)
-- [值得订阅的weekly](https://github.com/fenbility/weekly-feed)
-- [腾讯html5](http://cube.qq.com/)
-- [奇舞团开源项目](http://75team.github.io/)
-- [Qunar UED](http://ued.qunar.com/)
+- Facebook
+    
+    - [Facebook Projects](https://code.facebook.com/projects/web/)
+
+- 百度 Baidu
+    
+    - [百度web前端研发部](http://fex.baidu.com/)
+    - [百度EFE](http://efe.baidu.com/)
+    - [百度github](https://github.com/fex-team/)
+
+- 腾讯 qq
+
+    - [alloyteam](http://www.alloyteam.com/)
+    - [alloyteam-github](http://alloyteam.github.io/)
+    - [alloyteam-AlloyGameEngine](https://github.com/AlloyTeam/AlloyGameEngine)
+    - [AlloyDesigner](http://alloyteam.github.io/AlloyDesigner/) 即时修改，即时保存，设计稿较正，其它开发辅助工具
+    - [H5交互页编辑器AEditor介绍](http://www.alloyteam.com/2015/06/h5-jiao-hu-ye-bian-ji-qi-aeditor-jie-shao/) H5动画交互页开发的工具介绍
+    - [AEditor](http://aeditor.alloyteam.com/) H5动画交互页开发的工具
+    - [腾讯html5](http://cube.qq.com/)
+    - [腾讯开源项目](http://tencentopen.github.io)
+    
+- 奇舞团
+    
+    - [奇舞团开源项目](http://75team.github.io/)
+
+- 去哪儿     
+    
+    - [Qunar UED](http://ued.qunar.com/)
+    
+- 其它    
+
+    - [maka](http://forum.maka.im/wordpress/)
+    - [值得订阅的weekly](https://github.com/fenbility/weekly-feed)
 
 ####2. Javascript
 
