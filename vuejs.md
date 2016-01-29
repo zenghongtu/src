@@ -95,6 +95,8 @@
 - Uploader
      - [vue-file-upload](https://www.npmjs.com/package/vue-file-upload)
      - [vue-file-upload-component](https://www.npmjs.com/package/vue-file-upload-component)
+- Slide
+     - [vue-onlySlider-x](https://github.com/guan6/vue-onlySlider-x)
      
 ###四. 示例
 
