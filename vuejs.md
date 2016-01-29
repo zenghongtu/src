@@ -142,6 +142,7 @@
 
 - [Vue.js 源码学习笔记](http://jiongks.name/blog/vue-code-review)
 - [VUE 源码分析](http://www.cnblogs.com/sskyy/p/3695003.html)
+- [vue源码分析之如何实现observer和watcher](http://segmentfault.com/a/1190000004384515)
 
 ###八. 框架相关
 
