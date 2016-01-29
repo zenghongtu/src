@@ -1,4 +1,4 @@
-# Vuejs-QQ群(492107297)
+# Vuejs-QQ群(364912432)
 
 ![联盟群](http://box.kancloud.cn/2016-01-21_56a04aa7296c5.jpg)
 
