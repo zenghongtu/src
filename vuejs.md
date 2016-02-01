@@ -84,7 +84,7 @@
     - [vue(1.0.3) 分页组件](https://github.com/cycgit/vue-pagination)
     - [分页组件 -- 命令方式，支持多个，主要靠配置](https://www.npmjs.com/package/vue-pagination)
 - 移动
-    - [Touch component for Vue.js](https://github.com/vuejs/vue-touch)
+    - [Hammer.js wrapper for Vue.js](https://github.com/vuejs/vue-touch)
     - [vue的tap手势插件](https://github.com/MeCKodo/vue-tap)
 - 微信
     - [为微信Web服务量身设计](http://aidenzou.github.io/vue-weui/)
@@ -95,6 +95,7 @@
     - [vue 进度条](https://github.com/greyby/vue-spinner)
 - 验证
     - [Validator component for VueJS](https://github.com/vuejs/vue-validator)
+    - [form validator for vue 0.11](https://github.com/xrado/vue-validator)
 - Lazyload    
     - [图片的lazyload](https://github.com/hilongjw/vue-lazyload)
 - Loader 
