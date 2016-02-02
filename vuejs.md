@@ -78,6 +78,7 @@
     - [针对 Vue 框架移植的 We UI 框架的适配，让 mobile开发过程成为一种享受](https://github.com/aidenzou/vue-weui)
     - [vue bootstrap](http://yuche.github.io/vue-strap/)
     - [基于Vue、Bootstrap的一套MVVM组件，简单、易用、功能强大](https://github.com/bravf/VueUI)
+    - [用VUE 和 SUI-Mobile 写了一个移动端demo - vue-sui-demo](https://github.com/eteplus/vue-sui-demo)
 - 表格
     - [ZEE大神作品 - vue-editable](https://github.com/jinzhe/vue-editable)
 - 分页
@@ -116,6 +117,7 @@
     - [Vue, vue-router, Webpack 和 vue-loader](https://github.com/vingojw/vue-vueRouter-webpack)    
     - [简单的vuejs例子 - 群内高手X-Roy大作](https://github.com/KennyWho/vue-chestnut)    
     - [vue single page app example](https://github.com/toplan/vue-spa-example)    
+    - [使用node+vue.js实现SPA应用](http://segmentfault.com/a/1190000004372736)    
 - Ajax
     - [A Vue.js component for creating simple AJAX forms.](https://github.com/james2doyle/vue-ajax-form-component)
 - Webpack
