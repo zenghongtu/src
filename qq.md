@@ -34,7 +34,7 @@
 3. 没有图片的代码建议发：
 
     - [http://www.jsbin.com](http://www.jsbin.com)
-    [http://w3cshare.com/jsbin-editor/](http://w3cshare.com/jsbin-editor/) jsbin的用法
+    [一款优秀的在线编辑器：JsBin [使用教程]](http://www.cnblogs.com/rammstein/p/4039690.html)
     优点：不需要登录，即发即预览
     缺点：速度不靠谱
     - [http://runjs.cn/](http://runjs.cn/)
