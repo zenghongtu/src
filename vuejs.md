@@ -106,6 +106,8 @@
      - [vue-file-upload-component](https://www.npmjs.com/package/vue-file-upload-component)
 - Slide
      - [vue-onlySlider-x](https://github.com/guan6/vue-onlySlider-x)
+- Drag
+     - [vue-drag-and-drop](https://github.com/james2doyle/vue-drag-and-drop)
      
 ###四. 示例
 
