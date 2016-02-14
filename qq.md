@@ -491,6 +491,7 @@
     - [网易前端开发规范](http://nec.netease.com/standard)
     - [css模块](http://www.75team.com/archives/1049)
     - [前端规范资源列表](https://github.com/ecomfe/spec)
+    - [前端JavaScript规范](http://greengerong.com/blog/2015/05/09/qian-duan-javascriptgui-fan/)
 
 2. Nodejs
 
