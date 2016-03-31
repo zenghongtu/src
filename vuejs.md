@@ -135,6 +135,7 @@
 - 其它
     - [Ant Design 的 Vue 实现](http://okoala.github.io/vue-antd/#!/docs/introduce)
     - [基于vue.js重写Cnodejs.org社区的webapp](https://github.com/shinygang/Vue-cnodejs)
+    - [北京-giscafer - vue+webpack+node.js 价格监测应用](https://github.com/giscafer/Ponitor)
 
 ###五. 开发工具相关
     
