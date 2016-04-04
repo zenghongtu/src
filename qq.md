@@ -1068,6 +1068,7 @@
     - [Atom飞行手册（中文版）](https://www.gitbook.com/book/wizardforcel/atom-flight-manual-zh-cn/details)
     - [Atom-vue代码高亮](https://github.com/CYBAI/language-vue-component)
     - [visual studio code](https://code.visualstudio.com/)
+    - [visual studio code 使用指南](http://i5ting.github.io/vsc/)
 
 2. Chrome, Firebug, Filddle 调试
 
