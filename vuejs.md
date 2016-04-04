@@ -162,6 +162,7 @@
 - [VUE 源码分析](http://www.cnblogs.com/sskyy/p/3695003.html)
 - [vue源码分析之如何实现observer和watcher](http://segmentfault.com/a/1190000004384515)
 - [vue源码解析之一：transition](https://segmentfault.com/a/1190000004670036)
+- [Vue源码学习 Vue.js v1.0.18](https://github.com/JsAaron/vue-analysis)
 
 ###八. 框架相关
 
