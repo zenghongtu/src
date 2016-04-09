@@ -818,6 +818,7 @@
 - [js 在线编辑 - jsbin](http://jsbin.com/)
 - [js 在线编辑 - codepen](http://codepen.io/)
 - [js 在线编辑 - jsfiddle](http://jsfiddle.net/)
+- [phpfiddle](http://phpfiddle.org/)
 - [java 在线编辑 - ideone](http://ideone.com/)
 - [js 在线编辑 - hcharts](http://code.hcharts.cn/)
 - [js 在线编辑 - jsdm](http://jsdm.com/)
