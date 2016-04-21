@@ -199,6 +199,7 @@
     - [runoob.com-包含各种API集合](http://www.runoob.com/)
     - [开源中国在线API文档合集](http://tool.oschina.net/apidocs)
     - [devdocs](http://devdocs.io/) 英文综合API网站
+    - [overapi](http://overapi.com/) 英文综合API网站
 
 ####2. jQuery
 
