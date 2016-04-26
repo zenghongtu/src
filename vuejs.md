@@ -39,6 +39,7 @@
 
 3. 英文教程
     - [Learning Vue 1.0: Step By Step](https://laracasts.com/series/learning-vue-step-by-step/)
+    - [vue Learning Tutorials](https://coligo.io/)
 
 4. 社区
     - [sf - vue标签](http://segmentfault.com/t/vue.js)
