@@ -133,6 +133,8 @@
     - [vue-gulp-webpack单页面组件开发](https://github.com/JsAaron/vue-gulp-webpack)
 - Tab
     - [vue tab](http://yuche.github.io/vue-strap/#tabs)
+- Shopping
+    - [基于Vue模仿蘑菇街的单页应用](https://github.com/andylei18/vue-shopping)
 - 其它
     - [Ant Design 的 Vue 实现](http://okoala.github.io/vue-antd/#!/docs/introduce)
     - [基于vue.js重写Cnodejs.org社区的webapp](https://github.com/shinygang/Vue-cnodejs)
