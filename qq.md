@@ -164,9 +164,9 @@
 
 5. 慕课专题
 
-    - [张鑫旭 - 慕课系列](http://www.imooc.com/space/teacher/id/197450)
-    - [lyn - 慕课系列](http://www.imooc.com/space/teacher/id/104593)
-    - [艾伦 - 慕课系列](http://www.imooc.com/space/teacher/id/290139)
+    - [张鑫旭 - 慕课系列](http://www.imooc.com/u/197450/courses?sort=publish)
+    - [lyn - 慕课系列](http://www.imooc.com/u/104593/courses?sort=publish)
+    - [艾伦 - 慕课系列](http://www.imooc.com/u/290139/courses?sort=publish)
     - [碧仔 - Hello，移动WEB](http://www.imooc.com/view/494)
 
 6. 周刊类
