@@ -102,7 +102,8 @@
     - [form validator for vue 0.11](https://github.com/xrado/vue-validator)
 - Lazyload    
     - [图片的lazyload](https://github.com/hilongjw/vue-lazyload)
-- Loader 
+    - [下拉加载](https://github.com/ElemeFE/vue-loadmore)
+- Loader
     - [【vue】vue组件化开发初体验-示例vue-loader-example学习记录](http://segmentfault.com/a/1190000004060034)
 - Uploader
      - [vue-file-upload](https://www.npmjs.com/package/vue-file-upload)
