@@ -81,6 +81,7 @@
     - [基于Vue、Bootstrap的一套MVVM组件，简单、易用、功能强大](https://github.com/bravf/VueUI)
     - [用VUE 和 SUI-Mobile 写了一个移动端demo - vue-sui-demo](https://github.com/eteplus/vue-sui-demo)
     - [Mobile web UI based on Vue and Weui](https://github.com/airyland/vux)
+    - [Mint UI 基于 Vue.js 的移动端组件库](http://mint-ui.github.io/)
 - 表格
     - [ZEE大神作品 - vue-editable](https://github.com/jinzhe/vue-editable)
 - 分页
