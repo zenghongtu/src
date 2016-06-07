@@ -151,6 +151,7 @@
     - [Vue Syntax Highlight](https://github.com/vuejs/vue-syntax-highlight)
 3. Webstorm
     - [webstorm添加*.vue文件支持](http://www.lred.me/2016/01/07/webstorm%E6%B7%BB%E5%8A%A0-vue%E6%96%87%E4%BB%B6%E6%94%AF%E6%8C%81/)    
+    - [webstorm vue插件](https://plugins.jetbrains.com/plugin/8057?pr=webStorm)
     
 ###六. 答疑
 
