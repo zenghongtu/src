@@ -126,7 +126,6 @@
     - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
     - [前端书籍](https://github.com/dypsilon/frontend-dev-bookmarks)
     - [前端免费书籍大全](https://github.com/vhf/free-programming-books)
-    - [前端知识体系](http://www.cnblogs.com/sb19871023/p/3894452.html)
     - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
     - [智能社 - 精通JavaScript开发](http://study.163.com/course/introduction/224014.htm)
     - [重新介绍 JavaScript（JS 教程）](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
