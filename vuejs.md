@@ -46,6 +46,9 @@
     - [知乎 - vue标签](https://www.zhihu.com/topic/20022242/questions)
     - [Vue.js专业中文社区](http://vue-js.com/)
     - [vue - issues](https://github.com/vuejs/vue/issues)
+
+5. 视频教程
+    - [小凡哥录制视频教程](https://github.com/bhnddowinf/vuejs-learn)
     
 ###二. 文档
 
