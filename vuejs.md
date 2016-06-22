@@ -85,6 +85,7 @@
     - [用VUE 和 SUI-Mobile 写了一个移动端demo - vue-sui-demo](https://github.com/eteplus/vue-sui-demo)
     - [Mobile web UI based on Vue and Weui](https://github.com/airyland/vux)
     - [Mint UI 基于 Vue.js 的移动端组件库](http://mint-ui.github.io/)
+    - [Vue Admin Panel Framework [WIP] ](https://github.com/fundon/vue-admin)
 - 表格
     - [ZEE大神作品 - vue-editable](https://github.com/jinzhe/vue-editable)
 - 分页
