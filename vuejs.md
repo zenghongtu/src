@@ -86,6 +86,7 @@
     - [Mobile web UI based on Vue and Weui](https://github.com/airyland/vux)
     - [Mint UI 基于 Vue.js 的移动端组件库](http://mint-ui.github.io/)
     - [Vue Admin Panel Framework [WIP] ](https://github.com/fundon/vue-admin)
+    - [Vue 的图片轮播组件](https://github.com/qusiba/vue-slider)
 - 表格
     - [ZEE大神作品 - vue-editable](https://github.com/jinzhe/vue-editable)
 - 分页
