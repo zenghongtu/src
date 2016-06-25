@@ -507,6 +507,10 @@
     - [【敏捷开发】Android团队开发规范](http://www.cnblogs.com/lcw/p/3619181.html)
     - [Android 开发规范与应用](http://www.jianshu.com/p/4390f4fe19b3)
 
+5. IOS
+
+    - [Swift Style Guide](https://github.com/linkedin/swift-style-guide)
+
 ###八. 其它收集
 
 ####1. 各大公司开源项目
