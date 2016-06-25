@@ -101,6 +101,7 @@
 - 日历
     - [ZEE大神作品 - vue-calendar](https://github.com/jinzhe/vue-calendar)
     - [Awe - 日历组件](https://github.com/hilongjw/vue-datepicker)
+    - [jas0ncn - 日历组件](https://github.com/jas0ncn/vue-timepicker)
 - 进度条
     - [vue 进度条](https://github.com/greyby/vue-spinner)
 - 验证
