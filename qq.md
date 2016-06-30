@@ -1014,7 +1014,6 @@
 
 2. 模板
 
-    - [不错的个人简历](http://learnshare.github.io/about/index.html)
     - [简历](http://hcy2367.github.io/resume/)
     - [张伦](http://ncuey.sinaapp.com/CrispElite/ )
     - [简历](https://github.com/hacke2/ResumeSample)
