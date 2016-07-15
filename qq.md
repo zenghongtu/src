@@ -629,6 +629,7 @@
 - [ShareSDK 轻松实现社会化功能](http://www.mob.com/#/index) 移动端
 - [友盟分享](http://www.umeng.com/social) 移动端
 - [addthis](http://www.addthis.com/) 国外社交分享
+- [一键分享到各种SNS](http://overtrue.me/share.js/)
 
 ####8. 富文本编辑器
 
