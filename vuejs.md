@@ -35,7 +35,6 @@
 
 2. 入门类
     - [vue 快速入门](http://segmentfault.com/a/1190000003968020)
-    - [收费视频 - Vue.js 中文系列视频教程](https://laravist.com/series/vue-js-1-0-in-action-series) on Laravist
 
 3. 英文教程
     - [Learning Vue 1.0: Step By Step](https://laracasts.com/series/learning-vue-step-by-step/)
