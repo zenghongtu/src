@@ -118,6 +118,8 @@
      - [vue-onlySlider-x](https://github.com/guan6/vue-onlySlider-x)
 - Drag
      - [vue-drag-and-drop](https://github.com/james2doyle/vue-drag-and-drop)
+- 二维码
+     - [vue-qrcode](https://github.com/xiaokaike/vue-qrcode)
      
 ###四. 示例
 
