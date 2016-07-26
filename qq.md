@@ -1126,6 +1126,7 @@
         - [Chrome渲染分析之Rendering工具使用(3)](http://www.ghugo.com/chrome-rendering-tools-3/)
         - [像 Sublime Text 一样使用 Chrome DevTools](http://chinagdg.org/2015/12/%E5%83%8F-sublime-text-%E4%B8%80%E6%A0%B7%E4%BD%BF%E7%94%A8-chrome-devtools/)
         - [Chorme 35个开发者工具的小技巧](http://www.w3cplus.com/tools/dev-tips.html)
+        - [Chrome 实用调试技巧](http://blog.lxjwlt.com/2016/07/23/chrome.html)
 
     3. Firebug
         - [firebug视频教程](http://www.imooc.com/learn/137)
