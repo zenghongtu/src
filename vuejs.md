@@ -120,6 +120,8 @@
      - [vue-drag-and-drop](https://github.com/james2doyle/vue-drag-and-drop)
 - 二维码
      - [vue-qrcode](https://github.com/xiaokaike/vue-qrcode)
+- 省市联动
+    - [Vue 省市区三级联动组件](https://github.com/QingWei-Li/vue-region-picker)
      
 ###四. 示例
 
