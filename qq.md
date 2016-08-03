@@ -774,7 +774,7 @@
 
 ####13. 文件上传
 
-- [百度上传组件](http://fex.baidu.com/webuploader/)
+- [百度上传组件](http://fex-team.github.io/webuploader/)
 - [上传](https://blueimp.github.io/jQuery-File-Upload/)
 - [flash 头像上传](http://www.hdfu.net/)
 - [图片上传预览](http://www.dropzonejs.com/)
