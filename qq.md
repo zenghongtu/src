@@ -140,7 +140,8 @@
     - [前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content/)
     - [前端开发者手册](http://www.kancloud.cn/kancloud/front-end-dev-handbook/75919)
     - [JavaScript 资源大全中文版](https://www.awesomes.cn/)
-    - [Awesomes - 前端资源库](https://github.com/jobbole/awesome-javascript-cn)
+    - [伯乐在线 - 资源大全](https://github.com/jobbole)
+    - [伯乐在线 - 前端资源库](https://github.com/jobbole/awesome-javascript-cn)
 
 2. 入门类
 
