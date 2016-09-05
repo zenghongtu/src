@@ -355,6 +355,7 @@
 
 - [seajs](http://seajs.org/)
 - [seajs 中文手册](http://cyj.me/why-seajs/zh/)
+- [JavaScript模块化开发库之SeaJS](http://www.cnblogs.com/snandy/archive/2012/03/30/2423612.html)
 
 ####13. Less,sass
 
