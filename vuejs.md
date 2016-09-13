@@ -15,9 +15,9 @@
 ----
 
 ###如何优雅地使用此文档
-1. 入门先从官网文档入手，粗略过一遍有个影响，力求回查时能找到对应的关键字或位置。
-    - [中文官网](http://cn-stage.vuejs.org/) 
-    - [vuejs](http://cn.vuejs.org/) 
+1. 入门先从官网文档入手，粗略过一遍有个印象，力求回查时能找到对应的关键字或位置。
+    - [vuejs中文官网](http://cn.vuejs.org/) 
+    - [vuejs英文官网](http://vuejs.org/) 
     - [vuejs组织](https://github.com/vuejs)
 2. 发出一个问题之后，不要暂时的离开电脑，如果没有把握先不要提问。
 3. 珍惜每一次提问，感恩每一次反馈，每个人工作还是业余之外抽出的时间有限，充分准备好应有的资源之后再发问，有利于问题能够高效质量地得到解决。尤其是具备解决问题能力的人，通常时间都很宝贵。
@@ -53,7 +53,7 @@
 ###二. 文档
 
 - API
-    - [Vue.js - API](http://cn-stage.vuejs.org/api/)
+    - [Vue.js - API](http://cn.vuejs.org/api/)
 - router
     - [vue-router文档](http://router.vuejs.org/zh-cn/index.html)
 
