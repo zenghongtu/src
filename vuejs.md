@@ -36,6 +36,9 @@
 
 2. 入门类
     - [vue 快速入门](http://segmentfault.com/a/1190000003968020)
+    - [vuex - 入门教程实例1](https://segmentfault.com/a/1190000005018970)
+    - [vuex - 入门教程实例2](https://segmentfault.com/a/1190000005148935)
+    - [vuex - 入门教程实例3](https://segmentfault.com/a/1190000006988584)
 
 3. 英文教程
     - [Learning Vue 1.0: Step By Step](https://laracasts.com/series/learning-vue-step-by-step/)
@@ -124,8 +127,11 @@
      - [vue-qrcode](https://github.com/xiaokaike/vue-qrcode)
 - 省市联动
     - [Vue 省市区三级联动组件](https://github.com/QingWei-Li/vue-region-picker)
- -TimeLine
-    -[Vue企业级时间轴选择器](https://github.com/yelingfeng/vue-timelinepick)
+- TimeLine
+    - [Vue企业级时间轴选择器](https://github.com/yelingfeng/vue-timelinepick)
+- Template
+    - [vue2.0模板](https://github.com/yelingfeng/vue-ylf-template)
+    - [vue2.0全家桶实例](https://github.com/yelingfeng/vue-2.0-FamilyBucket)
      
 ###四. 示例
 
