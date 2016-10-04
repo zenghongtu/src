@@ -20,7 +20,7 @@ text-align:justify;text-justify:inter-ideogra
 - [去掉Webkit(chrome)浏览器中input(文本框)或textarea的黄色焦点框](http://www.cnblogs.com/niao/archive/2012/09/07/2674511.html)
 ```css
 input,button,select,textarea{ outline:none;}
-textarea{ font-size:13px; resize:none;}
+textarea{ resize:none;}
 ```
 
 - [去掉chrome记住密码后自动填充表单的黄色背景](http://www.tuicool.com/articles/EZ777n )
