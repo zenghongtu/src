@@ -72,6 +72,7 @@
 参考：
 
 - [X-Y 问题](http://coolshell.cn/articles/10804.html)
+- [提问的智慧](https://lug.ustc.edu.cn/wiki/doc/smart-questions)
 - [向别人求助时有哪些「潜」规则？](http://www.zhihu.com/question/21218381)
 - [如何在知乎提一个好问题？](http://www.zhihu.com/question/19555761)
 - [如何优雅地向前辈或者高手请教技术问题？](http://www.zhihu.com/question/25464141)
