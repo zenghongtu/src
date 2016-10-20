@@ -372,3 +372,7 @@ window.addEventListener("onorientationchange" in window ? "orientationchange" : 
         }());
         ```
     
+- 页面的切换使用了page-enter
+```html
+<meta http-equiv="PAGE-ENTER" content="RevealTrans(Duration=0,Transition=1)" />
+```
