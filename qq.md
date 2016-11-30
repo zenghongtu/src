@@ -169,6 +169,7 @@
     - [lyn - 慕课系列](http://www.imooc.com/u/104593/courses?sort=publish)
     - [艾伦 - 慕课系列](http://www.imooc.com/u/290139/courses?sort=publish)
     - [碧仔 - Hello，移动WEB](http://www.imooc.com/view/494)
+	- [haorooms - js/jquery宽高介绍](http://www.imooc.com/learn/608)
 
 6. 周刊类
 
@@ -258,7 +259,11 @@
 - [css3 按钮动画](http://fian.my.id/Waves/)
 - [animate.css](http://daneden.github.io/animate.css/)
 - [全局CSS的终结(狗带) [译]](http://www.alloyteam.com/2015/10/8536/)
+<<<<<<< HEAD
 - [ANIMATION - 大漠](http://www.w3cplus.com/blog/tags/29.html)
+=======
+- [css选择器](http://www.haorooms.com/tools/css_selecter/)
+>>>>>>> 6c9b5c58c8c36c8741883ffb287815a206592ce5
 
 ####7. Angularjs
 
@@ -462,6 +467,10 @@
 - [小胡子哥 - 进阶正则表达式](http://div.io/topic/764?page=1)
 - [is.js](https://github.com/Cedriking/is.js/blob/master/is.js)
 - [正则在线测试](http://regexper.com/)
+<<<<<<< HEAD
+=======
+- [haorooms正则文章](http://www.haorooms.com/search?keyword=%E6%AD%A3%E5%88%99)
+>>>>>>> 6c9b5c58c8c36c8741883ffb287815a206592ce5
 
 ####22. ionic
 
@@ -674,10 +683,14 @@
     - [一个风格多样的日历](https://github.com/glad/glDatePicker)
     - [弹出层式的全日历](http://amsul.ca/pickadate.js/date/)
     - [jquery双日历](http://www.daterangepicker.com/)
+<<<<<<< HEAD
     - [bootstrap-datetimepicker/](http://www.bootcss.com/p/bootstrap-datetimepicker/)
     - [贤心-laydate](http://laydate.layui.com/)
     - [Pikaday-微型日历](http://dbushell.github.io/Pikaday/)
     - [AngularJS datepicker directives](https://github.com/g00fy-/angular-datepicker)
+=======
+    - [周选择日历插件](https://github.com/confidence68/Kalendae)
+>>>>>>> 6c9b5c58c8c36c8741883ffb287815a206592ce5
 
 2. 移动
 
@@ -724,6 +737,7 @@
 
     - [gruntjs](http://gruntjs.com/)
     - [Grunt中文网](http://www.gruntjs.net/)
+	- [Grunt入门教程](http://www.haorooms.com/search?keyword=grunt)
 
 4. Fis
 
@@ -749,6 +763,7 @@
     - [单屏轮播sochange](http://www.jsfoot.com/jquery/demo/2011-09-20/192.html)
     - [左右按钮多图切换](http://bxslider.com/examples/carousel-demystified)
     - [fullpage全屏轮播](https://github.com/alvarotrigo/fullPage.js/)
+	- [haorooms资源库轮播大全](http://resource.haorooms.com/soft-6-1.html)
 
 2. 移动端
 
@@ -804,6 +819,10 @@
 ####16. 城市联动
 
 - [jquery.cityselect.js基于jQuery+JSON的省市或自定义联动效果](http://www.ijquery.cn/?p=360)
+<<<<<<< HEAD
+=======
+- [移动端省市三级联动demo](http://resource.haorooms.com/softshow-33-127-1.html)
+>>>>>>> 6c9b5c58c8c36c8741883ffb287815a206592ce5
 
 ####17. 剪贴板
 
@@ -929,6 +948,10 @@
     - [Why Website Speed is Important](http://sixrevisions.com/web-development/why-website-speed-is-important/)
     - [Need for Speed – How to Improve your Website Performance](http://www.devbridge.com/articles/need-for-speed-how-to-improve-your-website-performance/)
     - [阿里无线前端性能优化指南 (Pt.1 加载期优化) ](https://github.com/amfe/article/issues/1)
+<<<<<<< HEAD
+=======
+    - [前端性能优化补充篇](http://www.haorooms.com/post/qianduan_xnyhbc)
+>>>>>>> 6c9b5c58c8c36c8741883ffb287815a206592ce5
 
 2. 优化工具
 
@@ -1198,6 +1221,7 @@
 - [前端导航](http://fenav.com/)
 - [前端工具箱](http://www.awesomes.cn/)
 - [前端人俱乐部-灵感_Idea](http://f2er.club/)
+- [haorooms前端导航](http://www.haorooms.com/nav)
 
 ###十八. 常用CDN
 
