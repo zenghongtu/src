@@ -161,6 +161,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [lyn - 慕课系列](http://www.imooc.com/space/teacher/id/104593)
     - [艾伦 - 慕课系列](http://www.imooc.com/space/teacher/id/290139)
     - [碧仔 - Hello，移动WEB](http://www.imooc.com/view/494)
+	- [haorooms - js/jquery宽高介绍](http://www.imooc.com/learn/608)
 
 6. 周报类
 
@@ -244,6 +245,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [css3 按钮动画](http://fian.my.id/Waves/)
 - [animate.css](http://daneden.github.io/animate.css/)
 - [全局CSS的终结(狗带) [译]](http://www.alloyteam.com/2015/10/8536/)
+- [css选择器](http://www.haorooms.com/tools/css_selecter/)
 
 ####7. Angularjs
 
@@ -439,7 +441,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [小胡子哥 - 进阶正则表达式](http://div.io/topic/764?page=1)
 - [is.js](https://github.com/Cedriking/is.js/blob/master/is.js)
 - [正则在线测试](http://regexper.com/)
-- []()
+- [haorooms正则文章](http://www.haorooms.com/search?keyword=%E6%AD%A3%E5%88%99)
 
 ####22. ionic
 
@@ -622,6 +624,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [一个风格多样的日历](https://github.com/glad/glDatePicker)
     - [弹出层式的全日历](http://amsul.ca/pickadate.js/date/)
     - [jquery双日历](http://www.daterangepicker.com/)
+    - [周选择日历插件](https://github.com/confidence68/Kalendae)
 
 2. 移动
 
@@ -668,6 +671,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 
     - [gruntjs](http://gruntjs.com/)
     - [Grunt中文网](http://www.gruntjs.net/)
+	- [Grunt入门教程](http://www.haorooms.com/search?keyword=grunt)
 
 4. Fis
 
@@ -681,6 +685,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [单屏轮播sochange](http://www.jsfoot.com/jquery/demo/2011-09-20/192.html)
     - [左右按钮多图切换](http://bxslider.com/examples/carousel-demystified)
     - [fullpage全屏轮播](https://github.com/alvarotrigo/fullPage.js/)
+	- [haorooms资源库轮播大全](http://resource.haorooms.com/soft-6-1.html)
 
 2. 移动端
 
@@ -738,7 +743,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 ####16. 城市联动
 
 - [jquery.cityselect.js基于jQuery+JSON的省市或自定义联动效果](http://www.ijquery.cn/?p=360)
-- []()
+- [移动端省市三级联动demo](http://resource.haorooms.com/softshow-33-127-1.html)
 
 ####17. 剪贴板
 
@@ -852,7 +857,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [Why Website Speed is Important](http://sixrevisions.com/web-development/why-website-speed-is-important/)
     - [Need for Speed – How to Improve your Website Performance](http://www.devbridge.com/articles/need-for-speed-how-to-improve-your-website-performance/)
     - [阿里无线前端性能优化指南 (Pt.1 加载期优化) ](https://github.com/amfe/article/issues/1)
-    - []()
+    - [前端性能优化补充篇](http://www.haorooms.com/post/qianduan_xnyhbc)
 
 2. 优化工具
 
@@ -983,6 +988,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [如何面试前端工程师](http://www.zhihu.com/question/19568008)
 - [前端开发面试题](https://github.com/markyun/My-blog/blob/master/Front-end-Developer-Questions/Questions-and-Answers/README.md)
 - [牛客网-笔试面经](http://www.nowcoder.com/discuss?type=2)
+- [总结前端面试过程中最容易出现的问题](http://www.haorooms.com/post/qianduan_mianshi)
 
 ###十五. iconfont
 
@@ -1106,6 +1112,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [前端开发仓库 - 众多效果的收集地](http://code.ciaoca.com/) 
 - [前端资源导航](https://github.com/jnoodle/f2e-collect)
 - [F2E 前端导航](http://f2e.im/static/pages/nav/index.html)
+- [haorooms前端导航](http://www.haorooms.com/nav)
 
 ###十八. 常用CDN
 

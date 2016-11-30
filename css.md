@@ -352,4 +352,18 @@ window.addEventListener("onorientationchange" in window ? "orientationchange" : 
     - [【原创】移动端高清、多屏适配方案](http://www.html-js.com/article/3041)
     - [6个html5页面适配iphone6的技巧](http://qietuwang.baijia.baidu.com/article/73861)
     - [关于移动端 rem 布局的一些总结](http://segmentfault.com/a/1190000003690140)
+	
+- css相关总结网址
+
+    - [css常用效果总结](http://www.haorooms.com/post/css_common)
+    - [css的不常用效果总结](http://www.haorooms.com/post/css_notuse_common)
+	- [css开发技巧](http://www.haorooms.com/post/css_skill)
+	- [重温css的选择器](http://www.haorooms.com/post/css_selectelement)
+	- [css的变量和继承](http://www.haorooms.com/post/css_inherit_bl)
+	- [css3的混合模式](http://www.haorooms.com/post/css3_mixblendmode)
+	- [css中伪元素before或after中content的特殊用法attr](http://www.haorooms.com/post/content_attr)
+
+	
+	
+
 
