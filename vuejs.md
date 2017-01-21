@@ -92,6 +92,7 @@
     - [Vue 的图片轮播组件](https://github.com/qusiba/vue-slider)
     - [基于vue开发的material design ui库](https://github.com/myronliu347/vue-carbon)
     - [iView：一套基于Vue的高质量UI组件库](http://gold.xitu.io/post/57b535405bbb50006300ffc9)
+    - [iView - 一套基于 Vue.js 的高质量 UI 组件库](https://www.iviewui.com/overview)
 
 - 表格
     - [ZEE大神作品 - vue-editable](https://github.com/jinzhe/vue-editable)
