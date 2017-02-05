@@ -40,7 +40,7 @@ html[xmlns] .clearfix{display:block;}
 * html .clearfix{height:1%;}
 
 .clearfix{*zoom: 1;}
-.clearfix:after{clear:both;display:table;content:"”;}
+.clearfix:after{clear:both;display:table;content:"";}
 
 .clearfix{overflow:hidden;_zoom:1;}
 ```
