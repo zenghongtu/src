@@ -34,13 +34,17 @@ textarea{ resize:none;}
 
 - clearfix
 ```css
+
+.clearfix:before,.clearfix:after{display:table;content:"";}
+.clearfix:after{clear:both;}
+
 .clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0;}
 .clearfix{display:inline-block;}
 html[xmlns] .clearfix{display:block;}
 * html .clearfix{height:1%;}
 
 .clearfix{*zoom: 1;}
-.clearfix:after{clear:both;display:table;content:"”;}
+.clearfix:after{clear:both;display:table;content:"";}
 
 .clearfix{overflow:hidden;_zoom:1;}
 ```
