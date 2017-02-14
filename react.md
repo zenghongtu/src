@@ -28,6 +28,8 @@
 ###一. 资源教程
 
 1. 综合类
+    - [react-redux-links](https://github.com/markerikson/react-redux-links)
+    - [react-faq](https://github.com/timarney/react-faq)
 
 2. 入门类
 
