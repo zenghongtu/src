@@ -1,4 +1,4 @@
-### 以下是群福利书福利书单，仅供参考
+### 以下是群福利书单，仅供参考
 
 - [豆瓣 Javascript 搜索结果](https://www.douban.com/search?cat=1001&q=javascript)
 - [京东 Javascript 搜索结果](http://search.jd.com/Search?keyword=javascript&enc=utf-8&wq=javascript)
@@ -59,7 +59,7 @@
 - [PHP和MySQL Web开发（原书第4版）](http://item.jd.com/10059047.html)
 - [自己动手设计数据库](http://item.jd.com/11769793.html)
 
-# 6.CSS
+# 6. CSS
 - 《CSS揭秘》 [京东地址](http://item.jd.com/11911279.html) [china-pub地址](http://product.china-pub.com/4942111)
 - [图解CSS3：核心技术与案例实战](http://product.china-pub.com/63768)
 
@@ -107,3 +107,10 @@
 
 # 15. 面试
 - [剑指Offer：名企面试官精讲典型编程题(纪念版)](http://product.china-pub.com/3770276)
+
+# 16. Java
+- [Java核心技术　卷Ⅰ　基础知识（原书第10版） ](http://product.china-pub.com/4980491)
+- [Java核心技术 卷II 高级特性(原书第9版)](http://product.china-pub.com/3769475)
+- [Effective Java中文版(第2版)(第12届Jolt震撼大奖获奖图书)(Java领域四大名著之一)](http://product.china-pub.com/195040)
+- [Java编程思想(第4版)(第9届Jolt生产效率大奖、第13届Jolt震撼大奖获奖图书)(经典图书最新版本)](http://product.china-pub.com/34838)
+- [数据结构与算法分析：Java语言描述（原书第3版）](http://product.china-pub.com/4927783)
