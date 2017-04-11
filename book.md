@@ -52,7 +52,7 @@
 - [迈向Angular 2：基于TypeScript的高性能SPA框架](http://product.china-pub.com/4974294)
 - [揭秘Angular 2](http://product.china-pub.com/5054651)
 
-# 5. PHP：
+# 5. PHP
 - [PHP与MySQL程序设计（第4版）](http://item.jd.com/10701892.html)
 - [Web开发技术丛书·深入理解PHP：高级技巧、面向对象与核心技术（原书第3版）](http://item.jd.com/11389753.html)
 - [细说PHP（第2版）（含DVD光盘1张）](http://item.jd.com/11113844.html)
