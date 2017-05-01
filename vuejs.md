@@ -95,6 +95,7 @@
     - [iView - 一套基于 Vue.js 的高质量 UI 组件库](https://www.iviewui.com/overview)
     - [Muse-UI 基于 Vue 2.0 和 Material Desigin 的 UI 组件库](https://museui.github.io/)
     - [Vue,Node管理系统界面](https://github.com/ericjjj/vms)
+    - [vue2 admin / a management system template](https://github.com/PanJiaChen/vue-element-admin)
 
 - 表格
     - [ZEE大神作品 - vue-editable](https://github.com/jinzhe/vue-editable)
