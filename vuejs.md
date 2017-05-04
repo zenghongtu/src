@@ -96,6 +96,8 @@
     - [Muse-UI 基于 Vue 2.0 和 Material Desigin 的 UI 组件库](https://museui.github.io/)
     - [Vue,Node管理系统界面](https://github.com/ericjjj/vms)
     - [vue2 admin / a management system template](https://github.com/PanJiaChen/vue-element-admin)
+    - [全新的 WDUI，助力移动开发](https://wdfe.github.io/wdui/#/)
+    - [手摸手，带你用 vue 撸后台 系列一](https://juejin.im/post/59097cd7a22b9d0065fb61d2)
 
 - 表格
     - [ZEE大神作品 - vue-editable](https://github.com/jinzhe/vue-editable)
@@ -112,6 +114,7 @@
     - [ZEE大神作品 - vue-calendar](https://github.com/jinzhe/vue-calendar)
     - [Awe - 日历组件](https://github.com/hilongjw/vue-datepicker)
     - [jas0ncn - 日历组件](https://github.com/jas0ncn/vue-timepicker)
+    - [基于Vue.2x 的日期选择组件](https://github.com/watson-yan/vue-datepicker)
 - 进度条
     - [vue 进度条](https://github.com/greyby/vue-spinner)
 - 验证
