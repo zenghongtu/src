@@ -98,6 +98,7 @@
     - [vue2 admin / a management system template](https://github.com/PanJiaChen/vue-element-admin)
     - [全新的 WDUI，助力移动开发](https://wdfe.github.io/wdui/#/)
     - [手摸手，带你用 vue 撸后台 系列一](https://juejin.im/post/59097cd7a22b9d0065fb61d2)
+    - [一只基于Vue2.x的移动端&微信UI - YDUI Touch](http://vue.ydui.org/)
 
 - 表格
     - [ZEE大神作品 - vue-editable](https://github.com/jinzhe/vue-editable)
