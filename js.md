@@ -778,7 +778,7 @@ function transform(tranvalue) {
         var dw = new Array("零", "壹", "贰", "叁", "肆", "伍", "陆", "柒", "捌", "玖"); //整数部分用
         //以下是小写转换成大写显示在合计大写的文本框中     
         //分离整数与小数
-        var source = splits(tranvalue);
+        var source = tranvalue.split(".");
         var num = source[0];
         var dig = source[1];
         //转换整数部分
@@ -834,14 +834,5 @@ function transform(tranvalue) {
         return "0元";
     }
     return str;
-}
-//拆分整数与小数
-function splits(tranvalue) {
-    var value = new Array('', '');
-    temp = tranvalue.split(".");
-    for (var i = 0; i < temp.length; i++) {
-        value = temp;
-    }
-    return value;
 }
 ```
