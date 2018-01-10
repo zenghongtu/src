@@ -187,7 +187,6 @@
     - [chrome开发中心（chrome的内核已转向blink）](http://developer.chrome.com/extensions/api_index.html)
     - [safari开发中心](https://developer.apple.com/library/safari/navigation)
     - [microsoft js参考](http://msdn.microsoft.com/zh-cn/library/d1et7k7c(v=vs.94).aspx)
-    - [js秘密花园](http://sanshi.me/articles/JavaScript-Garden-CN/html/index.html)
     - [js秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
     - [w3help](http://www.w3help.org/) 综合Bug集合网站
 
