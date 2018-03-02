@@ -109,6 +109,7 @@
 
 # 15. 面试
 - [剑指Offer：名企面试官精讲典型编程题(纪念版)](http://product.china-pub.com/3770276)
+- [技术之瞳：阿里巴巴技术笔试心得](http://product.china-pub.com/4998571)
 
 # 16. Java
 - [Java核心技术　卷Ⅰ　基础知识（原书第10版） ](http://product.china-pub.com/4980491)
