@@ -64,6 +64,7 @@
 # 6. CSS
 - 《CSS揭秘》 [京东地址](http://item.jd.com/11911279.html) [china-pub地址](http://product.china-pub.com/4942111)
 - [图解CSS3：核心技术与案例实战](http://product.china-pub.com/63768)
+- [CSS世界 - 张鑫旭](https://item.jd.com/12262251.html)
 
 # 7. 其它
 - [私以为可以提高程序员技术档次的书和博客](https://zhuanlan.zhihu.com/p/22151280)
