@@ -44,7 +44,6 @@
 - [HTML5实验室 Canvas世界](http://item.jd.com/1027684138.html)
 - [现货 移动Web手册（双色）](http://item.jd.com/1526419766.html)
 - [HTML5 canvas开发详解(第2版)](http://item.jd.com/11513456.html)
-- [HTML5Canvas游戏开发实战](http://item.jd.com/1267591181.html)
 
 # 4. Angularjs
 - [精通AngularJS](http://item.jd.com/11568614.html)
