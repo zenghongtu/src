@@ -20,24 +20,24 @@ Math.random()*(n-m)+m
 - 复制文本到剪切板
 ```javascript
 function copyToClipboard(data) {
-	    const _tempInput = document.createElement('input')
-	    _tempInput.value = data.value
-	    document.body.appendChild(_tempInput)
-	    _tempInput.select()
-	    document.execCommand('Copy')
-	    document.body.removeChild(_tempInput)
+    const _tempInput = document.createElement('input')
+    _tempInput.value = data.value
+    document.body.appendChild(_tempInput)
+    _tempInput.select()
+    document.execCommand('Copy')
+    document.body.removeChild(_tempInput)
 }
 ```
 
 - 前端生成文件并下载
 ```javascript
 function createAndDownloadFile(fileName, content) {
-            const aTag = document.createElement('a');
-            const blob = new Blob([content]);
-            aTag.download = `${fileName}.json`;
-            aTag.href = URL.createObjectURL(blob);
-            aTag.click();
-            URL.revokeObjectURL(blob);
+    const aTag = document.createElement('a');
+    const blob = new Blob([content]);
+    aTag.download = `${fileName}.json`;
+    aTag.href = URL.createObjectURL(blob);
+    aTag.click();
+    URL.revokeObjectURL(blob);
 }
 ```
 
@@ -691,26 +691,26 @@ Date.prototype.Format = function(formatStr) {
 - 判断日期是否有效
 ```javascript
 function isValidDate(value, userFormat='mm/dd/yyyy') {
-	    const delimiter = /[^mdy]/.exec(userFormat)[0];
-	    const theFormat = userFormat.split(delimiter);
-	    const theDate = value.split(delimiter);
-	    function isDate(date, format) {
-		let m, d, y, i = 0, len = format.length, f;
-		for (i; i < len; i++) {
-		    f = format[i];
-		    if (/m/.test(f)) m = date[i];
-		    if (/d/.test(f)) d = date[i];
-		    if (/y/.test(f)) y = date[i];
-		}
-		return (
-		    m > 0 && m < 13 &&
-		    y && y.length === 4 &&
-		    d > 0 &&
-		    d <= (new Date(y, m, 0)).getDate()
-		);
-	    }
+    const delimiter = /[^mdy]/.exec(userFormat)[0];
+    const theFormat = userFormat.split(delimiter);
+    const theDate = value.split(delimiter);
+    function isDate(date, format) {
+	let m, d, y, i = 0, len = format.length, f;
+	for (i; i < len; i++) {
+	    f = format[i];
+	    if (/m/.test(f)) m = date[i];
+	    if (/d/.test(f)) d = date[i];
+	    if (/y/.test(f)) y = date[i];
+	}
+	return (
+	    m > 0 && m < 13 &&
+	    y && y.length === 4 &&
+	    d > 0 &&
+	    d <= (new Date(y, m, 0)).getDate()
+	);
+    }
 
-	    return isDate(theDate, theFormat);
+    return isDate(theDate, theFormat);
 }
 ```
 
